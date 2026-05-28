@@ -1,0 +1,5 @@
+2025-05-09 15:38:38,724 - root - INFO - logging basic configuration has been set up!
+2025-05-09 15:38:38,724 - root - INFO - Level: 20
+2025-05-09 15:38:38,724 - root - INFO - format: %(asctime)s - %(name)s - %(levelname)s - %(message)s
+2025-05-09 15:38:38,724 - root - INFO - log_directory: ./log
+2025-05-09 15:38:38,724 - root - INFO - log_file_full_path: ./log/convert-k-pai-registrants-to-google-contacts_2025-05-09-15:38:38.log

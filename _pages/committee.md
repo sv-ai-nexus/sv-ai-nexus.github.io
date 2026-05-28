@@ -1,0 +1,461 @@
+---
+last_modified_at: Wed May 27 15:13:28 KST 2026
+layout: single
+title: Nexus Committees
+permalink: /committee/
+toc: false
+toc_label: "&nbsp;Table of Contents"
+toc_icon: "fa-solid fa-list"
+toc_sticky: true
+author_profile: false
+---
+
+<head>
+<style>
+	body {
+		text-align: center;
+	}
+
+	.borderless-table {
+		border-collapse: separate;
+		border-spacing: 0;
+		display: grid;
+		justify-content: center;
+	}
+
+	.borderless-table td, .borderless-table th {
+        font-family: 'Merriweather', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+		padding: 8px 10px;
+		border: none;
+	}
+
+	/* Optional: Add a subtle visual separator without borders */
+	/*
+	.borderless-table tr:not(:last-child) td {
+		border-bottom: 1px solid #f0f0f0;
+	}
+	*/
+
+	.role {
+		text-align: right;
+	}
+
+	.kor-name {
+		text-align: center;
+	}
+
+	.eng-name {
+		text-align: left;
+	}
+</style>
+</head>
+
+# Board of Directors {#board-of-directors}
+
+<table class="borderless-table">
+<tr>
+<td class="role" style="color: #0000bb;">
+	Board Chair
+</td>
+<td id="sunghee" class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	AI Master
+</td>
+<td class="kor-name">
+	황민하
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/minha-hwang-7440771/">Minha Hwang</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Marketing Leader
+</td>
+<td class="kor-name">
+	김수연
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/suekimpr/">Sue Kim</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Legal Affairs Advisor
+</td>
+<td class="kor-name">
+	송영욱
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Legal Affairs Advisor
+</td>
+<td class="kor-name" id="jeff">
+	이보형
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;" id="hospitality-and-catering-director">
+	Community Engagement Chair
+</td>
+<td class="kor-name">
+	정미숙
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
+</td>
+</tr>
+</table>
+
+# Vision &amp; Principles Committee {#vision-and-principles-committee}
+
+<table class="borderless-table">
+<tr>
+<td class="role" style="color: #0000bb;">
+	Committee Chair
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+</td>
+<td class="kor-name">
+	성종민
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/jongmin-sung/">Jongmin Sung</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+</td>
+<td class="kor-name">
+	정미숙
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+</td>
+<td class="kor-name">
+	송영욱
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+</td>
+<td class="kor-name">
+	이보형
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
+</td>
+</tr>
+</table>
+
+# Tech &amp; Social Media Committee {#tech-and-social-media-committee}
+
+<table class="borderless-table">
+<tr>
+<td class="role" style="color: #0000bb;">
+	Committee Chair
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Marketing Leader
+</td>
+<td class="kor-name">
+	김수연
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/suekimpr/">Sue Kim</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	UI/UX Lead
+</td>
+<td class="kor-name" id="soo">
+	김수연
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/callmesoo/">Soo Kim</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Website &amp; Content Lead
+</td>
+<td class="kor-name">
+	박수민
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/soominpark04/">Soomin Park</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Social Media Manager
+</td>
+<td class="kor-name">
+	이가은
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/gaeun-kelly-lee/">Gaeun Lee</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Website &amp; Content Lead
+</td>
+<td class="kor-name">
+	정주영
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Tech Leader
+</td>
+<td class="kor-name">
+	황민하
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/minha-hwang-7440771/">Minha Hwang</a>
+</td>
+</tr>
+</table>
+
+# Program &amp; Content Committee {#program-and-content-committee}
+
+<table class="borderless-table">
+<tr>
+<td class="role" style="color: #0000bb;">
+	Nexus Leader
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	KOTRA SV Liaison
+</td>
+<td class="kor-name">
+	김해윤
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/haeyunkimsv/">Haeyun Kim</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Stanford Liaison
+</td>
+<td class="kor-name">
+	배재혁
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/jaehyeok-bae-57b866218/">Jaehyeok Bae</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	선우동훈
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/sunwoodonghoon/">Kain Sunwoo</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;" id="legal-affairs-advisor">
+	Legal Affairs Advisor
+</td>
+<td class="kor-name">
+	송영욱
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Legal Affairs Advisor
+</td>
+<td class="kor-name">
+	이보형
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	K-BioX Liaison
+</td>
+<td class="kor-name">
+	이시연
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/siyeon-rhee-39449642/">Siyeon Rhee</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	이은진
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/leeeunjin/">EunJin Lee</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	이주현
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/joohyeun-julia-yi/">Joohyeun Yi</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Stanford Liaison
+</td>
+<td class="kor-name">
+	장하군
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/hagoon-jang-79766a54/">Hagoon Jang</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;" id="hospitality-and-catering-director">
+	Community Engagement Chair
+</td>
+<td class="kor-name">
+	정미숙
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Stanford Liaison
+</td>
+<td class="kor-name">
+	정세희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/sehui-jeong-0509241a4/">Sehui Jeong</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	K-ASIC Liaison
+</td>
+<td class="kor-name">
+	진재현
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/austinnnjin/">Austin Jin</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	최경환
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/kywch/">Kyoung Whan Choe</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	KOTRA SV Liaison
+</td>
+<td class="kor-name">
+	최세영
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/seyoung-choi-060670286/">Seyoung Choi</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	허예랑
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Daniel Hur</a>
+</td>
+</tr>
+</table>
+
+# AI &amp; Humanity Council {#ai-and-humanity-council}
+
+<table class="borderless-table">
+<tr>
+<td class="role" style="color: #0000bb;">
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+</td>
+<td class="kor-name">
+	강민정
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/mjkang8/">MJ Kang</a>
+</td>
+</tr>
+</table>
