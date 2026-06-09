@@ -1,9 +1,9 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Wed May 27 16:26:11 KST 2026
+last_modified_at: Tue Jun  9 14:59:48 PDT 2026
 layout: single
-title: "[Nexus's 19th Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future"
-permalink: /event-announcements/19
+title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future"
+permalink: /event-announcements/02
 categories:
  - announcement
 tags:
