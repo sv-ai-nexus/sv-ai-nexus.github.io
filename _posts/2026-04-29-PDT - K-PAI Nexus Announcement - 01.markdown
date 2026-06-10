@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Tue Jun  9 14:58:28 PDT 2026
+last_modified_at: Wed Jun 10 02:51:56 PDT 2026
 layout: single
 title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/01
@@ -49,7 +49,7 @@ Join us for Nexus's **<span style="color: red;">18th Forum</span>** — an eveni
 
 <div class="img-container-justified">
 &nbsp;
-<img style="max-width: 20%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/k-pai-nexus-logo-07.png">
+<img style="max-width: 20%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/ai-nexus-logo-01.png">
 <img style="max-width: 20%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/kic-silicon-valley-01.png">
 &nbsp;
 </div>
