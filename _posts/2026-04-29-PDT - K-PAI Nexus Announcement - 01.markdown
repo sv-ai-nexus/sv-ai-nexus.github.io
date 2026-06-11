@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Wed Jun 10 02:51:56 PDT 2026
+last_modified_at: Thu Jun 11 10:19:43 PDT 2026
 layout: single
 title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/01
@@ -152,13 +152,16 @@ Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosci
 <span id="panelists"></span>
 **Panelists**
 - [**Jong Hyeok Kim, MD, PhD**](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
-- [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO / CEO / Leader @ [Erudio Bio](https://www.erudio.bio/) / [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / [Nexus](/)
 - [**Gordon G. Park**](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}
 &ndash; Neuroscientist & Health care specialist @ VA Palo Alto / Stanford Pathology Affiliate / Co-Founder & CEO @ [PathoBrainSeq](https://pathobrainseq.com/){:target="_blank"} / Science Advisor @ Wingstabio
 - [**Jongmin Sung**](https://www.linkedin.com/in/jongmin-sung/){:target="_blank"}
 &ndash; Knowledge Engineer @ [Sailplane.ai](https://www.sailplane.ai/){:target="_blank"} / AI Systems Architect / Biotech and Drug Discovery Advisor and Scout
 - [**Natalie Huh**](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"}
 &ndash; Associate at Quinn Emanuel
+
+<!--
+- [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO / CEO / Leader @ [Erudio Bio](https://www.erudio.bio/) / [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / [Nexus](/)
+-->
 
 <div class="img-container-justified">
 	<img style="max-width: 18.06%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jeff-01.png">
