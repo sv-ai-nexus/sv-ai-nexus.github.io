@@ -1,6 +1,6 @@
 ---
 date: Thu Jun 11 10:27:45 PDT 2026
-last_modified_at: Thu Jun 11 11:22:36 PDT 2026
+last_modified_at: Thu Jun 11 11:31:36 PDT 2026
 layout: single
 title: "Business Proposal - Korea–US Technology Commercialization Venture Studio"
 permalink: /bsr-korea/venture-studio/proposal/v1
@@ -21,7 +21,7 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 
 
 **Prepared by:** Sunghee Yun, Ph.D.\
-**Date:** June 11, 2026\
+**Date:** June 11, 2026
 
 <!--
 **Submitted to:** 백승락 대표이사, BSR Korea
