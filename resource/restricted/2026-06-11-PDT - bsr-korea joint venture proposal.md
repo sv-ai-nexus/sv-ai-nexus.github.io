@@ -1,6 +1,6 @@
 ---
 date: Thu Jun 11 10:27:45 PDT 2026
-last_modified_at: Thu Jun 11 11:18:18 PDT 2026
+last_modified_at: Thu Jun 11 11:22:36 PDT 2026
 layout: single
 title: "Business Proposal - Korea–US Technology Commercialization Venture Studio"
 permalink: /bsr-korea/venture-studio/proposal/v1
@@ -150,7 +150,7 @@ The venture can generate revenue through multiple streams:
 # Key Success Factors
 
 1. **Clear role boundaries** — Operational execution must not depend on Sunghee Yun's daily involvement; strong US-side operational hires are critical from Phase 1
-1. **Hiring the right people in the US** — The ideal US-side operators must possess a rare combination of attributes: an extensive professional network with active network-building capability, native-level English fluency, deep understanding of both Korean and American business cultures, and strong communication skills to bridge the two worlds seamlessly. The archetype is someone like Sunghee Yun himself — Korean-born, but having lived in the US since a young age, with English proficiency indistinguishable from a native speaker and an intuitive grasp of cross-cultural dynamics. In practice, finding such individuals is extraordinarily difficult; if it were easy, this type of business would already be commonplace. Recruitment for these roles must therefore be treated as a strategic priority, not an operational afterthought
+1. **Hiring the right people in the US** — The ideal US-side operators must possess a rare combination of attributes: an extensive professional network with active network-building capability, native-level English fluency, deep understanding of both Korean and American business cultures, and strong communication skills to bridge the two worlds seamlessly. The archetype is someone who was born and raised in Korea yet has lived in the US long enough — ideally since a young age — to operate with English proficiency indistinguishable from a native speaker and an intuitive, lived grasp of cross-cultural dynamics on both sides. In practice, finding such individuals is extraordinarily difficult; if it were easy, this type of Korea–US bridge business would already be commonplace. Recruitment for these roles must therefore be treated as a strategic priority, not an operational afterthought
 1. **Quality over volume** — Focus on a curated portfolio of high-potential technologies rather than attempting to process everything available
 1. **Institutional trust** — Leverage both partners' reputations to build trust on both the Korean and US sides simultaneously
 1. **Government alignment** — Continue to win government-issued projects (발주) as a revenue and credibility anchor
