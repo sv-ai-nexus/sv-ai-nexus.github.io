@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Thu Jun 11 10:19:43 PDT 2026
+last_modified_at: Thu Jun 11 18:51:01 PDT 2026
 layout: single
 title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/01
@@ -45,7 +45,7 @@ to share this forum!
 
 🩺 **<span style="color: red;">THE SILICON STETHOSCOPE IS HERE!</span>** 🩺
 
-Join us for Nexus's **<span style="color: red;">18th Forum</span>** — an evening of talks, panel discussion, dinner, and networking connecting Korea's clinical frontline with Silicon Valley's AI-driven healthcare vision. Generously sponsored by KIC Silicon Valley.
+Join us for Nexus's **<span style="color: red;">1ST Forum</span>** — an evening of talks, panel discussion, dinner, and networking connecting Korea's clinical frontline with Silicon Valley's AI-driven healthcare vision. Generously sponsored by KIC Silicon Valley.
 
 <div class="img-container-justified">
 &nbsp;
