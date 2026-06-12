@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Tue Jun  9 14:59:48 PDT 2026
+last_modified_at: Fri Jun 12 02:47:57 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future"
 permalink: /event-announcements/02
@@ -123,7 +123,7 @@ Instead of practitioners lecturing students, **students speak first**—presenti
 | Time | Activity |
 |------|----------|
 | 5pm - 5:30pm | **Registration & Early Networking** |
-| 5:30pm - 5:50pm | **Keynote: Tech Sovereignty and the Korea-US Alliance** (Sunghee Yun) |
+| 5:30pm - 5:50pm | **Keynote: Tech Sovereignty and the Korea-US Alliance** ([Sunghee Yun](https://sungheeyun.github.io/)) |
 | 5:50pm - 6:10pm | **Flash Talks: Next-Gen Perspectives on Tech, Policy, and Human Future** (KASC Students) |
 | 6:10pm - 6:50pm | **Deep Critique Panel: Silicon Valley Practitioners Respond** (Nexus Mentors + Q&A) |
 | 6:50pm - 8pm | **Dinner & Extended Networking** |
@@ -140,7 +140,7 @@ The keynote sets context. The flash talks surface next-gen thinking. The deep cr
 
 **Speaker**
 &ndash;
-[**Sunghee Yun**](https://sungheeyun.github.io){:target="_blank"} - Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio (US)</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Founder & Chair</a> of <a href="/">Nexus</a>
+[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio (US)</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Founder & Chair</a> of <a href="/">Nexus</a>
 
 Technology sovereignty has emerged as one of the defining questions of the 21st century.
 As AI, semiconductors, quantum computing, and biotech become strategic assets that shape national security, economic competitiveness, and social stability, nations must decide: build domestic capability, align with allies, or accept dependence on others.
