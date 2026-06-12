@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Thu Jun 11 18:51:01 PDT 2026
+last_modified_at: Thu Jun 11 19:21:44 PDT 2026
 layout: single
 title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/01
@@ -45,7 +45,7 @@ to share this forum!
 
 🩺 **<span style="color: red;">THE SILICON STETHOSCOPE IS HERE!</span>** 🩺
 
-Join us for Nexus's **<span style="color: red;">1ST Forum</span>** — an evening of talks, panel discussion, dinner, and networking connecting Korea's clinical frontline with Silicon Valley's AI-driven healthcare vision. Generously sponsored by KIC Silicon Valley.
+Join us for AI Nexus's **<span style="color: red;">1ST Forum</span>** — an evening of talks, panel discussion, dinner, and networking connecting Korea's clinical frontline with Silicon Valley's AI-driven healthcare vision. Generously sponsored by KIC Silicon Valley.
 
 <div class="img-container-justified">
 &nbsp;
@@ -59,7 +59,7 @@ Join us for Nexus's **<span style="color: red;">1ST Forum</span>** — an evenin
 - **Venue**: [Alaska @ KOTRA](https://maps.app.goo.gl/rodukzZGtDmz2XZM9){:target="_blank"}
 - **Speakers**
   - [Jong Hyeok Kim, MD, PhD](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
-  - [Sunghee Yun](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader of [Nexus](/)
+  - [Sunghee Yun](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader & Chair of [AI Nexus](/)
 
 # Event Schedule
 
@@ -74,10 +74,10 @@ Join us for Nexus's **<span style="color: red;">1ST Forum</span>** — an evenin
 **Come for the healthcare AI vision. Stay for the clinical reality. Leave with sharper questions, better connections, and a clearer view of where medicine is heading.**
 
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="[TO BE ADDED]">this link</a>!</strong></font>
-- Please visit [Nexus Membership](/membership){:target="_blank"} to learn about our Nexus membership for qualification and all exclusive perks you can enjoy!
-- Join us at Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
+- Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about our AI Nexus membership for qualification and all exclusive perks you can enjoy!
+- Join us at AI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
-**Read more:** [Why This Forum Matters](#why-this-forum-matters) · [Nexus × KIC Silicon Valley Partnership](#k-pai-nexus--kic-silicon-valley-a-strategic-partnership-for-innovation) · [Why You Should Attend](#why-you-should-attend) · [Target Audience](#target-audience)
+**Read more:** [Why This Forum Matters](#why-this-forum-matters) · [AI Nexus × KIC Silicon Valley Partnership](#k-pai-nexus--kic-silicon-valley-a-strategic-partnership-for-innovation) · [Why You Should Attend](#why-you-should-attend) · [Target Audience](#target-audience)
 
 # Talk Details
 
@@ -104,7 +104,7 @@ This talk will explore healthcare AI from the viewpoint of clinical reality:
 - Why do many promising technologies fail to cross the gap between demo and deployment?
 - How can AI tools become clinically useful, trustworthy, and scalable?
 
-**Why This Matters to Nexus**
+**Why This Matters to AI Nexus**
 
 AI in healthcare cannot be built from Silicon Valley imagination alone.
 It must be grounded in real medical workflows, real patients, real incentives, real institutional constraints, and real clinical judgment. Dr. Kim's perspective from Asan Medical Center will help our community understand what healthcare AI looks like from inside one of Korea's leading medical environments.
@@ -115,7 +115,7 @@ For AI builders, founders, investors, and researchers, this session provides the
 
 **Speaker**
 &ndash;
-[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader of [Nexus](/)
+[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader of [AI Nexus](/)
 
 <div class="img-container-justified">
 <img style="max-width: 58.82%" src="https://sungheeyun-photos-01.github.io/resource/2025/11/07%20-%20IFEZ/DRD_2473.JPG">
@@ -136,7 +136,7 @@ This talk will explore:
 - Erudio Bio's journey building AI-powered cancer diagnostics across US and Korean markets
 - What the next 5-10 years might bring in AI-driven medicine
 
-**Why This Matters to Nexus**
+**Why This Matters to AI Nexus**
 
 Healthcare is simultaneously one of the most hyped and most difficult domains for AI adoption.
 Understanding both the genuine opportunities and the real constraints is essential for anyone building, investing in, or working with healthcare AI. This session connects Silicon Valley ambition to clinical and commercial reality.
@@ -160,7 +160,7 @@ Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosci
 &ndash; Associate at Quinn Emanuel
 
 <!--
-- [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO / CEO / Leader @ [Erudio Bio](https://www.erudio.bio/) / [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / [Nexus](/)
+- [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO / CEO / Leader @ [Erudio Bio](https://www.erudio.bio/) / [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / [AI Nexus](/)
 -->
 
 <div class="img-container-justified">
@@ -184,7 +184,7 @@ Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosci
 
 **Questions from the floor are highly encouraged!**
 
-Nexus forums are not one-way lectures. They are community conversations. If you are a physician, researcher, founder, engineer, investor, operator, student, or simply someone curious about the future of medicine, this panel is your chance to ask the hard and useful questions.
+AI Nexus forums are not one-way lectures. They are community conversations. If you are a physician, researcher, founder, engineer, investor, operator, student, or simply someone curious about the future of medicine, this panel is your chance to ask the hard and useful questions.
 
 ## Dinner & Networking
 
@@ -193,7 +193,7 @@ Nexus forums are not one-way lectures. They are community conversations. If you 
 
 After the talks and panel discussion, we will continue the evening with dinner and networking, made possible by the generous sponsorship of KIC Silicon Valley.
 
-This is where many of the most valuable Nexus moments happen: the follow-up question after the talk, the introduction to someone working on the same problem, the founder meeting a clinical advisor, the physician meeting an AI engineer, the investor hearing a new thesis, the student discovering a new career path.
+This is where many of the most valuable AI Nexus moments happen: the follow-up question after the talk, the introduction to someone working on the same problem, the founder meeting a clinical advisor, the physician meeting an AI engineer, the investor hearing a new thesis, the student discovering a new career path.
 
 **Professional Connections**
 
@@ -219,7 +219,7 @@ This is where many of the most valuable Nexus moments happen: the follow-up ques
 
 **Cultural Community**
 
-- Reconnect with Nexus friends
+- Reconnect with AI Nexus friends
 - Welcome new members interested in healthcare and AI
 - Strengthen the Korean professional network in Silicon Valley
 - Build the trust that makes meaningful collaboration possible
@@ -260,13 +260,13 @@ Three questions define the next era:
 1. **Why is Korea uniquely positioned in this transformation?**
    Korea combines advanced hospitals, strong health check-up culture, high digital adoption, dense clinical infrastructure, world-class manufacturing, and deep technical talent. This creates a powerful bridge between medical reality and AI innovation.
 
-[Jun-2026 Nexus Forum](#top) will explore these questions through two talks and a panel discussion with questions from the floor.
+[Jun-2026 AI Nexus Forum](#top) will explore these questions through two talks and a panel discussion with questions from the floor.
 
-# Nexus × KIC Silicon Valley: A Strategic Partnership for Innovation
+# AI Nexus × KIC Silicon Valley: A Strategic Partnership for Innovation
 
 We are proud to announce that **[KIC Silicon Valley](https://www.kicsv.org/){:target="_blank"}** is generously sponsoring the dinner for this forum!
 
-This sponsorship represents the beginning of an exciting and multi-dimensional partnership between Nexus and KIC Silicon Valley. Together, we are committed to building a dynamic ecosystem that connects Korean innovation with Silicon Valley's entrepreneurial energy across multiple fronts:
+This sponsorship represents the beginning of an exciting and multi-dimensional partnership between AI Nexus and KIC Silicon Valley. Together, we are committed to building a dynamic ecosystem that connects Korean innovation with Silicon Valley's entrepreneurial energy across multiple fronts:
 
 **Collaborative Initiatives**
 
@@ -276,9 +276,9 @@ This sponsorship represents the beginning of an exciting and multi-dimensional p
 - **Government Engagement**: Working with South Korean government entities and the Consulate General of the Republic of Korea at San Francisco to strengthen bilateral innovation ties
 - **Cross-Border Innovation**: Facilitating technology transfer, talent exchange, and market entry strategies for companies expanding between Korea and the United States
 
-**Nexus's Collaboration Philosophy**
+**AI Nexus's Collaboration Philosophy**
 
-Nexus has always been built on the principle of **ceaseless collaboration** across boundaries—academic, industrial, governmental, and cultural. Our partnerships span:
+AI Nexus has always been built on the principle of **ceaseless collaboration** across boundaries—academic, industrial, governmental, and cultural. Our partnerships span:
 
 - **Academia**: Leading universities (Stanford, Berkeley, SNU, KAIST, Korea University) contributing research insights, talent pipelines, and validation frameworks
 - **Industry**: Technology companies, biotech startups, healthcare systems, and investment firms building the future of AI and medicine
@@ -324,7 +324,7 @@ We thank KIC Silicon Valley for their generous support and look forward to many 
 
 - Hear grounded perspectives on healthcare AI from both clinical and startup viewpoints
 - Understand why Korea may be a strategic bridge for healthcare innovation
-- Meet founders, physicians, and technical experts in the Nexus community
+- Meet founders, physicians, and technical experts in the AI Nexus community
 - Sharpen your thesis around diagnostics, bioAI, clinical AI, and medical infrastructure
 
 **If you work in diagnostics, biotech, or drug discovery**
@@ -340,7 +340,7 @@ We thank KIC Silicon Valley for their generous support and look forward to many 
 - Learn what skills matter in healthcare AI
 - Find inspiration for your next professional chapter
 
-**If you're part of Nexus's community**
+**If you're part of AI Nexus's community**
 
 - Reconnect with friends from past forums
 - Welcome new members interested in healthcare AI
@@ -349,9 +349,9 @@ We thank KIC Silicon Valley for their generous support and look forward to many 
 
 # Target Audience
 
-**Everyone who is or wants to be part of the [Nexus](/) community!**
+**Everyone who is or wants to be part of the [AI Nexus](/) community!**
 
-- Current [Nexus](/) members
+- Current [AI Nexus](/) members
 - Past forum attendees
 - Physicians, clinicians, and healthcare operators
 - AI/ML engineers and researchers
@@ -373,4 +373,4 @@ We thank KIC Silicon Valley for their generous support and look forward to many 
 We will see you all there!
 
 Best regards,<br>
-[Nexus Committee](/committee)
+[AI Nexus Committee](/committee)
