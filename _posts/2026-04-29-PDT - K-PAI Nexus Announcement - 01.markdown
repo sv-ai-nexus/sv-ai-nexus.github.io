@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Thu Jun 11 19:21:44 PDT 2026
+last_modified_at: Fri Jun 12 01:55:37 PDT 2026
 layout: single
 title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/01
@@ -73,7 +73,7 @@ Join us for AI Nexus's **<span style="color: red;">1ST Forum</span>** — an eve
 
 **Come for the healthcare AI vision. Stay for the clinical reality. Leave with sharper questions, better connections, and a clearer view of where medicine is heading.**
 
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="[TO BE ADDED]">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/adg9pt2u">this link</a>!</strong></font>
 - Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about our AI Nexus membership for qualification and all exclusive perks you can enjoy!
 - Join us at AI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
