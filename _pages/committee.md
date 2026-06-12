@@ -1,5 +1,5 @@
 ---
-last_modified_at: Wed May 27 15:13:28 KST 2026
+last_modified_at: Thu Jun 11 18:40:23 PDT 2026
 layout: single
 title: Nexus Committees
 permalink: /committee/
@@ -255,6 +255,17 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/minha-hwang-7440771/">Minha Hwang</a>
+</td>
+</tr>
+<tr>
+<td id="beth" class="role" style="color: #3333ff;">
+	Intern
+</td>
+<td class="kor-name">
+	윤서은
+</td>
+<td class="eng-name">
+	Beth Yun
 </td>
 </tr>
 </table>
