@@ -1,5 +1,5 @@
 ---
-last_modified_at: Thu Jun 11 18:40:23 PDT 2026
+last_modified_at: Mon Jun 15 10:54:15 PDT 2026
 layout: single
 title: Nexus Committees
 permalink: /committee/
@@ -446,6 +446,7 @@ author_profile: false
 </tr>
 </table>
 
+<!--
 # AI &amp; Humanity Council {#ai-and-humanity-council}
 
 <table class="borderless-table">
@@ -470,3 +471,4 @@ author_profile: false
 </td>
 </tr>
 </table>
+-->
