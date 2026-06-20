@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Fri Jun 12 11:15:25 PDT 2026
+last_modified_at: Sat Jun 20 01:10:52 PDT 2026
 layout: single
 title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/01
@@ -56,7 +56,7 @@ Join us for AI Nexus's **<span style="color: red;">1ST Forum</span>** — an eve
 
 - **Date**: 25-Jun-2026 (thu)
 - **Time**: 5pm - 8pm
-- **Venue**: [Alaska @ KOTRA](https://maps.app.goo.gl/rodukzZGtDmz2XZM9){:target="_blank"}
+- **Venue**: [Alaska @ KOTRA / KIC Silicon Valley](https://maps.app.goo.gl/rodukzZGtDmz2XZM9){:target="_blank"}
 - **Speakers**
   - [Jong Hyeok Kim, MD, PhD](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
   - [Sunghee Yun](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader & Chair of [AI Nexus](/)
