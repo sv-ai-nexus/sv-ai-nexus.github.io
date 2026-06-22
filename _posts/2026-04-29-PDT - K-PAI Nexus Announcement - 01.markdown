@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Sat Jun 20 01:10:52 PDT 2026
+last_modified_at: Mon Jun 22 13:54:13 PDT 2026
 layout: single
 title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/01
@@ -79,7 +79,7 @@ Join us for AI Nexus's **<span style="color: red;">1ST Forum</span>** — an eve
 - Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about our AI Nexus membership for qualification and all exclusive perks you can enjoy!
 - Join us at AI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
-**Read more:** [Why This Forum Matters](#why-this-forum-matters) · [AI Nexus × KIC Silicon Valley Partnership](#k-pai-nexus--kic-silicon-valley-a-strategic-partnership-for-innovation) · [Why You Should Attend](#why-you-should-attend) · [Target Audience](#target-audience)
+**Read more:** [Why This Forum Matters](#why-this-forum-matters) · [AI Nexus × KIC Silicon Valley Partnership](#ai-nexus--kic-silicon-valley-a-strategic-partnership-for-innovation) · [Why You Should Attend](#why-you-should-attend) · [Target Audience](#target-audience)
 
 # Talk Details
 
@@ -117,7 +117,7 @@ For AI builders, founders, investors, and researchers, this session provides the
 
 **Speaker**
 &ndash;
-[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader of [AI Nexus](/)
+[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO & Chair @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader of [AI Nexus](/)
 
 <div class="img-container-justified">
 <img style="max-width: 58.82%" src="https://sungheeyun-photos-01.github.io/resource/2025/11/07%20-%20IFEZ/DRD_2473.JPG">
