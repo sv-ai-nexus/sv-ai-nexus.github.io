@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Mon Jun 22 13:54:13 PDT 2026
+last_modified_at: Wed Jun 24 23:49:15 PDT 2026
 layout: single
 title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/01
@@ -159,7 +159,7 @@ Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosci
 - [**Jongmin Sung**](https://www.linkedin.com/in/jongmin-sung/){:target="_blank"}
 &ndash; Knowledge Engineer @ [Sailplane.ai](https://www.sailplane.ai/){:target="_blank"} / AI Systems Architect / Biotech and Drug Discovery Advisor and Scout
 - [**Natalie Huh**](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"}
-&ndash; Associate at Quinn Emanuel
+&ndash; COO at Ridgepoint Global Partners LLC
 
 <!--
 - [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO / CEO / Leader @ [Erudio Bio](https://www.erudio.bio/) / [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / [AI Nexus](/)
