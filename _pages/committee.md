@@ -1,7 +1,7 @@
 ---
-last_modified_at: Mon Jun 15 10:54:15 PDT 2026
+last_modified_at: Thu Jun 25 00:49:53 PDT 2026
 layout: single
-title: Nexus Committees
+title: AI Nexus Committees
 permalink: /committee/
 toc: false
 toc_label: "&nbsp;Table of Contents"
