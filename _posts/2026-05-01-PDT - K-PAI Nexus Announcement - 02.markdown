@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Fri Jun 12 02:47:57 PDT 2026
+last_modified_at: Thu Jun 25 23:09:45 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future"
 permalink: /event-announcements/02
@@ -49,7 +49,7 @@ This summer, Korea-America Student Conference (KASC) brings 25 exceptional stude
 
 **What happens when next-generation voices meet Silicon Valley reality?**
 
-<span style="color: red; font-weight: bold;">We are thrilled to invite you to Nexus's 19th Chapter — a Special Joint Colloquium with KASC!</span>
+<span style="color: red; font-weight: bold;">We are thrilled to invite you to Nexus's 2nd Chapter — a Special Joint Colloquium with KASC!</span>
 
 **[Nexus × KASC Joint Colloquium] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future**
 
