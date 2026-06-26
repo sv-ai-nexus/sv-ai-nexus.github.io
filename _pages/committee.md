@@ -1,5 +1,5 @@
 ---
-last_modified_at: Fri Jun 26 01:01:34 PDT 2026
+last_modified_at: Fri Jun 26 01:08:22 PDT 2026
 layout: single
 title: AI Nexus Committees
 permalink: /committee/
@@ -361,7 +361,8 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #3333ff;">
+	LG Electronics Liaison
 </td>
 <td class="kor-name">
 	이은진
