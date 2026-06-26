@@ -1,5 +1,5 @@
 ---
-last_modified_at: Thu Jun 25 00:49:53 PDT 2026
+last_modified_at: Fri Jun 26 01:01:34 PDT 2026
 layout: single
 title: AI Nexus Committees
 permalink: /committee/
@@ -244,6 +244,17 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Marketing Lead
+</td>
+<td class="kor-name">
+	최은지
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/eunjeec">EunJee Choi</a>
 </td>
 </tr>
 <tr>
