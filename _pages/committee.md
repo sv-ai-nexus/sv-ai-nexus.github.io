@@ -1,5 +1,5 @@
 ---
-last_modified_at: Fri Jun 26 01:08:22 PDT 2026
+last_modified_at: Wed Jul  1 00:37:13 PDT 2026
 layout: single
 title: AI Nexus Committees
 permalink: /committee/
@@ -277,6 +277,22 @@ author_profile: false
 </td>
 <td class="eng-name">
 	Beth Yun
+</td>
+</tr>
+</table>
+
+# Knowledge &amp; Insight Committee
+
+<table class="borderless-table">
+<tr>
+<td class="role" style="color: #0000bb;">
+	Committee Chair
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 </table>
