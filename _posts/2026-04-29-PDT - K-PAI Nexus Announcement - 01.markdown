@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Wed Jun 24 23:49:15 PDT 2026
+last_modified_at: Wed Jul  1 19:19:32 PDT 2026
 layout: single
 title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/01
@@ -48,14 +48,13 @@ to share this forum!
 Join us for AI Nexus's **<span style="color: red;">1ST Forum</span>** — an evening of talks, panel discussion, dinner, and networking connecting Korea's clinical frontline with Silicon Valley's AI-driven healthcare vision. Generously sponsored by KIC Silicon Valley.
 
 <div class="img-container-justified">
-&nbsp;
-<img style="max-width: 20%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/ai-nexus-logo-01.png">
-<img style="max-width: 20%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/kic-silicon-valley-01.png">
-&nbsp;
+<img style="max-width: 19.10%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/ai-nexus-logo-01.png">
+<img style="max-width: 19.10%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/kic-silicon-valley-01.png">
+<img style="max-width: 51.80%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/likelion-logo-01.png">
 </div>
 
 - **Date**: 25-Jun-2026 (thu)
-- **Time**: 5pm - 8pm
+- **Time**: 5pm -- 8pm
 - **Venue**: [Alaska @ KOTRA / KIC Silicon Valley](https://maps.app.goo.gl/rodukzZGtDmz2XZM9){:target="_blank"}
 - **Speakers**
   - [Jong Hyeok Kim, MD, PhD](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
