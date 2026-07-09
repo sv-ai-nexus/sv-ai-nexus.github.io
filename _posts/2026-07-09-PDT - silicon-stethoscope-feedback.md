@@ -1,6 +1,6 @@
 ---
 date: Thu Jul  9 00:04:24 PDT 2026
-last_modified_at: Thu Jul  9 00:47:17 PDT 2026
+last_modified_at: Thu Jul  9 01:22:32 PDT 2026
 layout: single
 title: "Voices from Our Inaugural Forum"
 permalink: /event-feedback/01
@@ -32,7 +32,7 @@ Heartfelt reflections from attendees of Silicon Valley AI Nexus's first official
 
 ## In-Person Reflections
 
-> "아니, 사람들 반응이 진짜 뜨거웠어요. 패널 세션에서 저 정도로 질문이 쏟아지면 끊을 수가 없는 거예요. 질문이 진행자한테서 나오는 게 아니라 플로어에서 자발적으로 나왔다는 거잖아요 — 그건 참석하신 분들이 그만큼 관심이 깊었다는 거고, 오늘 발표랑 패널 내용이 각자한테 진짜 와닿았다는 뜻이에요."
+> "사람들 반응이 진짜 뜨거웠어요. 패널 세션에서 저 정도로 질문이 쏟아지면 끊을 수가 없는 거예요. 질문이 진행자한테서 나오는 게 아니라 플로어에서 자발적으로 나왔다는 거잖아요 — 그건 참석하신 분들이 그만큼 관심이 깊었다는 거고, 오늘 발표랑 패널 내용이 각자한테 진짜 와닿았다는 뜻이에요."
 >
 > &mdash; K, HR
 
