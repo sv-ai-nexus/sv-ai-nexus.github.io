@@ -1,4 +1,6 @@
 main:
+  - title: "SNU Eng Ent Program"
+    url: /snu-eng-ent-program
   - title: "AI Insight Hub"
     url: /ai-insight-hub
 #  - title: "About"
