@@ -1,6 +1,6 @@
 ---
 date: Thu Jul  9 10:44:29 PDT 2026
-last_modified_at: Thu Jul  9 10:44:29 PDT 2026
+last_modified_at: Thu Jul  9 18:23:03 PDT 2026
 layout: single
 title: AI Nexus Groups
 permalink: /groups/
@@ -10,7 +10,7 @@ toc_icon: "fa-solid fa-list"
 toc_sticky: true
 ---
 
-[AI Nexus](/) encourages (organically) creating, organizing, and xxx Interest Groups!
+[AI Nexus](/) encourages (organically) creating, organizing, growing, and nurturing Interest Groups!
 
 # List of Groups
 
