@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Fri Jul 10 00:32:24 PDT 2026
+last_modified_at: Fri Jul 10 01:31:44 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -17,18 +17,23 @@ toc_sticky: true
 
 # Mentors
 
-- Sunghee Yun
-- Yerang Huh
-- Gordon Park
-- Minha Hwang
-- Chanik Park
-- Eunkwang Joo
+[Sunghee Yun](https://sungheeyun.github.io)
+/
+[Eunkwang Joo](https://www.linkedin.com/in/ekjoo){:target="_blank"}
+/
+[Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
+/
+[Yerang Huh](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"}
+/
+[Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
+/
+[Gordon Park](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}
 
 ## Mentor Responsibilities
 
-1. Guide assigned team(s) through the team-project track (조별과제): Problem Definition → Solution Design → Validation → Final Pitch.
-1. Attend two in-person sessions: Sat Jul 11, 1:30–3:30 pm (guidance) and Fri Jul 17, 8:00–10:00 pm (Final Pitch prep).
-1. Maintain light asynchronous communication with assigned team(s) between the two sessions.
+- Guide assigned teams through the team-project track: Problem Definition → Solution Design → Validation → Final Pitch.
+- Attend two in-person sessions: Sat Jul 11, 1:30–3:30 pm (guidance) and Fri Jul 17, 8:00–10:00 pm (Final Pitch prep).
+- Maintain light asynchronous communication with assigned teams between the two sessions.
 
 ## Load Summary
 
@@ -60,7 +65,14 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 
 *Head Mentor (floats across all teams) — Co-Founder & CTO, Erudio Bio · Chair, Silicon Valley AI Nexus*
 
-**Focus:** AI/LLM & GenAI strategy, personalization/recommendation (Amazon), convex optimization, biotech, entrepreneurship
+**Focus:** Convex Optimization, AI/LLM & GenAI strategy, biotech, molecular dynamic (MD) simulation, personalization/recommendation (@ Amazon), entrepreneurship
+
+<div class="img-container-justified">
+&nbsp;
+	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/Sunghee @ Hoban - 02.png">
+	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/Sunghee @ Restaurant - square.png">
+&nbsp;
+</div>
 
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
@@ -73,6 +85,10 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 
 **Focus:** LLM / agentic AI / AI search / evaluation, plus recommendation, pricing & assortment (marketing-science PhD)
 
+<div class="img-container">
+	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/1763930007475.png">
+</div>
+
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
 | MP1 | **Jungbi Banjang (정비반장)** — Ontology & LLM urban-redevelopment automation B2B SaaS | Enterprise LLM + knowledge/ontology system — core Microsoft AI territory |
@@ -83,6 +99,10 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 *Neuroscientist & CEO, PathoBrainSeq · BioAI*
 
 **Focus:** Neuroscience, bio/medical AI, biological image & material analysis
+
+<div class="img-container">
+	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/1745348272576.jpg">
+</div>
 
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
@@ -95,6 +115,10 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 
 **Focus:** Systems, semiconductor/manufacturing, edge/AI infrastructure, and commercial / go-to-market (CCO)
 
+<div class="img-container">
+	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/1736293691906.jpg">
+</div>
+
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
 | MP2 | **CMYWB 5-Channel 3D Printer** — AI-CFD static-mixing nozzle for full-color FDM | Manufacturing + systems/process optimization — his hardware-systems core |
@@ -105,6 +129,10 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 *CEO, WASD3R · AI-Native Builder, SFvibe · ex-Nextdoor · Mentor, SW Maestro & Berkeley SkyDeck*
 
 **Focus:** AI-native full-stack building, consumer & mobile products, rapid MVP/prototyping, 0-to-1 founder mentoring
+
+<div class="img-container">
+	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/1557264952156.jpg">
+</div>
 
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
