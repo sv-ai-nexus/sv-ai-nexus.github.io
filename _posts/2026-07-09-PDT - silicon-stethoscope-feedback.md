@@ -1,6 +1,6 @@
 ---
 date: Thu Jul  9 00:04:24 PDT 2026
-last_modified_at: Thu Jul  9 01:22:32 PDT 2026
+last_modified_at: Fri Jul 10 01:05:24 PDT 2026
 layout: single
 title: "Voices from Our Inaugural Forum"
 permalink: /event-feedback/01
@@ -34,13 +34,19 @@ Heartfelt reflections from attendees of Silicon Valley AI Nexus's first official
 
 > "사람들 반응이 진짜 뜨거웠어요. 패널 세션에서 저 정도로 질문이 쏟아지면 끊을 수가 없는 거예요. 질문이 진행자한테서 나오는 게 아니라 플로어에서 자발적으로 나왔다는 거잖아요 — 그건 참석하신 분들이 그만큼 관심이 깊었다는 거고, 오늘 발표랑 패널 내용이 각자한테 진짜 와닿았다는 뜻이에요."
 >
+> *"The energy in the room was really something. When questions pour in like that during a panel session, you just can't cut it short. And these weren't questions from the moderator — they came spontaneously from the floor. That tells you the audience was deeply engaged, and that the talks and the panel really landed with each person there."*
+>
 > &mdash; K, HR
 
 > "기술자와 사업가뿐 아니라 법률 전문가가 패널로 함께하셔서, 그야말로 다학제적이고 입체적인 논의가 이루어졌습니다. 하나의 주제를 기술, 비즈니스, 법률·규제의 렌즈로 동시에 조망할 수 있었던 것은 다른 행사에서는 쉽게 경험하기 어려운 구성이었습니다."
 >
+> *"Having not only technologists and entrepreneurs but also a legal professional on the panel made for a truly multidisciplinary and multidimensional discussion. Being able to examine a single topic through the lenses of technology, business, and law/regulation simultaneously was something you rarely experience at other events."*
+>
 > &mdash; B, Legal Professional
 
 > "한 세션은 한국어로, 다른 세션은 영어로 진행되어 truly global한 무대가 펼쳐졌습니다. 국경과 언어의 장벽을 넘고, AI라는 하나의 주제 안에서도 분야의 경계를 뛰어넘는 발표와 토론이 이루어진, 진정한 의미의 cross-border·cross-disciplinary 포럼이었습니다."
+>
+> *"One session was in Korean, another in English — creating a truly global stage. Crossing the barriers of borders and language, and even within the single subject of AI, going beyond the boundaries of disciplines in both the talks and the discussion — it was a cross-border, cross-disciplinary forum in the truest sense."*
 >
 > &mdash; G, Biochemist
 
@@ -56,13 +62,17 @@ Heartfelt reflections from attendees of Silicon Valley AI Nexus's first official
 
 > "어제 처음으로 AI Nexus 이벤트에 참석한 OOO입니다. 어제 너무 유익한 시간이었구요. 반겨주셔서 정말 감사합니다🙂"
 >
-> &mdash; J, 반도체장비회사 엔지니어
+> *"Hi, I'm OOO — I attended an AI Nexus event for the first time yesterday. It was such a valuable time. Thank you so much for the warm welcome 🙂"*
+>
+> &mdash; J, Semiconductor Equipment Engineer
 
 <!--
 > — **Ji Yeon Kim (김지연)**, 반도체장비회사 엔지니어
 -->
 
 > "어제 AI Nexus 행사에 참석했던 OOO입니다.😊 AI와 헬스케어, 바이오 분야에 관심이 있습니다. 어제 좋은 행사 준비해 주셔서 감사드리고, 앞으로 잘 부탁드립니다!"
+>
+> *"Hi, I'm OOO — I attended the AI Nexus event yesterday.😊 I'm interested in AI, healthcare, and bio. Thank you for putting together such a wonderful event, and I look forward to being part of this community!"*
 >
 > &mdash; E, UCSF Health Data Science
 
@@ -72,6 +82,8 @@ Heartfelt reflections from attendees of Silicon Valley AI Nexus's first official
 
 > "저도 어제 AI Nexus 행사를 처음으로 참석했었는데 정말로 많이 배웠습니다! 잘 부탁드립니다~"
 >
+> *"I also attended an AI Nexus event for the first time yesterday, and I truly learned so much! Looking forward to being part of the community~"*
+>
 > &mdash; E, AI Security Startup / Cellular & Molecular Biology
 
 <!--
@@ -80,6 +92,8 @@ Heartfelt reflections from attendees of Silicon Valley AI Nexus's first official
 
 > "지난번 모임에서 많은걸 얻었고, 좋은시간이었습니다~ 😊"
 >
+> *"I got so much out of the last gathering, and had a wonderful time~ 😊"*
+>
 > &mdash; Y, Stanford Postdoc, Brain AI Research
 
 <!--
@@ -87,6 +101,8 @@ Heartfelt reflections from attendees of Silicon Valley AI Nexus's first official
 -->
 
 > "최근 Silicon Stethoscope 행사를 참여 후 조인하게 되었습니다! 현재는 bio/medical 분야와는 무관한 AI 연구개발 분야에 종사하고 있으나, 과거 박사과정 시 잠시 bio-AI 융합과학 쪽 연구를 했었어서 관심을 갖게 되었습니다."
+>
+> *"I recently joined after attending the Silicon Stethoscope event! I currently work in AI R&D unrelated to the bio/medical field, but during my PhD I briefly did research at the intersection of bio and AI, which is what drew me in."*
 >
 > &mdash; H, AI R&D Professional
 
@@ -107,6 +123,8 @@ Heartfelt reflections from attendees of Silicon Valley AI Nexus's first official
 -->
 
 > "지난주 메디컬 AI 세션 흥미롭게 들었습니다. 앞으로도 잘 부탁드립니다 :)"
+>
+> *"I really enjoyed last week's medical AI session. Looking forward to being part of this community going forward :)"*
 >
 > &mdash; J, Visiting Scholar, Stanford Psychiatry · Digital Mental Health Research
 
