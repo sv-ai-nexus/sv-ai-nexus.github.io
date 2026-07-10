@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Fri Jul 10 01:31:44 PDT 2026
+last_modified_at: Fri Jul 10 14:45:21 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -131,7 +131,7 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 **Focus:** AI-native full-stack building, consumer & mobile products, rapid MVP/prototyping, 0-to-1 founder mentoring
 
 <div class="img-container">
-	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/1557264952156.jpg">
+	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/KakaoTalk_Photo_2026-07-10-14-22-56.jpeg">
 </div>
 
 | Team | Startup Idea | Why this mentor |
@@ -148,5 +148,5 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
-| MT1 | **Lymo AI** — AIoT autonomous solar / blind control for glass façades | Smart-building AIoT control is literally her day job at View Connect |
-| MP4 | **Hybrid Rover** — EDF jet-vane propulsion + 4WD for public-safety operations | Embedded systems / real-time control fit her engineering depth |
+| MT1 | **Lymo AI** — AIoT autonomous solar / blind control for glass façades | Smart-building AIoT control is literally his day job at View Connect |
+| MP4 | **Hybrid Rover** — EDF jet-vane propulsion + 4WD for public-safety operations | Embedded systems / real-time control fit his engineering depth |
