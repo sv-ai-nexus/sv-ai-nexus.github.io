@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Thu Jul  9 17:19:18 PDT 2026
+last_modified_at: Fri Jul 10 00:32:24 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -12,8 +12,8 @@ toc_sticky: true
 
 # Program
 
-[Program](/resource/activities/2026 07 - SNU Eng Ent Program/Rev. 6 Program.pdf){:target="_blank"}\
-[Student ideas](/resource/activities/2026 07 - SNU Eng Ent Program/SNU_Startup_Ideas_English.xlsx){:target="_blank"}
+- [Program](/resource/activities/2026 07 - SNU Eng Ent Program/Rev. 6 Program.pdf){:target="_blank"}
+- [Student Team Composition](/resource/activities/2026 07 - SNU Eng Ent Program/Student Team Composition.xlsx){:target="_blank"}
 
 # Mentors
 
@@ -22,22 +22,41 @@ toc_sticky: true
 - Gordon Park
 - Minha Hwang
 - Chanik Park
+- Eunkwang Joo
 
-# Mentor Assignments
+## Mentor Responsibilities
+
+1. Guide assigned team(s) through the team-project track (조별과제): Problem Definition → Solution Design → Validation → Final Pitch.
+1. Attend two in-person sessions: Sat Jul 11, 1:30–3:30 pm (guidance) and Fri Jul 17, 8:00–10:00 pm (Final Pitch prep).
+1. Maintain light asynchronous communication with assigned team(s) between the two sessions.
+
+## Load Summary
+
+| Mentor | Teams | Team IDs |
+|---|:---:|---|
+| Sunghee Yun | 2 | MP6, GT1 |
+| Minha Hwang | 2 | MP1, MT2 |
+| Gordon Park | 2 | MP3, MP5 |
+| Chanik Park | 2 | MP2, GT2 |
+| Eunkwang Joo | 3 | MT3, MT4, MT5 |
+| Yerang Huh | 2 | MT1, MP4 |
+
+## Mentor Assignments
 
 Assignments pair each team's core technology with the mentor whose expertise
-most accelerates it. Team numbers follow the submitted startup-idea list.
+most accelerates it. Team IDs follow the Student Team Composition sheet
+(MP = individual founder, MT / GT = team).
 
 | | |
 |---|---|
-| **Confirmed mentors** | 5 (incl. Sunghee Yun as head mentor) |
-| **Student teams** | 19 |
-| **Average load** | ~4 teams per mentor (Yerang Huh: 3 hardware/IoT teams) |
+| **Confirmed mentors** | 6 (incl. Sunghee Yun as head mentor) |
+| **Student teams** | 13 (6 individual, 7 team) |
+| **Load** | 2 teams per mentor (only Eunkwang Joo carries 3) |
 | **Touchpoint 1** | Sat 11-Jul-2026, 1:30–3:30 pm — team-project guidance |
 | **Touchpoint 2** | Fri 17-Jul-2026, 8:00–10:00 pm — Final Pitch preparation |
 | **Between sessions** | Light async communication with assigned teams |
 
-## Sunghee Yun · 4 teams
+### Sunghee Yun · 2 teams
 
 *Head Mentor (floats across all teams) — Co-Founder & CTO, Erudio Bio · Chair, Silicon Valley AI Nexus*
 
@@ -45,12 +64,10 @@ most accelerates it. Team numbers follow the submitted startup-idea list.
 
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
-| 11 | **NURI** — KakaoTalk-based AI personal assistant (agentic) | Agentic-AI assistant maps to LLM/GenAI strategy and the program's Agentic Intelligence spine |
-| 12 | **Fitple** — Body-shape-based outfit recommendation & fit prediction | Direct fit with Amazon mobile-shopping personalization / recommendation background |
-| 15 | **Re:View** — Multimodal learning platform aligning slides & transcripts | Multimodal LLM application; benefits from foundation-model + product framing |
-| 19 | **Casper** — AI simulation platform for case-interview & career prep | LLM reasoning + edtech; strategic mentoring on defensibility and market |
+| MP6 | **Re:View** — Slide–transcript alignment multimodal learning platform | Multimodal LLM application; benefits from foundation-model + product framing |
+| GT1 | **Casper** — AI case-interview simulation & career platform | LLM reasoning + edtech; strategic mentoring on defensibility and market |
 
-## Minha Hwang · 4 teams
+### Minha Hwang · 2 teams
 
 *Principal Applied Scientist, Microsoft AI · Angel Investor*
 
@@ -58,25 +75,21 @@ most accelerates it. Team numbers follow the submitted startup-idea list.
 
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
-| 4 | **Jungbi Banjang** — Ontology & LLM-based urban-redevelopment B2B SaaS | Enterprise LLM + knowledge/ontology system — core Microsoft AI territory |
-| 9 | **PION** — GEO SaaS measuring brand recommendation rates in AI search | AI-search / retrieval & evaluation is precisely his applied-science focus |
-| 10 | **AEOLO** — End-to-end GEO measurement & AI-visibility optimization | Same GEO/AI-search cluster; metric design & measurement are a strength |
-| 14 | **PICKIT** — NL multi-store e-commerce order & inventory management | Assortment / e-commerce / recommendation — his marketing-science bullseye |
+| MP1 | **Jungbi Banjang (정비반장)** — Ontology & LLM urban-redevelopment automation B2B SaaS | Enterprise LLM + knowledge/ontology system — core Microsoft AI territory |
+| MT2 | **PICKIT** — NL multi-channel e-commerce OMS (orders, inventory, demand forecast) | Assortment / e-commerce / demand forecasting — his marketing-science bullseye |
 
-## Gordon Park · 4 teams
+### Gordon Park · 2 teams
 
 *Neuroscientist & CEO, PathoBrainSeq · BioAI*
 
-**Focus:** Neuroscience, bio/medical AI, health & body-motion applications
+**Focus:** Neuroscience, bio/medical AI, biological image & material analysis
 
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
-| 8 | **Micro AI Analyzer** — DL classification of microglial inflammation states | Microglial neuroinflammation is dead-center of his neuroscience expertise |
-| 6 | **Postura** — Portable Vision-AI posture scoring for personal trainers | Health / biomechanics application with a clinical-validation angle |
-| 16 | **Babeling** — AI infant-cry interpretation & parenting guidance | Bio-signal interpretation + health; founder-CEO lens on a consumer-health product |
-| 17 | **Baseball Motion Analysis AI** — CV sports motion analysis & diagnostics | Biomechanics / motion diagnostics pairs with his bio-science background |
+| MP3 | **Micro AI Analyzer** — DL classification of microglial (HMC3) inflammation states | Microglial neuroinflammation is dead-center of his neuroscience expertise |
+| MP5 | **Seaweed Processing & Distribution** — CV + domain AI for material processing & distribution | Vision-based biological-material analysis parallels his bio-image classification work |
 
-## Chanik Park · 4 teams
+### Chanik Park · 2 teams
 
 *Chief Commercial Officer, MangoBoost · ex-Samsung Semiconductor EVP*
 
@@ -84,12 +97,22 @@ most accelerates it. Team numbers follow the submitted startup-idea list.
 
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
-| 2 | **CMYWB 5-Ch 3D Printer** — AI-CFD optimized nozzle for full-color FDM printing | Manufacturing + systems/process optimization — his hardware-systems core |
-| 3 | **DAON** — Real-time CCTV anomaly detection for unattended stores | Edge/systems deployment plus retail commercialization (CCO lens) |
-| 7 | **Seaweed Processing & Distribution** — CV-based material processing & distribution | Systems + supply-chain/distribution with a strong go-to-market question |
-| 18 | **Kandid Spot** — Local-recommendation travel app for Korea | Consumer marketplace; benefits most from commercial / GTM coaching |
+| MP2 | **CMYWB 5-Channel 3D Printer** — AI-CFD static-mixing nozzle for full-color FDM | Manufacturing + systems/process optimization — his hardware-systems core |
+| GT2 | **Kandid Spot** — Korea travel local-recommendation app | Consumer marketplace; benefits from go-to-market / commercialization coaching (CCO lens) |
 
-## Yerang Huh · 3 teams
+### Eunkwang Joo · 3 teams
+
+*CEO, WASD3R · AI-Native Builder, SFvibe · ex-Nextdoor · Mentor, SW Maestro & Berkeley SkyDeck*
+
+**Focus:** AI-native full-stack building, consumer & mobile products, rapid MVP/prototyping, 0-to-1 founder mentoring
+
+| Team | Startup Idea | Why this mentor |
+|:---:|---|---|
+| MT3 | **New venture — item TBD** (Mech / EE / Arch) | Serial-founder builder to guide ideation to MVP for a team still choosing its idea |
+| MT4 | **New venture — item TBD** (Mech x3) | Same 0-to-1 need; hands-on shipping experience to move fast from concept to demo |
+| MT5 | **New venture — item TBD** (Ind Eng / Civil / Mech) | Ideation-to-prototype coaching, drawing on his SW Maestro / SkyDeck mentoring |
+
+### Yerang Huh · 2 teams
 
 *Sr. Director, View, Inc. · Co-Founder, NextEPC*
 
@@ -97,22 +120,5 @@ most accelerates it. Team numbers follow the submitted startup-idea list.
 
 | Team | Startup Idea | Why this mentor |
 |:---:|---|---|
-| 13 | **Lymo AI** — Vision-AI + IoT automated indoor blind control | IoT / smart-building control is literally her day job at View Connect |
-| 1 | **Hybrid Rover** — EDF jet-vane + 4WD rover for public-safety operations | Embedded systems / robotics / real-time control fit her engineering depth |
-| 5 | **AUREA Robotics** — Handheld personalized makeup robotics device | Consumer hardware/robotics device; founder experience on productization |
-
-## Load Summary
-
-| Mentor | Teams | Team numbers |
-|---|:---:|---|
-| Sunghee Yun | 4 | 11, 12, 15, 19 |
-| Minha Hwang | 4 | 4, 9, 10, 14 |
-| Gordon Park | 4 | 8, 6, 16, 17 |
-| Chanik Park | 4 | 2, 3, 7, 18 |
-| Yerang Huh | 3 | 13, 1, 5 |
-
-## Mentor Responsibilities
-
-1. Guide assigned team(s) through the team-project track (조별과제): Problem Definition → Solution Design → Validation → Final Pitch.
-2. Attend two in-person sessions: Fri Jul 11, 1:30–3:30 pm (guidance) and Thu Jul 17, 8:00–10:00 pm (Final Pitch prep).
-3. Maintain light asynchronous communication with assigned team(s) between the two sessions.
+| MT1 | **Lymo AI** — AIoT autonomous solar / blind control for glass façades | Smart-building AIoT control is literally her day job at View Connect |
+| MP4 | **Hybrid Rover** — EDF jet-vane propulsion + 4WD for public-safety operations | Embedded systems / real-time control fit her engineering depth |
