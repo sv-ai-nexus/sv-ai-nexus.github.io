@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Thu Jun 25 23:09:45 PDT 2026
+last_modified_at: Fri Jul 10 17:23:19 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future"
 permalink: /event-announcements/02
@@ -18,6 +18,8 @@ tags:
  - students
  - reverse-mentoring
  - networking
+ - consulate-general
+ - Stanford
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -56,15 +58,10 @@ This summer, Korea-America Student Conference (KASC) brings 25 exceptional stude
 This is not a traditional forum. This is a <span class="emph">dialogue</span>—where students lead, practitioners critique, and the conversation flows both ways. Call it reverse mentoring. Call it generational exchange. Call it an investment in the people who will shape the next two decades of Korea-US technology collaboration.
 
 - **Date**: 29-Jul-2026 (tue)
-- **Time**: 5pm - 8pm
-- **Venue**: [Stanford University](https://maps.app.goo.gl/NQzhwg9t1KxWX1km9){:target="_blank"}
-- **Format**: Keynote + Student Flash Talks + Deep Critique Panel + Dinner & Networking
-
-<!--
-<div class="img-container">
-<img style="max-width: 80%" src="[TO BE ADDED]">
-</div>
--->
+- **Time**: 5:30pm - 8:30pm
+- **Venue**: [EVGR C Theater, Stanford University](https://maps.app.goo.gl/fH6WDrG7e6Vwjy4C6){:target="_blank"}
+- **Format**: Congratulatory Remarks + Keynote + Student Flash Talks + Panel Discussion + Dinner & Networking
+- **Sponsor**: The Consulate General of the Republic of Korea at San Francisco
 
 ## Why This Colloquium Matters
 
@@ -87,15 +84,15 @@ Three core questions define the conversation:
    The most valuable insights don't always come from more experience. Sometimes they come from fresh eyes, different assumptions, and the willingness to question what previous generations took for granted. This is reverse mentoring in action.
 
 3. **What does Korea-America collaboration look like when led by the next generation?**
-   KASC represents something rare: bilingual, bicultural students who understand both Korean and American perspectives, who bridge policy and technology, who combine technical depth with humanistic breadth. They are tomorrow's diplomats, engineers, founders, policymakers, and thought leaders. Connecting them with Nexus creates relationships that will matter for decades.
+   KASC represents something rare: bilingual, bicultural students who understand both Korean and American perspectives, who bridge policy and technology, who combine technical depth with humanistic breadth. They are tomorrow's diplomats, engineers, founders, policymakers, and thought leaders. Connecting them with [Silicon Valley AI Nexus](/) creates relationships that will matter for decades.
 
-[Jul-2026 Nexus × KASC Joint Colloquium](#top) will explore these questions through keynote, flash talks, deep critique panel, and extended networking.
+[Jul-2026 AI Nexus × KASC Joint Colloquium](#top) will explore these questions through congratulatory remarks, keynote, flash talks, panel discussion, and extended networking.
 
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="[TO BE ADDED]">this link</a>!</strong></font>
-- Please visit [Nexus Membership](/membership){:target="_blank"} to learn about Nexus membership qualification and exclusive perks!
+- Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about Nexus membership qualification and exclusive perks!
 - Join us at Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
-# What is KASC? (Korea-America Student Conference)
+# What is Korea-America Student Conference (KASC)?
 
 **KASC** has been building bridges between Korea and America for nearly two decades.
 
@@ -103,7 +100,7 @@ Each year, KASC brings together exceptional students from leading universities i
 
 **The 19th KASC Delegation (Summer 2026):**
 
-- **25 students** from top universities in Korea (Seoul National University, KAIST, Korea University, Yonsei University, etc.) and the United States (Ivy League, MIT, Stanford, UC Berkeley, etc.)
+- **25 students** from universities across Korea and the United States, including Seoul National University, Korea University, Sungkyunkwan University, Georgetown University's Walsh School of Foreign Service, and more
 - **Multidisciplinary backgrounds**: Engineering, computer science, economics, political science, philosophy, humanities, and policy studies
 - **Bilingual and bicultural**: Korean students with deep understanding of American contexts, American students with genuine Korea expertise
 - **Academic rigor meets real-world engagement**: Not just tourists—these are students conducting research, writing policy papers, debating tech ethics, and thinking seriously about Korea-US futures
@@ -123,24 +120,38 @@ Instead of practitioners lecturing students, **students speak first**—presenti
 | Time | Activity |
 |------|----------|
 | 5pm - 5:30pm | **Registration & Early Networking** |
-| 5:30pm - 5:50pm | **Keynote: Tech Sovereignty and the Korea-US Alliance** ([Sunghee Yun](https://sungheeyun.github.io/)) |
-| 5:50pm - 6:10pm | **Flash Talks: Next-Gen Perspectives on Tech, Policy, and Human Future** (KASC Students) |
-| 6:10pm - 6:50pm | **Deep Critique Panel: Silicon Valley Practitioners Respond** (Nexus Mentors + Q&A) |
-| 6:50pm - 8pm | **Dinner & Extended Networking** |
+| 5:30pm - 5:35pm | **Congratulatory Remarks** (Consul Kyungrae Cho, Science & Technology and AI &middot; ICT Consul, Consulate General of the Republic of Korea at San Francisco) |
+| 5:35pm - 5:55pm | **Keynote: Tech Sovereignty and the Korea-US Alliance** ([Sunghee Yun](https://sungheeyun.github.io/), Co-Founder & CTO @ Erudio Bio, Co-Founder & Leader & Chair @ [AI Nexus](/)) |
+| 5:55pm - 6:15pm | **Flash Talks: Next-Gen Perspectives on Tech, Policy, and Human Future** (KASC Students) |
+| 6:15pm - 6:55pm | **Panel Discussion: Silicon Valley Meets the Next Generation** (Moderated by Hyein Kim) |
+| 6:55pm - 8pm | **Dinner & Extended Networking** |
 
 **What makes this format special:**
 
 Traditional forums often put students in the audience. This colloquium puts students *on stage*.
 
-The keynote sets context. The flash talks surface next-gen thinking. The deep critique panel creates dialogue between generations, disciplines, and national perspectives. And the extended networking turns intellectual exchange into lasting relationships.
+The keynote sets context. The flash talks surface next-gen thinking. The panel discussion creates dialogue between generations, disciplines, and national perspectives. And the extended networking turns intellectual exchange into lasting relationships.
 
-**This is how communities build across generations.**
+**<span style="color:red; ">This is how communities build across generations.</span>**
+## Congratulatory Remarks
+
+**Speaker**
+&ndash;
+**Consul Kyungrae Cho** - Science & Technology and AI &middot; ICT Consul, Consulate General of the Republic of Korea at San Francisco
+
+We are honored that Consul Cho will open our colloquium with congratulatory remarks on behalf of the Consulate General of the Republic of Korea at San Francisco, which generously sponsors this event. Consul Cho's portfolio spans science, technology, AI, and ICT—making him an ideal voice to set the stage for an evening exploring tech sovereignty and the Korea-US alliance.
+
 
 ## Part 1: Keynote - Tech Sovereignty and the Korea-US Alliance (20 minutes)
 
 **Speaker**
 &ndash;
-[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio (US)</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Founder & Chair</a> of <a href="/">Nexus</a>
+[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Co-Founder & Leader & Chair</a> of <a href="/">Nexus</a>
+
+<div class="img-container-justified">
+<img style="max-width: 58.82%" src="https://sungheeyun-photos-01.github.io/resource/2025/11/07%20-%20IFEZ/DRD_2473.JPG">
+<img style="max-width: 39.18%" src="https://sungheeyun.github.io/assets/images/profile-photo-670x671.png">
+</div>
 
 Technology sovereignty has emerged as one of the defining questions of the 21st century.
 As AI, semiconductors, quantum computing, and biotech become strategic assets that shape national security, economic competitiveness, and social stability, nations must decide: build domestic capability, align with allies, or accept dependence on others.
@@ -169,13 +180,49 @@ This is where next-generation voices take center stage.
 KASC students have spent months researching, debating, and refining their perspectives on technology, policy, ethics, and Korea-US collaboration. They bring technical depth (many are engineering or CS students), policy sophistication (many study international relations or political science), and humanistic breadth (many explore philosophy, ethics, or sociology alongside their technical work).
 
 **Flash Talk Format:**
-Each student speaker gets 5 minutes to present a core research question, perspective, or policy proposal related to:
+Each student speaker gets approximately 5 minutes to present a core research question, perspective, or policy proposal. Four students will present:
 
-- **Tech sovereignty**: National AI strategies, semiconductor supply chains, data localization, open vs. proprietary systems
-- **Human agency**: Privacy rights, algorithmic accountability, democratic AI governance, individual autonomy in AI-mediated environments
-- **Korea-US collaboration**: Joint research initiatives, policy harmonization, startup ecosystems, talent exchange
-- **Ethical frameworks**: How different cultures and political systems approach AI safety, fairness, and human values
-- **Economic futures**: How AI reshapes labor markets, wealth distribution, innovation incentives, and comparative advantage
+### Junghyun Kim &ndash; Sungkyunkwan University, Global Economics
+
+<div class="img-container">
+<img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Junghyun%20Kim.jpg">
+</div>
+
+**Systems Thinking in AI Governance: Mitigating Algorithmic Bias for Economic Equality**
+
+Examining the limits of innovation-centric approaches and proposing a human-in-the-loop, multi-stakeholder governance model for fairer AI systems.
+
+### Quinton Apollo Dotzert &ndash; University of Kansas, East Asian Languages & Cultures (MA)
+
+<div class="img-container">
+<img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Quinton%20Apollo%20Dotzert.jpg">
+</div>
+
+**AI and Culture: Drawing the Line Between Human Agency and Generative AI**
+
+Exploring why AI can imitate culture but cannot replace the uniquely human experiences and emotions behind it—and how we define the boundaries of agency when humans collaborate with AI. A lens on soft power in the age of generative models.
+
+### Alexandra Khalil Baldessari &ndash; Oral Roberts University, Global Studies (Asia Studies)
+
+<div class="img-container">
+<img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Alexandra%20Khalil%20Baldessari.jpg">
+</div>
+
+**The Impact of AI Dependency on Critical Thinking and Innovation, and the Importance of Human Agency and Ethical Guidelines in AI Development**
+
+From an artist's perspective: "AI is the co-pilot, not the pilot." Examining how over-reliance on AI may erode the very creativity and critical thinking that drive innovation.
+
+### Seohyeon Kang &ndash; Korea University, Statistics & Financial Engineering
+
+<div class="img-container">
+<img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Seohyeon%20Kang.jpg">
+</div>
+
+**Fixing the Old with the New: AI's Role in Financial and Political Reform, and the Need for Universal Education**
+
+Leveraging AI to address legacy problems—information asymmetry, algorithmic bias—in finance and governance, while advocating for universal AI education and infrastructure across all generations.
+
+---
 
 **Why flash talks work:**
 
@@ -184,14 +231,42 @@ And because multiple students speak, we get **intellectual diversity**—differe
 
 **This is reverse mentoring at its best:** practitioners listening to voices they don't normally hear, from people who will live with AI longer than anyone else in the room.
 
-## Part 3: Deep Critique Panel - Silicon Valley Practitioners Respond (40 minutes)
+## Part 3: Panel Discussion - Silicon Valley Meets the Next Generation (40 minutes)
 
 **Panelists**
 &ndash;
 **Nexus Mentors and Domain Experts** (<span style="color: blue;">TBD</span>)
 
-After the students speak, Nexus practitioners respond.
-But this is not passive Q&A. This is **active critique, extension, and dialogue.**
+This is not passive Q&A. This is **active dialogue**—where students and practitioners meet as equals, challenging assumptions, extending ideas, and discovering what each generation can learn from the other.
+
+### Moderator
+
+**Hyein Kim (김혜인)** &ndash; Taejae University, Data Science / KASC 19th Delegation Chair
+
+<div class="img-container">
+<img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Hyein%20Kim.jpg">
+</div>
+
+### Student Panelists
+
+**Dongjoo Jung (정동주)** &ndash; Sungkyunkwan University, Political Science & Diplomacy
+
+<div class="img-container">
+<img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Dongjoo%20Jung.jpeg">
+</div>
+
+**Win Sandy Saw** &ndash; SUNY Buffalo, Biology
+
+<div class="img-container">
+<img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Win%20Sandy%20Saw.jpg">
+</div>
+
+### Expert Panelists
+
+[**Sunghee Yun**](https://sungheeyun.github.io) &ndash; Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio (US)</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Founder & Chair</a> of <a href="/">Nexus</a>
+
+<span style="color: blue;">Additional expert panelist(s) TBD</span>
+
 
 **The panel will:**
 
@@ -199,14 +274,6 @@ But this is not passive Q&A. This is **active critique, extension, and dialogue.
 - **Add practitioner context**: What does tech sovereignty look like when you're building products, raising capital, navigating regulation, or deploying systems at scale?
 - **Extend the conversation**: What insights from students' flash talks can practitioners build on? Where does next-gen thinking reveal blind spots in current practice?
 - **Create dialogue**: This is not lecture-response. This is conversation—students ask follow-ups, practitioners ask clarifying questions, the audience participates.
-
-**Potential panel members include:**
-
-- Technology practitioners with Korea-US experience
-- Policy advisors and legal experts working on AI governance
-- Investors and founders navigating tech sovereignty questions
-- Researchers bridging technical capability and societal impact
-- Nexus leadership and community mentors
 
 **Questions the panel might explore:**
 
@@ -219,9 +286,11 @@ But this is not passive Q&A. This is **active critique, extension, and dialogue.
 
 **This is where the real value emerges**—not just from the prepared talks, but from the unscripted exchange that follows.
 
-## Dinner & Extended Networking (70+ minutes)
+## Dinner & Extended Networking (65+ minutes)
 
-**6:50pm - 8pm (and beyond)**
+**6:55pm - 8pm (and beyond)**
+
+*Dinner generously sponsored by the Consulate General of the Republic of Korea at San Francisco.*
 
 The formal program ends. The real community-building begins.
 
@@ -311,7 +380,7 @@ This is where KASC students meet Nexus mentors one-on-one. Where founders discov
 
 Hyein Kim (KASC Chair) framed this colloquium around three value propositions. We think they're exactly right.
 
-## 1. Fresh Insight (Reverse Mentoring)
+## Fresh Insight (Reverse Mentoring)
 
 Students today are **AI natives**. They grew up with algorithmic feeds, surveillance capitalism, filter bubbles, and privacy trade-offs as background conditions of life—not as new phenomena requiring explanation.
 
@@ -321,7 +390,7 @@ When a student says "privacy is dead," they're not being cynical—they're repor
 
 **Practitioners benefit from hearing these perspectives**—not because students have all the answers, but because they ask different questions.
 
-## 2. Future Network
+## Future Network
 
 The students at this colloquium won't stay students.
 
@@ -337,7 +406,7 @@ Within 5 years, they'll be:
 
 Investing time in students is not charity. It's strategy. The people you mentor, advise, or simply treat with respect today will remember—and when they're in positions of influence, those relationships matter.
 
-## 3. Talent Spotting
+## Talent Spotting
 
 KASC students represent exceptional talent:
 
@@ -374,15 +443,13 @@ The best hires, co-founders, and collaborators are often people you meet years b
 
 # About the Venue - Stanford University
 
-This colloquium takes place at **Stanford University**—the intellectual and entrepreneurial heart of Silicon Valley.
+This colloquium takes place at **[EVGR C Theater, Stanford University](https://maps.app.goo.gl/fH6WDrG7e6Vwjy4C6){:target="_blank"}**—the intellectual and entrepreneurial heart of Silicon Valley.
 
 Stanford has been the birthplace of Google, Cisco, Sun Microsystems, Yahoo, LinkedIn, and countless other companies that shaped the modern technology landscape. It's where theory meets practice, where research becomes products, and where students become founders.
 
 **Hosting this event at Stanford is symbolically perfect.**
 
 KASC students get to experience one of the world's most important technology institutions. Nexus practitioners return to a campus where many of them studied, taught, or began their careers. And the setting reinforces the message: **the next generation belongs here, contributing to the conversations that shape the future.**
-
-(Specific building and room details will be announced closer to the event date.)
 
 # How This Fits Nexus's Mission
 
@@ -424,3 +491,5 @@ Best regards,<br>
 ---
 
 **Special thanks to Hyein Kim (KASC Chair) and the entire KASC 19th Delegation for this remarkable partnership. We're honored to be part of your Silicon Valley experience.**
+
+**We extend our deepest gratitude to the Consulate General of the Republic of Korea at San Francisco for their generous sponsorship of this event, and to Consul Kyungrae Cho for honoring us with congratulatory remarks.**
