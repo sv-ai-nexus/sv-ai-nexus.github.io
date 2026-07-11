@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Fri Jul 10 17:23:19 PDT 2026
+last_modified_at: Fri Jul 10 21:39:57 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future"
 permalink: /event-announcements/02
@@ -41,7 +41,7 @@ to share this special colloquium!
 
 # Invitation
 
-Nexus Community Members, Friends, Educators, Students, Policymakers, and Bridge Builders!
+AI Nexus Community Members, Friends, Educators, Students, Policymakers, and Bridge Builders!
 
 🌉 **THE NEXT GENERATION SPEAKS!** 🌉
 
@@ -51,13 +51,21 @@ This summer, Korea-America Student Conference (KASC) brings 25 exceptional stude
 
 **What happens when next-generation voices meet Silicon Valley reality?**
 
-<span style="color: red; font-weight: bold;">We are thrilled to invite you to Nexus's 2nd Chapter — a Special Joint Colloquium with KASC!</span>
+<span style="color: red; font-weight: bold;">We are thrilled to invite you to AI Nexus's 2nd Chapter — a Special Joint Colloquium with KASC!</span>
 
-**[Nexus × KASC Joint Colloquium] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future**
+**[AI Nexus × KASC Joint Colloquium] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future**
+
+<div class="img-container-justified">
+&nbsp;
+	<img width="25%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/ai-nexus-logo-01.png">
+	<img width="25%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/kasc-logo-01.png">
+	<img width="25%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/stanford-logo-01.jpg">
+&nbsp;
+</div>
 
 This is not a traditional forum. This is a <span class="emph">dialogue</span>—where students lead, practitioners critique, and the conversation flows both ways. Call it reverse mentoring. Call it generational exchange. Call it an investment in the people who will shape the next two decades of Korea-US technology collaboration.
 
-- **Date**: 29-Jul-2026 (tue)
+- **Date**: 29-Jul-2026 (wed)
 - **Time**: 5:30pm - 8:30pm
 - **Venue**: [EVGR C Theater, Stanford University](https://maps.app.goo.gl/fH6WDrG7e6Vwjy4C6){:target="_blank"}
 - **Format**: Congratulatory Remarks + Keynote + Student Flash Talks + Panel Discussion + Dinner & Networking
@@ -88,9 +96,12 @@ Three core questions define the conversation:
 
 [Jul-2026 AI Nexus × KASC Joint Colloquium](#top) will explore these questions through congratulatory remarks, keynote, flash talks, panel discussion, and extended networking.
 
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="[TO BE ADDED]">this link</a>!</strong></font>
-- Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about Nexus membership qualification and exclusive perks!
-- Join us at Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
+<!--
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/damivx03">this link</a>!</strong></font>
+-->
+
+- Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about AI Nexus membership qualification and exclusive perks!
+- Join us at AI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
 # What is Korea-America Student Conference (KASC)?
 
@@ -105,9 +116,9 @@ Each year, KASC brings together exceptional students from leading universities i
 - **Bilingual and bicultural**: Korean students with deep understanding of American contexts, American students with genuine Korea expertise
 - **Academic rigor meets real-world engagement**: Not just tourists—these are students conducting research, writing policy papers, debating tech ethics, and thinking seriously about Korea-US futures
 
-**Why KASC × Nexus is a perfect match:**
+**Why KASC × AI Nexus is a perfect match:**
 
-Nexus explores AI's comprehensive landscape across technology, society, ethics, philosophy, and humanity. KASC brings students who live at exactly that intersection—students who code *and* think about policy, who study AI *and* worry about human agency, who understand both Korean and American perspectives on technology sovereignty.
+AI Nexus explores AI's comprehensive landscape across technology, society, ethics, philosophy, and humanity. KASC brings students who live at exactly that intersection—students who code *and* think about policy, who study AI *and* worry about human agency, who understand both Korean and American perspectives on technology sovereignty.
 
 This partnership creates value in both directions: students gain access to Silicon Valley practitioners, and practitioners gain access to next-generation thinking.
 
@@ -115,7 +126,7 @@ This partnership creates value in both directions: students gain access to Silic
 
 This colloquium inverts the traditional forum dynamic.
 
-Instead of practitioners lecturing students, **students speak first**—presenting their research, perspectives, and questions. Then Nexus mentors respond with practical feedback, real-world critique, and extended dialogue.
+Instead of practitioners lecturing students, **students speak first**—presenting their research, perspectives, and questions. Then AI Nexus mentors respond with practical feedback, real-world critique, and extended dialogue.
 
 | Time | Activity |
 |------|----------|
@@ -146,7 +157,7 @@ We are honored that Consul Cho will open our colloquium with congratulatory rema
 
 **Speaker**
 &ndash;
-[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Co-Founder & Leader & Chair</a> of <a href="/">Nexus</a>
+[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Co-Founder & Leader & Chair</a> of <a href="/">AI Nexus</a>
 
 <div class="img-container-justified">
 <img style="max-width: 58.82%" src="https://sungheeyun-photos-01.github.io/resource/2025/11/07%20-%20IFEZ/DRD_2473.JPG">
@@ -168,7 +179,7 @@ For Korea and the United States, this question matters deeply. The alliance has 
 
 **Why this framing matters:**
 
-The keynote provides the strategic context for everything that follows. It sets up the students' flash talks by establishing the stakes, complexity, and urgency of the questions they're grappling with. And it signals to Nexus practitioners that these are not abstract academic exercises—these are the real strategic questions our community works on every day.
+The keynote provides the strategic context for everything that follows. It sets up the students' flash talks by establishing the stakes, complexity, and urgency of the questions they're grappling with. And it signals to AI Nexus practitioners that these are not abstract academic exercises—these are the real strategic questions our community works on every day.
 
 ## Part 2: Flash Talks - Next-Gen Perspectives on Tech, Policy, and Human Future (20 minutes)
 
@@ -233,15 +244,11 @@ And because multiple students speak, we get **intellectual diversity**—differe
 
 ## Part 3: Panel Discussion - Silicon Valley Meets the Next Generation (40 minutes)
 
-**Panelists**
-&ndash;
-**Nexus Mentors and Domain Experts** (<span style="color: blue;">TBD</span>)
-
 This is not passive Q&A. This is **active dialogue**—where students and practitioners meet as equals, challenging assumptions, extending ideas, and discovering what each generation can learn from the other.
 
 ### Moderator
 
-**Hyein Kim (김혜인)** &ndash; Taejae University, Data Science / KASC 19th Delegation Chair
+**Hyein Kim** &ndash; Taejae University, Data Science / KASC 19th Delegation Chair
 
 <div class="img-container">
 <img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Hyein%20Kim.jpg">
@@ -249,7 +256,7 @@ This is not passive Q&A. This is **active dialogue**—where students and practi
 
 ### Student Panelists
 
-**Dongjoo Jung (정동주)** &ndash; Sungkyunkwan University, Political Science & Diplomacy
+**Dongjoo Jung** &ndash; Sungkyunkwan University, Political Science & Diplomacy
 
 <div class="img-container">
 <img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Dongjoo%20Jung.jpeg">
@@ -263,9 +270,8 @@ This is not passive Q&A. This is **active dialogue**—where students and practi
 
 ### Expert Panelists
 
-[**Sunghee Yun**](https://sungheeyun.github.io) &ndash; Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio (US)</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Founder & Chair</a> of <a href="/">Nexus</a>
-
-<span style="color: blue;">Additional expert panelist(s) TBD</span>
+- [**Sunghee Yun**](https://sungheeyun.github.io) &ndash; Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Founder & Chair</a> of <a href="/">AI Nexus</a>
+- <span style="color: blue;">Additional expert panelists (TBD)</span>
 
 
 **The panel will:**
@@ -290,20 +296,20 @@ This is not passive Q&A. This is **active dialogue**—where students and practi
 
 **6:55pm - 8pm (and beyond)**
 
-*Dinner generously sponsored by the Consulate General of the Republic of Korea at San Francisco.*
+<span style="color: blue; font-style:italic;">Dinner generously sponsored by the Consulate General of the Republic of Korea at San Francisco.</span>
 
 The formal program ends. The real community-building begins.
 
-This is where KASC students meet Nexus mentors one-on-one. Where founders discover future team members. Where professors meet prospective graduate students. Where practitioners offer career advice, make introductions, and plant seeds for collaborations that will take years to bear fruit.
+This is where KASC students meet AI Nexus mentors one-on-one. Where founders discover future team members. Where professors meet prospective graduate students. Where practitioners offer career advice, make introductions, and plant seeds for collaborations that will take years to bear fruit.
 
 **For KASC students:**
 
 - Meet Silicon Valley practitioners who can advise on career paths, graduate programs, startup ideas, or research directions
 - Get honest feedback on your thinking from people who work in this space every day
 - Build relationships with potential mentors, collaborators, or future colleagues
-- Experience the Nexus community culture: intellectually serious, professionally supportive, genuinely welcoming
+- Experience the AI Nexus community culture: intellectually serious, professionally supportive, genuinely welcoming
 
-**For Nexus practitioners:**
+**For AI Nexus practitioners:**
 
 - Discover fresh perspectives from students who think differently than you do
 - Identify future talent—bilingual, bicultural students who combine technical skill with policy sophistication
@@ -362,7 +368,7 @@ This is where KASC students meet Nexus mentors one-on-one. Where founders discov
 - Build partnerships for future educational collaborations
 - Experience a model of cross-generational, cross-cultural learning
 
-**If you're a Nexus community member**
+**If you're an AI Nexus community member**
 
 - Participate in our most unique event of the year
 - Invest in relationships that will define the next decade of Korea-US collaboration
@@ -423,7 +429,7 @@ The best hires, co-founders, and collaborators are often people you meet years b
 
 **Everyone who cares about the future of Korea-US collaboration, AI governance, and cross-generational learning!**
 
-- Current [Nexus](/) members and past forum attendees
+- Current [AI Nexus](/) members and past forum attendees
 - Technology practitioners (engineers, researchers, product leaders)
 - Policy professionals (government, think tanks, advocacy organizations)
 - Founders and startup operators
@@ -439,7 +445,7 @@ The best hires, co-founders, and collaborators are often people you meet years b
 - Anyone building Korea-US bridges in technology, policy, or education
 - Mentors and advisors willing to invest time in student development
 - Organizations exploring partnerships with universities or student groups
-- Nexus members who want to experience our most unique event of the year
+- AI Nexus members who want to experience our most unique event of the year
 
 # About the Venue - Stanford University
 
@@ -449,17 +455,23 @@ Stanford has been the birthplace of Google, Cisco, Sun Microsystems, Yahoo, Link
 
 **Hosting this event at Stanford is symbolically perfect.**
 
-KASC students get to experience one of the world's most important technology institutions. Nexus practitioners return to a campus where many of them studied, taught, or began their careers. And the setting reinforces the message: **the next generation belongs here, contributing to the conversations that shape the future.**
+<div class="img-container-justified">
+	<img width="30%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/stanford-logo-01.jpg">
+	<img width="30%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/stanford-logo-04.jpg">
+	<img width="30%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/stanford-logo-02.avif">
+</div>
 
-# How This Fits Nexus's Mission
+KASC students get to experience one of the world's most important technology institutions. AI Nexus practitioners return to a campus where many of them studied, taught, or began their careers. And the setting reinforces the message: **the next generation belongs here, contributing to the conversations that shape the future.**
 
-Nexus exists to **explore and advance AI's comprehensive landscape** while **elevating community** and **giving back to society.**
+# How This Fits AI Nexus's Mission
+
+AI Nexus exists to **explore and advance AI's comprehensive landscape** while **elevating community** and **giving back to society.**
 
 This colloquium embodies all three pillars:
 
 **1. Explore & Lead**
 
-Tech sovereignty and human agency sit at the intersection of technology, policy, ethics, philosophy, and geopolitics—exactly the kind of comprehensive exploration Nexus pursues. Bringing students into this conversation ensures we're not just exploring today's questions, but also the questions the next generation will inherit.
+Tech sovereignty and human agency sit at the intersection of technology, policy, ethics, philosophy, and geopolitics—exactly the kind of comprehensive exploration AI Nexus pursues. Bringing students into this conversation ensures we're not just exploring today's questions, but also the questions the next generation will inherit.
 
 **2. Elevate Community**
 
@@ -467,7 +479,7 @@ The strongest communities span generations. When experienced practitioners take 
 
 **3. Give Back to Society**
 
-Investing in the next generation *is* giving back. Every minute spent mentoring a student, every introduction made, every piece of advice offered—that's how knowledge, networks, and values transfer across generations. This is Nexus at its best: not just talking about the future, but actively shaping it.
+Investing in the next generation *is* giving back. Every minute spent mentoring a student, every introduction made, every piece of advice offered—that's how knowledge, networks, and values transfer across generations. This is AI Nexus at its best: not just talking about the future, but actively shaping it.
 
 # Final Thoughts - Why This Matters
 
@@ -486,7 +498,7 @@ Leave convinced that the next generation is ready—and that our job is to suppo
 We will see you all there!
 
 Best regards,<br>
-[Nexus Committee](/committee)
+[AI Nexus Committee](/committee)
 
 ---
 
