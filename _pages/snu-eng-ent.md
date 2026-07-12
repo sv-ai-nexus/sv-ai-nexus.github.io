@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Sat Jul 11 04:31:12 PDT 2026
+last_modified_at: Sun Jul 12 00:15:28 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -162,7 +162,7 @@ schedule, and instructors are unchanged.
 
 ---
 
-## Day 1 · Fri 10-Jul-2026 — Arrival & Moloco
+## Day 1 · Fri 10-Jul-2026 — Arrival~~<span style="color: gray;"> & Moloco</span>~~
 
 **Travel:** Air Premia 111, Incheon 19:15 → San Francisco 13:00 (11 h) · date line crossed
 
@@ -170,13 +170,15 @@ schedule, and instructors are unchanged.
 |---|---|
 | 2:15 pm | Arrival at SFO — immigration & customs |
 | 3:15 pm | Meet guide |
-| 4:00–5:00 pm | **[Company Visit 1] Moloco Inc** |
+| ~~4pm–5pm~~ | ~~[Company Visit 1] Moloco Inc~~ |
 | Evening | Dinner, then transfer to the Ranch & check-in |
 
+<!--
 ### [Company Visit 1] Moloco Inc
 
 **Host:** [Sehyuk Park](https://www.linkedin.com/in/sehyukpark/){:target="_blank"}, Co-CEO
 **Time:** 4:00–5:00 pm · **Venue:** Moloco
+-->
 
 <!-- Photos / notes -->
 
@@ -186,16 +188,16 @@ schedule, and instructors are unchanged.
 
 | | |
 |---|---|
-| 8:00 am | Breakfast at the Ranch |
-| 9:00–11:30 am | **[Lecture 1 & 2] Program Kickoff & Orientation** |
-| 12:00–1:00 pm | Lunch |
-| 1:30–3:30 pm | **Team Project — Step 1: Problem Definition** (mentors present) |
-| 5:00–9:00 pm | **Welcome Dinner / Happy Hour** |
+| 8am | Breakfast at the Ranch |
+| 9am–11:30am | **[Lecture 1 & 2] Program Kickoff & Orientation** |
+| 12pm–1pm | Lunch |
+| 1:30pm–3:30pm | **Team Project — Step 1: Problem Definition** (mentors present) |
+| 4pm-5pm | **[Lecture] [Sehyuk Park](https://www.linkedin.com/in/sehyukpark/){:target="_blank"}, Co-CEO, Moloco** |
+| 5pm–9pm | **Welcome Dinner / Happy Hour** |
 
 ### [Lecture 1 & 2] Program Kickoff & Orientation
 
-**Speaker:** [Sunghee Yun](https://sungheeyun.github.io)
-**Time:** 9:00–11:30 am · **Venue:** Ranch
+**Speaker:** [Sunghee Yun](https://sungheeyun.github.io) / **Time:** 9am–11:30am / **Venue:** Ranch
 
 - **Lecture 1** — Learning from Silicon Valley: Technology, Entrepreneurship, and a Global Mindset
 	&ndash;
@@ -208,22 +210,24 @@ schedule, and instructors are unchanged.
 
 ### Team Project — Step 1: Problem Definition
 
-**Lead:** [Sunghee Yun](https://sungheeyun.github.io) · **All mentors present**
-**Time:** 1:30–3:30 pm · **Venue:** Ranch
+**Lead:** [Sunghee Yun](https://sungheeyun.github.io) &middot; **All mentors present** / **Time:** 1:30pm–3:30pm / **Venue:** Ranch
 
-An AI-based Problem→Solution project grounded in the technologies, companies,
+<!--
+An AI-based Problem &rarr; Solution project grounded in the technologies, companies,
 and lectures encountered in Silicon Valley.
+-->
 
 - Derive problems from company visits and lectures
 - Define the "Real Problem" — sharpen the pain point
-- Each team is paired with its assigned mentor (see **Mentor Assignments** above)
+- Each team is paired with its assigned mentor (see [**Mentor Assignments**](#mentor-assignments) above)
 
 <!-- Notes / photos -->
 
 ### Welcome Dinner (Happy Hour)
 
-**Time:** 5:00–9:00 pm · **Venue:** Ranch
-Joined by ~6 experts and alumni from Silicon Valley AI Nexus.
+**Time:** 5:30pm–10pm / **Venue:** Ranch
+
+Joined by experts and alumni from Silicon Valley AI Nexus.
 
 <!-- Photos -->
 
