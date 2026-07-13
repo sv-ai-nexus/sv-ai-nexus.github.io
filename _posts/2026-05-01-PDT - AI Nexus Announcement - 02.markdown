@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Mon Jul 13 02:26:38 PDT 2026
+last_modified_at: Mon Jul 13 02:36:50 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -67,7 +67,7 @@ This summer, Korea-America Student Conference (KASC) brings 25 exceptional stude
 This is not a traditional forum. This is a <span class="emph">dialogue</span>—where students lead, practitioners critique, and the conversation flows both ways. Call it reverse mentoring. Call it generational exchange. Call it an investment in the people who will shape the next two decades of Korea-US technology collaboration.
 
 - **Date**: 29-Jul-2026 (wed)
-- **Time**: 5:30pm - 8:30pm
+- **Time**: 5pm - 8pm
 - **Venue**: [EVGR C Theater, Stanford University](https://maps.app.goo.gl/fH6WDrG7e6Vwjy4C6){:target="_blank"}
 - **Format**: Congratulatory Remarks + Keynote + Student Flash Talks + Panel Discussion + Dinner & Networking
 - **Sponsor**: The Consulate General of the Republic of Korea at San Francisco
@@ -97,10 +97,7 @@ Three core questions define the conversation:
 
 [Jul-2026 AI Nexus × KASC Joint Colloquium](#top) will explore these questions through congratulatory remarks, keynote, flash talks, panel discussion, and extended networking.
 
-<!--
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/damivx03">this link</a>!</strong></font>
--->
-
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/dkt8j8kv">this link</a>!</strong></font>
 - Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about AI Nexus membership qualification and exclusive perks!
 - Join us at AI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
