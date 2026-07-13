@@ -1,6 +1,6 @@
 ---
 date: Thu Jul  9 10:44:29 PDT 2026
-last_modified_at: Sun Jul 12 22:44:32 PDT 2026
+last_modified_at: Mon Jul 13 12:13:16 PDT 2026
 layout: single
 title: AI Nexus Groups
 permalink: /groups/
@@ -15,7 +15,7 @@ toc_sticky: true
 # List of Groups
 
 |name|members|representative(s)|since|
-|<span id="bmd-group">Bio/Medical/Data</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Jongmin](https://www.linkedin.com/in/jongmin-sung/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (7)|Chanik|01-Jun-2026|
+|<span id="bmd-group">Bio/Medical/Data</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Dongkyun](https://www.linkedin.com/in/dongkyun-kim-0206193/){:target="_blank"} [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Jongmin](https://www.linkedin.com/in/jongmin-sung/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"} [Nari](https://www.linkedin.com/in/narichoi/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (9)|Chanik|01-Jun-2026|
 |<span id="karaoke-group">Karaoke</span>|[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) [Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/){:target="_blank"} (4)|Sunghee|02-Jun-2026|
 |<span id="ai-hands-on-group">AI Hands-on</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} James [Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (5)|Sunghee|03-Jun-2026|
 |<span id="legal-prof-group">Legal Professionals</span>|[Dayoung](https://www.linkedin.com/in/dayoungjeong/){:target="_blank"} [Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"} [Ha Young](https://www.linkedin.com/in/hayoungkim5064/){:target="_blank"} [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Hyojin](https://www.linkedin.com/in/hyojin-lee-7b43a2260/){:target="_blank"} [Hyung Won](https://www.linkedin.com/in/hyung-won-eric-nahm-511599171/){:target="_blank"} [Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} [Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} Jiyoon [Joo Hyong](https://www.linkedin.com/in/daniel-joo-hyong-lee/){:target="_blank"} [Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"} [Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/){:target="_blank"} (13)|Hayden Jeff Natalie|04-Jun-2026|
