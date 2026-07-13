@@ -1,6 +1,6 @@
 ---
 date: Thu Jul  9 10:44:29 PDT 2026
-last_modified_at: Sun Jul 12 18:13:36 PDT 2026
+last_modified_at: Sun Jul 12 22:44:32 PDT 2026
 layout: single
 title: AI Nexus Groups
 permalink: /groups/
@@ -20,6 +20,7 @@ toc_sticky: true
 |<span id="ai-hands-on-group">AI Hands-on</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} James [Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (5)|Sunghee|03-Jun-2026|
 |<span id="legal-prof-group">Legal Professionals</span>|[Dayoung](https://www.linkedin.com/in/dayoungjeong/){:target="_blank"} [Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"} [Ha Young](https://www.linkedin.com/in/hayoungkim5064/){:target="_blank"} [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Hyojin](https://www.linkedin.com/in/hyojin-lee-7b43a2260/){:target="_blank"} [Hyung Won](https://www.linkedin.com/in/hyung-won-eric-nahm-511599171/){:target="_blank"} [Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} [Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} Jiyoon [Joo Hyong](https://www.linkedin.com/in/daniel-joo-hyong-lee/){:target="_blank"} [Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"} [Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/){:target="_blank"} (13)|Hayden Jeff Natalie|04-Jun-2026|
 |<span id="east-bay-group">East Bay</span>|[Daniel](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"} [Eugene](https://www.linkedin.com/in/ekjoo/){:target="_blank"} [Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} [Linda](https://www.linkedin.com/in/linda-woonju-baek/){:target="_blank"} [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"} [MJ](https://www.linkedin.com/in/mjkang8/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (7)|Hyunjung|05-Jun-2026|
+|<span id="app-builder-group">App Builder</span>|[Eunkwang](https://www.linkedin.com/in/ekjoo){:target="_blank"} [Jongmin](https://www.linkedin.com/in/jongmin-sung/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (4)|Eunkwang Minha|12-Jul-2026|
 
 (Members alphabetically ordered by their first names.)
 
@@ -27,10 +28,17 @@ toc_sticky: true
 
 ## Jul-2026
 
-### 12-Jul-2026 - Humanity & AGI Summit 2026：Robotics for Future Civilization @ Stanford Faculty Club
+### 12-Jul-2026 - Virtually participates Stanford Humanity & AGI Summit 2026 - Robotics for Future Civilization @ San Jose Country Club
 
 <div class="img-container">
 	<!--img style="max-width: 100%; max-height: none;" width="100%" src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg"-->
 	<img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg">
 	<!--img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg"-->
 </div>
+
+### 12-Jul-2026 - App Builder Interest Group kicks off in Burlingame
+
+<div class="img-container">
+	<img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - App Builder Group/KakaoTalk_Photo_2026-07-12-17-28-50 002-25-reduced.jpeg">
+</div>
+
