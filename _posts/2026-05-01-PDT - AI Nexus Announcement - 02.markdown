@@ -1,8 +1,8 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Sun Jul 12 22:31:31 PDT 2026
+last_modified_at: Mon Jul 13 02:26:38 PDT 2026
 layout: single
-title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future"
+title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
 categories:
  - announcement
@@ -132,7 +132,7 @@ Instead of practitioners lecturing students, **students speak first**—presenti
 | Time | Activity |
 |------|----------|
 | 5pm - 5:30pm | **Registration & Early Networking** |
-| 5:30pm - 5:35pm | **Congratulatory Remarks** (Consul Kyungrae Cho, Science & Technology and AI &middot; ICT Consul, Consulate General of the Republic of Korea at San Francisco) |
+| 5:30pm - 5:35pm | **Congratulatory Remarks** (Kyeongrae Cho, Consul for AI, Consulate General of the Republic of Korea at San Francisco / Ministry of Science and ICT) |
 | 5:35pm - 5:55pm | **Keynote: Tech Sovereignty and the Korea-US Alliance** ([Sunghee Yun](https://sungheeyun.github.io/), Co-Founder & CTO @ Erudio Bio, Co-Founder & Leader & Chair @ [AI Nexus](/)) |
 | 5:55pm - 6:15pm | **Flash Talks: Next-Gen Perspectives on Tech, Policy, and Human Future** (KASC Students) |
 | 6:15pm - 6:55pm | **Panel Discussion: Silicon Valley Meets the Next Generation** (Moderated by Hyein Kim) |
@@ -149,7 +149,7 @@ The keynote sets context. The flash talks surface next-gen thinking. The panel d
 
 **Speaker**
 &ndash;
-**Consul Kyungrae Cho** - Science & Technology and AI &middot; ICT Consul, Consulate General of the Republic of Korea at San Francisco
+**Kyeongrae Cho** - Consul for AI, Consulate General of the Republic of Korea at San Francisco / Ministry of Science and ICT
 
 We are honored that Consul Cho will open our colloquium with congratulatory remarks on behalf of the Consulate General of the Republic of Korea at San Francisco, which generously sponsors this event. Consul Cho's portfolio spans science, technology, AI, and ICT—making him an ideal voice to set the stage for an evening exploring tech sovereignty and the Korea-US alliance.
 
@@ -505,4 +505,4 @@ Best regards,<br>
 
 **Special thanks to Hyein Kim (KASC Chair) and the entire KASC 19th Delegation for this remarkable partnership. We're honored to be part of your Silicon Valley experience.**
 
-**We extend our deepest gratitude to the Consulate General of the Republic of Korea at San Francisco for their generous sponsorship of this event, and to Consul Kyungrae Cho for honoring us with congratulatory remarks.**
+**We extend our deepest gratitude to the Consulate General of the Republic of Korea at San Francisco for their generous sponsorship of this event, and to Consul Kyeongrae Cho for honoring us with congratulatory remarks.**
