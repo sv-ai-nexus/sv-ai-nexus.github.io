@@ -1,6 +1,6 @@
 ---
 date: Thu Jul  9 10:44:29 PDT 2026
-last_modified_at: Thu Jul  9 18:23:03 PDT 2026
+last_modified_at: Sun Jul 12 18:13:36 PDT 2026
 layout: single
 title: AI Nexus Groups
 permalink: /groups/
@@ -29,3 +29,8 @@ toc_sticky: true
 
 ### 12-Jul-2026 - Humanity & AGI Summit 2026：Robotics for Future Civilization @ Stanford Faculty Club
 
+<div class="img-container">
+	<!--img style="max-width: 100%; max-height: none;" width="100%" src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg"-->
+	<img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg">
+	<!--img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg"-->
+</div>
