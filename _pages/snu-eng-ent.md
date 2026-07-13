@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Sun Jul 12 00:15:28 PDT 2026
+last_modified_at: Sun Jul 12 22:25:08 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -160,8 +160,6 @@ posted here as the program progresses.
 building (KIC SV) are held at the **Ranch** instead. The program content,
 schedule, and instructors are unchanged.
 
----
-
 ## Day 1 · Fri 10-Jul-2026 — Arrival~~<span style="color: gray;"> & Moloco</span>~~
 
 **Travel:** Air Premia 111, Incheon 19:15 → San Francisco 13:00 (11 h) · date line crossed
@@ -181,8 +179,6 @@ schedule, and instructors are unchanged.
 -->
 
 <!-- Photos / notes -->
-
----
 
 ## Day 2 · Sat 11-Jul-2026 — Kickoff & Team Project Step 1
 
@@ -231,15 +227,12 @@ Joined by experts and alumni from Silicon Valley AI Nexus.
 
 <!-- Photos -->
 
----
-
 ## Day 3 · Sun 12-Jul-2026 — Startup Fundamentals
 
 | | |
 |---|---|
 | 9:00 am–12:00 pm | **[Lecture 3 & 4] The Nine Vital Signs of Startup Success** |
 | 2:00–5:00 pm | **[Mentoring 1 & 2] Startup Fundamentals** |
-| 8:00–10:00 pm | **Team Project — Step 2: Solution Design** |
 
 ### [Lecture 3 & 4] The Nine Vital Signs of Startup Success
 
@@ -268,18 +261,7 @@ survey, and closes with a customer-discovery toolset.
 
 <!-- Slides -->
 
-### Team Project — Step 2: Solution Design
-
-**Lead:** [Sunghee Yun](https://sungheeyun.github.io)
-**Time:** 8:00–10:00 pm · **Venue:** Ranch
-
-- Architecting the AI solution
-- Model architecture · Data strategy · System pipeline
-- Competitive service analysis (benchmarking)
-
 <!-- Notes -->
-
----
 
 ## Day 4 · Mon 13-Jul-2026 — Sendbird & Advisory Boards
 
@@ -288,6 +270,7 @@ survey, and closes with a customer-discovery toolset.
 | 11:00 am–12:30 pm | **[Company Visit 2] Sendbird Inc** |
 | 2:00–5:00 pm | **[Mentoring 3 & 4] Building an All-Star Advisory Board** |
 | 6:00–8:00 pm | Dinner, then team project work |
+| 8:00–10:00 pm | **Team Project — Step 2: Solution Design** |
 
 ### [Company Visit 2] Sendbird Inc
 
@@ -312,7 +295,14 @@ and a nine-part Investor Readiness Assessment.
 
 <!-- Slides -->
 
----
+### Team Project — Step 2: Solution Design
+
+**Lead:** [Sunghee Yun](https://sungheeyun.github.io)
+**Time:** 8:00–10:00 pm · **Venue:** Ranch
+
+- Architecting the AI solution
+- Model architecture · Data strategy · System pipeline
+- Competitive service analysis (benchmarking)
 
 ## Day 5 · Tue 14-Jul-2026 — Grumatic & Validation
 
@@ -352,8 +342,6 @@ Building and scaling an AI-native enterprise software company:
 
 <!-- Notes -->
 
----
-
 ## Day 6 · Wed 15-Jul-2026 — Commercialization & Foundation Models
 
 | | |
@@ -390,8 +378,6 @@ companies, angel investing, and accelerator mentoring — and what perspective o
 one's career matters most in a world being reshaped this way.
 
 <!-- Notes -->
-
----
 
 ## Day 7 · Thu 16-Jul-2026 — AI Safety & SVC
 
@@ -439,8 +425,6 @@ in the age of AI.
 
 <!-- Notes -->
 
----
-
 ## Day 8 · Fri 17-Jul-2026 — Altos Ventures, Bear Robotics & Final Pitch Prep
 
 *Joined by Dean Young-Oh Kim (김영오) for the company visits.*
@@ -481,8 +465,6 @@ See [IR Pitching Preparation Guide](/resource/activities/2026 07 - SNU Eng Ent P
 
 <!-- Notes -->
 
----
-
 ## Day 9 · Sat 18-Jul-2026 — AI Business Transformation
 
 | | |
@@ -503,8 +485,6 @@ See [IR Pitching Preparation Guide](/resource/activities/2026 07 - SNU Eng Ent P
 6. Q&A
 
 <!-- Slides -->
-
----
 
 ## Day 10 · Sun 19-Jul-2026 — Final Pitch & Awards
 
@@ -532,8 +512,6 @@ Awards Ceremony.
 With mentors and expert guests.
 
 <!-- Photos -->
-
----
 
 ## Day 11 · Mon 20-Jul-2026 — Departure
 
