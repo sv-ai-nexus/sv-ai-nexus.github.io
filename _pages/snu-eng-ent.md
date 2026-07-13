@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Sun Jul 12 22:25:08 PDT 2026
+last_modified_at: Mon Jul 13 11:47:51 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -231,8 +231,8 @@ Joined by experts and alumni from Silicon Valley AI Nexus.
 
 | | |
 |---|---|
-| 9:00 am–12:00 pm | **[Lecture 3 & 4] The Nine Vital Signs of Startup Success** |
-| 2:00–5:00 pm | **[Mentoring 1 & 2] Startup Fundamentals** |
+| 9am–12pm | **[Lecture 3 & 4] The Nine Vital Signs of Startup Success** |
+| 2pm–5pm | **[Mentoring 1 & 2] Startup Fundamentals** |
 
 ### [Lecture 3 & 4] The Nine Vital Signs of Startup Success
 
@@ -267,10 +267,11 @@ survey, and closes with a customer-discovery toolset.
 
 | | |
 |---|---|
-| 11:00 am–12:30 pm | **[Company Visit 2] Sendbird Inc** |
-| 2:00–5:00 pm | **[Mentoring 3 & 4] Building an All-Star Advisory Board** |
-| 6:00–8:00 pm | Dinner, then team project work |
-| 8:00–10:00 pm | **Team Project — Step 2: Solution Design** |
+| 9am–10am | **Visit Google @ Mountain View** |
+| 11am–12:30pm | **[Company Visit 2] Sendbird Inc** |
+| 2pm–5pm | **[Mentoring 3 & 4] Building an All-Star Advisory Board** |
+| 6pm–8pm | Dinner, then team project work |
+| 8pm–10pm | **Team Project — Step 2: Solution Design** |
 
 ### [Company Visit 2] Sendbird Inc
 
