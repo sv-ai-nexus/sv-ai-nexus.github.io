@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Fri Jul 10 21:39:57 PDT 2026
+last_modified_at: Sun Jul 12 22:31:31 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future"
 permalink: /event-announcements/02
@@ -59,7 +59,8 @@ This summer, Korea-America Student Conference (KASC) brings 25 exceptional stude
 &nbsp;
 	<img width="25%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/ai-nexus-logo-01.png">
 	<img width="25%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/kasc-logo-01.png">
-	<img width="25%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/stanford-logo-01.jpg">
+	<!--img width="25%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/stanford-logo-01.jpg"-->
+	<img width="25%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/korean-consulate-general-san-francisco-logo.png">
 &nbsp;
 </div>
 
