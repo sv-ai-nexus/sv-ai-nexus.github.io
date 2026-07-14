@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Mon Jul 13 02:36:50 PDT 2026
+last_modified_at: Tue Jul 14 00:32:46 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -71,6 +71,7 @@ This is not a traditional forum. This is a <span class="emph">dialogue</span>—
 - **Venue**: [EVGR C Theater, Stanford University](https://maps.app.goo.gl/fH6WDrG7e6Vwjy4C6){:target="_blank"}
 - **Format**: Congratulatory Remarks + Keynote + Student Flash Talks + Panel Discussion + Dinner & Networking
 - **Sponsor**: The Consulate General of the Republic of Korea at San Francisco
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/dkt8j8kv">this link</a>!</strong></font>
 
 ## Why This Colloquium Matters
 
