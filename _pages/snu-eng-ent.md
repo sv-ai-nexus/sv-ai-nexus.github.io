@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Mon Jul 13 19:33:09 PDT 2026
+last_modified_at: Tue Jul 14 00:44:22 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -273,7 +273,7 @@ schedule, and instructors are unchanged.
 | | |
 |---|---|
 | 8am | Breakfast at the Ranch |
-| 9am–11:30am | **[Lecture 1 & 2] Program Kickoff & Orientation** |
+| 9am–12pm | **[Lecture 1 & 2] Program Kickoff & Orientation** |
 | 12pm–1pm | Lunch |
 | 1:30pm–3:30pm | **Team Project — Step 1: Problem Definition** (mentors present) |
 | 4pm-5pm | **[Lecture] [Sehyuk Park](https://www.linkedin.com/in/sehyukpark/){:target="_blank"}, Co-CEO, Moloco** |
@@ -281,7 +281,7 @@ schedule, and instructors are unchanged.
 
 ### [Lecture 1 & 2] Program Kickoff & Orientation
 
-**Speaker:** [Sunghee Yun](https://sungheeyun.github.io) / **Time:** 9am–11:30am / **Venue:** Ranch
+**Speaker:** [Sunghee Yun](https://sungheeyun.github.io) / **Time:** 9am–12pm / **Venue:** Ranch
 
 - **Lecture 1** — Learning from Silicon Valley: Technology, Entrepreneurship, and a Global Mindset
 	&ndash;
