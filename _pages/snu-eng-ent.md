@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Mon Jul 13 19:10:47 PDT 2026
+last_modified_at: Mon Jul 13 19:33:09 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -82,10 +82,10 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 &nbsp;
 </div>
 
-| Team | Startup Idea | Why this mentor |
-|:---:|---|---|
-| MP6 | **Re:View** — Slide–transcript alignment multimodal learning platform | Multimodal LLM application; benefits from foundation-model + product framing |
-| GT1 | **Casper** — AI case-interview simulation & career platform | LLM reasoning + edtech; strategic mentoring on defensibility and market |
+| Team | Members | Startup Idea | Why this mentor |
+|:---:|---|---|---|
+| MP6 | 최은우 (컴퓨터공학부) | **Re:View** — Slide–transcript alignment multimodal learning platform | Multimodal LLM application; benefits from foundation-model + product framing |
+| GT1 | 박서연 (국악과) · Wang Melody (경영학과) | **Casper** — AI case-interview simulation & career platform | LLM reasoning + edtech; strategic mentoring on defensibility and market |
 
 ### Minha Hwang · 2 teams
 
@@ -97,10 +97,10 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/1763930007475.png">
 </div>
 
-| Team | Startup Idea | Why this mentor |
-|:---:|---|---|
-| MP1 | **Jungbi Banjang (정비반장)** — Ontology & LLM urban-redevelopment automation B2B SaaS | Enterprise LLM + knowledge/ontology system — core Microsoft AI territory |
-| MT2 | **PICKIT** — NL multi-channel e-commerce OMS (orders, inventory, demand forecast) | Assortment / e-commerce / demand forecasting — his marketing-science bullseye |
+| Team | Members | Startup Idea | Why this mentor |
+|:---:|---|---|---|
+| MP1 | 김대현 (재료공학부) | **Jungbi Banjang (정비반장)** — Ontology & LLM urban-redevelopment automation B2B SaaS | Enterprise LLM + knowledge/ontology system — core Microsoft AI territory |
+| MT2 | 우승연 (기계공학부) · 최재웅 (기계공학부) | **PICKIT** — NL multi-channel e-commerce OMS (orders, inventory, demand forecast) | Assortment / e-commerce / demand forecasting — his marketing-science bullseye |
 
 ### Gordon Park · 2 teams
 
@@ -112,10 +112,10 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/1745348272576.jpg">
 </div>
 
-| Team | Startup Idea | Why this mentor |
-|:---:|---|---|
-| MP3 | **Micro AI Analyzer** — DL classification of microglial (HMC3) inflammation states | Microglial neuroinflammation is dead-center of his neuroscience expertise |
-| MP5 | **Seaweed Processing & Distribution** — CV + domain AI for material processing & distribution | Vision-based biological-material analysis parallels his bio-image classification work |
+| Team | Members | Startup Idea | Why this mentor |
+|:---:|---|---|---|
+| MP3 | 박도현 (기계공학부) | **Micro AI Analyzer** — DL classification of microglial (HMC3) inflammation states | Microglial neuroinflammation is dead-center of his neuroscience expertise |
+| MP5 | 허도원 (전기정보공학부) | **Seaweed Processing & Distribution** — CV + domain AI for material processing & distribution | Vision-based biological-material analysis parallels his bio-image classification work |
 
 ### Chanik Park · 2 teams
 
@@ -127,10 +127,10 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/1736293691906.jpg">
 </div>
 
-| Team | Startup Idea | Why this mentor |
-|:---:|---|---|
-| MP2 | **CMYWB 5-Channel 3D Printer** — AI-CFD static-mixing nozzle for full-color FDM | Manufacturing + systems/process optimization — his hardware-systems core |
-| GT2 | **Kandid Spot** — Korea travel local-recommendation app | Consumer marketplace; benefits from go-to-market / commercialization coaching (CCO lens) |
+| Team | Members | Startup Idea | Why this mentor |
+|:---:|---|---|---|
+| MP2 | 민승희 (항공우주공학과) | **CMYWB 5-Channel 3D Printer** — AI-CFD static-mixing nozzle for full-color FDM | Manufacturing + systems/process optimization — his hardware-systems core |
+| GT2 | 김준휘 (기계공학부) · 오지승 (자유전공학부) | **Kandid Spot** — Korea travel local-recommendation app | Consumer marketplace; benefits from go-to-market / commercialization coaching (CCO lens) |
 
 ### Eunkwang Joo · 3 teams
 
@@ -142,11 +142,11 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 	<img width="35%" src="https://sungheeyun-photos-02.github.io/resource/profile-photos/KakaoTalk_Photo_2026-07-10-14-22-56.jpeg">
 </div>
 
-| Team | Startup Idea | Why this mentor |
-|:---:|---|---|
-| MT3 | **New venture — item TBD** (Mech / EE / Arch) | Serial-founder builder to guide ideation to MVP for a team still choosing its idea |
-| MT4 | **New venture — item TBD** (Mech x3) | Same 0-to-1 need; hands-on shipping experience to move fast from concept to demo |
-| MT5 | **New venture — item TBD** (Ind Eng / Civil / Mech) | Ideation-to-prototype coaching, drawing on his SW Maestro / SkyDeck mentoring |
+| Team | Members | Startup Idea | Why this mentor |
+|:---:|---|---|---|
+| MT3 | 강채은 (기계공학부) · 김산 (전기정보공학부) · 안성준 (건축학과) | **New venture — item TBD** (Mech / EE / Arch) | Serial-founder builder to guide ideation to MVP for a team still choosing its idea |
+| MT4 | 양승민 (기계공학부) · 허준영 (기계공학부) · 최인식 (기계공학부) | **New venture — item TBD** (Mech x3) | Same 0-to-1 need; hands-on shipping experience to move fast from concept to demo |
+| MT5 | 권성안 (산업공학과) · 서준빈 (건설환경공학부) · 안준영 (기계공학부) | **New venture — item TBD** (Ind Eng / Civil / Mech) | Ideation-to-prototype coaching, drawing on his SW Maestro / SkyDeck mentoring |
 
 ### Yerang Huh · 2 teams
 
@@ -154,10 +154,10 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 
 **Focus:** IoT, embedded software, 4G/5G connectivity, smart-building systems; founder-journey coaching
 
-| Team | Startup Idea | Why this mentor |
-|:---:|---|---|
-| MT1 | **Lymo AI** — AIoT autonomous solar / blind control for glass façades | Smart-building AIoT control is literally his day job at View Connect |
-| MP4 | **Hybrid Rover** — EDF jet-vane propulsion + 4WD for public-safety operations | Embedded systems / real-time control fit his engineering depth |
+| Team | Members | Startup Idea | Why this mentor |
+|:---:|---|---|---|
+| MT1 | 윤대원 (건축학과) · 채민규 (화학생물공학부) | **Lymo AI** — AIoT autonomous solar / blind control for glass façades | Smart-building AIoT control is literally his day job at View Connect |
+| MP4 | 이석준 (항공우주공학과) | **Hybrid Rover** — EDF jet-vane propulsion + 4WD for public-safety operations | Embedded systems / real-time control fit his engineering depth |
 
 # Project Guidance — Building Your Pitch
 
