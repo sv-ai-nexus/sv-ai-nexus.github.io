@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Mon Jul 13 11:47:51 PDT 2026
+last_modified_at: Mon Jul 13 19:10:47 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -9,6 +9,14 @@ toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
 ---
+
+<script src="{{ '/assets/js/toc-collapse.js' | relative_url }}"></script>
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
 
 # Program
 
@@ -150,6 +158,86 @@ most accelerates it. Team IDs follow the Student Team Composition sheet
 |:---:|---|---|
 | MT1 | **Lymo AI** — AIoT autonomous solar / blind control for glass façades | Smart-building AIoT control is literally his day job at View Connect |
 | MP4 | **Hybrid Rover** — EDF jet-vane propulsion + 4WD for public-safety operations | Embedded systems / real-time control fit his engineering depth |
+
+# Project Guidance — Building Your Pitch
+
+Resources and advice contributed by the mentors to help each team turn its idea
+into an investor-ready pitch. Work through these alongside the team-project
+steps in the Schedule below.
+
+Start with the [IR Pitching Preparation Guide](/resource/activities/2026 07 - SNU Eng Ent Program/IR Pitching Prep.docx){:target="_blank"} — deck structure, expected questions, and how you will be evaluated.
+
+## 1. Define the Problem — the 7 Steps of Problem Solving
+
+*Contributed by [Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}*
+
+The structured problem-solving method Minha learned as a McKinsey consultant.
+Following each step carries you from problem definition through to an execution
+plan and real results — a direct extension of the Step 1 (Problem Definition)
+session.
+
+- [Cracking Business Case Interviews, Part 1 — Define a Problem](https://towardsdatascience.com/cracking-business-case-interviews-for-data-scientists-step-1-define-a-problem-6a63f86b9a38/){:target="_blank"}
+- [Cracking Business Case Interviews, Part 2](https://towardsdatascience.com/cracking-business-case-interviews-for-data-scientists-part-2-c96d9b9a4292/){:target="_blank"}
+
+## 2. Build the Deck — Y Combinator–Style Template
+
+*Contributed by [Gordon Park](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}*
+
+[Simple and Clean Investor Deck Presentation](/resource/activities/2026 07 - SNU Eng Ent Program/Simple and Clean Investor Deck Presentation.pptx)
+
+A pitch deck template organized to the **Y Combinator deck standard**, covering
+the canonical Silicon Valley IR structure:
+
+> Executive Summary → Product → Business Model → Target Market →
+> Competitive Advantage → Team → Financials → The Ask
+
+<!-- Template: [Investor Deck Template](/resource/activities/2026 07 - SNU Eng Ent Program/Simple and Clean Investor Deck Presentation.pptx){:target="_blank"} -->
+
+**How to use it.** Treat filling in this deck as the work of *organizing your
+business item* — do the market research as you go, rather than writing slides at
+the end. The point is not to produce a presentation; it is that by working
+through it, the idea begins to take **the shape of a company**.
+
+Follow the structure, but customize freely to fit your team's item. It is a
+scaffold, not a script.
+
+## 3. Review & Critique the Deck — Multi-Agent Skills
+
+*Contributed by [Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}*
+
+Two multi-agent workflows that review and critique a pitch, built to run on
+**Claude Code** (or any coding-agent CLI with multi-agent support). Each comes
+with an installation and usage guide, including the prompts to use.
+
+| Skill | Use when |
+|---|---|
+| **Multi-Agent Pitch Deck Review** | Your only input is the pitch deck |
+| **Multi-Agent Due Diligence** | You also have email, financial projections, cap table, offering documents, or DD reports — a 3-phase / 6-agent architecture |
+
+<!-- Guides: [Pitch Review Guide](...html) · [Due Diligence Guide](...html) -->
+
+**Why this matters.** These were built as an *investor's* tool — Minha's own
+custom workflow for angel investing. Founders can therefore run them 역지사지:
+turn the investor's critique on yourself, and harden your deck, cap table, and
+financial projections before anyone else sees them.
+
+## 4. Beyond Prompt Engineering
+
+*Contributed by [Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}*
+
+Seminar material covering (1) Intro to LLM and Agentic AI, (2) AI and Learning,
+(3) Vibe Coding → Agentic Engineering, and (4) Agentic Research. Portions of
+this preview his **Jul 15 lecture and demo** (see Day 6).
+
+<!-- Slides: [Beyond Prompt Engineering](/resource/activities/2026 07 - SNU Eng Ent Program/260715.Beyond_Prompt_Engineering_SNU_Engineering.pdf){:target="_blank"} -->
+
+## 5. Going Further — Agentic AI Summit 2026
+
+*Suggested by [Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} for teams building on agentic AI*
+
+[**Agentic AI Summit 2026**](https://rdi.berkeley.edu/events/agentic-ai-summit-2026){:target="_blank"} — Aug 1–2, 2026, UC Berkeley (hosted by Berkeley RDI).
+Online streaming is available via a **free Virtual Pass**, so you can attend
+from Korea after the program ends.
 
 # Schedule
 
