@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Tue Jul 14 00:32:46 PDT 2026
+last_modified_at: Tue Jul 14 18:17:18 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -41,6 +41,17 @@ to share this special colloquium!
 
 # Invitation
 
+<div class="notice--warning">
+<strong>🌎 Broadcasting LIVE to the World!</strong><br>
+Starting from our very 2nd Chapter, AI Nexus is going GLOBAL. In response to overwhelming requests from friends and colleagues across the U.S. and around the world, we will broadcast this event LIVE via Google Meet. Whether you're in Seoul, New York, Boston, London, or anywhere else &mdash; you can be there with us.<br>
+<strong>👉 <a target="_blank" href="https://meet.google.com/bsw-xetf-wff">https://meet.google.com/bsw-xetf-wff</a></strong>
+</div>
+
+<div class="notice--info">
+<strong>🗣 This Event Will Be Conducted Entirely in English</strong><br>
+With half of the KASC delegates being American students, the entire colloquium &mdash; keynote, student flash talks, panel discussion, and networking &mdash; will be conducted in English. A truly global stage for a truly global conversation.
+</div>
+
 AI Nexus Community Members, Friends, Educators, Students, Policymakers, and Bridge Builders!
 
 🌉 **THE NEXT GENERATION SPEAKS!** 🌉
@@ -67,8 +78,9 @@ This summer, Korea-America Student Conference (KASC) brings 25 exceptional stude
 This is not a traditional forum. This is a <span class="emph">dialogue</span>—where students lead, practitioners critique, and the conversation flows both ways. Call it reverse mentoring. Call it generational exchange. Call it an investment in the people who will shape the next two decades of Korea-US technology collaboration.
 
 - **Date**: 29-Jul-2026 (wed)
-- **Time**: 5pm - 8pm
+- **Time**: 5pm - 8pm (Pacific Daylight Time)
 - **Venue**: [EVGR C Theater, Stanford University](https://maps.app.goo.gl/fH6WDrG7e6Vwjy4C6){:target="_blank"}
+- **🌎 Broadcasting LIVE to the World via Google Meet**: [https://meet.google.com/bsw-xetf-wff](https://meet.google.com/bsw-xetf-wff){:target="_blank"}
 - **Format**: Congratulatory Remarks + Keynote + Student Flash Talks + Panel Discussion + Dinner & Networking
 - **Sponsor**: The Consulate General of the Republic of Korea at San Francisco
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/dkt8j8kv">this link</a>!</strong></font>
