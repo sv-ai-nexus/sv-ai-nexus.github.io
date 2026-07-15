@@ -1,6 +1,6 @@
 ---
 date: Thu Jul  9 10:44:29 PDT 2026
-last_modified_at: Mon Jul 13 12:13:16 PDT 2026
+last_modified_at: Wed Jul 15 00:54:57 PDT 2026
 layout: single
 title: AI Nexus Groups
 permalink: /groups/
@@ -42,3 +42,22 @@ toc_sticky: true
 	<img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - App Builder Group/KakaoTalk_Photo_2026-07-12-17-28-50 002-25-reduced.jpeg">
 </div>
 
+### 09-Jul-2026 - Celebrating the 100th Member with Lunch, Coaching — and a New Collaboration
+
+> I had the pleasure of meeting Dr. Jinhee Lee, AI Nexus’s 100th registered member. To celebrate this milestone, I invited her to lunch and offered her a leadership coaching session.
+>
+> Dr. Lee is an associate professor of psychiatry at Yonsei University Wonju College of Medicine and a board-certified child and adolescent psychiatrist. She is currently a visiting scholar in the Department of Psychiatry and Behavioral Sciences at Stanford University.
+>
+> What began as a coaching conversation naturally grew into nearly three hours of meaningful dialogue about career, purpose, and contribution. Our conversation also sparked an exciting new collaboration: Dr. Lee will be the first speaker in the Human Performance Series I am developing through Northstar Emerge.
+> [https://northstaremerge.com/](https://northstaremerge.com/){:target="_blank"}
+>
+> Her upcoming webinar will explore adult ADHD through the lenses of neurodevelopment, executive functioning, and emotional regulation. She will also share practical strategies that can be applied in the workplace, at home, and in relationships.
+>
+> It is remarkable how one first meeting can lead to such a meaningful opportunity. I am grateful to AI Nexus for bringing us together. This is what a rich, purpose-driven community can create: meaningful relationships, unexpected collaborations, and new opportunities to contribute. You never know where one conversation may lead.
+>
+> &ndash; [Sue](https://www.linkedin.com/in/suekimpr/){:target="_blank"}
+{: .notice--info}
+
+<div class="img-container">
+	<img src="https://sungheeyun-photos-02.github.io/resource/2026/07/09 - AI Nexus mentoring/KakaoTalk_Photo_2026-07-15-00-34-15-50-reduced.jpeg">
+</div>
