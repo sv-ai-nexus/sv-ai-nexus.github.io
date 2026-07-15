@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Tue Jul 14 00:44:22 PDT 2026
+last_modified_at: Tue Jul 14 19:17:07 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -425,9 +425,50 @@ Building and scaling an AI-native enterprise software company:
 **Lead:** [Sunghee Yun](https://sungheeyun.github.io)
 **Time:** 8:00–10:00 pm · **Venue:** Ranch
 
+<!--
 - Market validation
 - Technical feasibility review
 - Risk analysis (with particular attention to AI safety)
+-->
+
+Steps 1–2 were about falling in love with your problem and designing a solution.
+Tonight you switch sides and try to **kill your own idea** — before the market,
+or an investor, does it for you. Validation is where a nice idea starts (or fails)
+to become a company.
+
+**1. Market validation — is the demand real?**
+
+- A problem people *have* is not the same as a problem people will *pay* to solve — painkiller, not vitamin.
+- Talk to real potential users, not imagined ones. Even 5–10 conversations beat zero.
+- Look for evidence the pain already exists: people hacking together spreadsheets, manual workarounds, paying for something worse.
+- Willingness to pay — would they reach for a credit card, or just say "cool"?
+- Size it **bottom-up** (users × price), not top-down. "1% of a huge market" is a red flag, not a plan.
+
+**2. Technical feasibility — can you actually build it?**
+
+- Name your single hardest technical risk out loud — then attack that first.
+- Separate a weekend hack from a PhD thesis. Be honest about which yours is.
+- For AI products: is your edge the **model, the data, or the workflow**? Models commoditize fast; data and workflow last longer.
+- Data strategy — do you have, or can you realistically get, the data you need?
+- What can you fake or prototype now (Wizard-of-Oz) vs. what truly needs to be engineered?
+
+**3. Differentiation — why you, why now?**
+
+- Who else solves this, including the "do nothing" option and incumbents?
+- What makes it hard to copy six months after you launch?
+- Why is this possible *now* — what changed in technology, cost, or behavior?
+
+**4. Risk analysis — what could go wrong? (esp. AI safety)**
+
+- What happens when your AI is wrong? What does one mistake cost the user?
+- Consider hallucination, bias, privacy, and misuse — sharper the more user-facing or high-stakes the domain.
+- Flag regulatory or ethical exposure early. (This feeds straight into the **Day 7 AI Safety & Alignment** lecture.)
+
+**What each team leaves with tonight**
+
+- Your single biggest assumption — and how you'd test it this week.
+- One sentence: "For this to be a large company, ______ has to be true."
+- Findings go directly into the deck's **Market**, **Competitive Advantage**, and **Traction** slides.
 
 <!-- Notes -->
 
