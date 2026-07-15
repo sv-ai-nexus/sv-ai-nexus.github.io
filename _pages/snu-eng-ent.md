@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Tue Jul 14 19:17:07 PDT 2026
+last_modified_at: Wed Jul 15 10:21:18 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -476,14 +476,14 @@ to become a company.
 
 | | |
 |---|---|
-| 9:00 am–12:00 pm | **[Mentoring 5 & 6] Tech Commercialization** |
+| 10:30am–12pm | **[Mentoring 5 & 6] Tech Commercialization** |
 | 1:00–4:00 pm | **[Lecture 5 & 6] LLMs & Foundation Models** |
 | 8:00–10:00 pm | **Pop-up Seminar 1** |
 
 ### [Mentoring 5 & 6] Tech Commercialization
 
 **Speaker:** [Geunhwi (Kenny) Lim, PhD](https://www.linkedin.com/in/geunhwi-kenny-lim-04116571/){:target="_blank"}
-**Time:** 9:00 am–12:00 pm · **Venue:** Ranch
+**Time:** 10:30am–12pm · **Venue:** Ranch
 
 Turning breakthrough technologies into scalable businesses.
 

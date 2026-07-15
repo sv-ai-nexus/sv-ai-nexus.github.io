@@ -58,7 +58,15 @@
       arrow.textContent = '▶';
       link.appendChild(arrow);
 
-      li.dataset.tocOpen = 'false';
+      // Expand top-level items (direct children of .toc__menu), collapse the rest
+      var isTopLevel = li.parentElement === tocMenu;
+      if (isTopLevel) {
+        li.dataset.tocOpen = 'true';
+        childUl.classList.add('toc-open');
+        arrow.classList.add('toc-arrow-open');
+      } else {
+        li.dataset.tocOpen = 'false';
+      }
 
       function toggle(e) {
         e.preventDefault();
@@ -72,22 +80,6 @@
       arrow.addEventListener('click', toggle);
     });
 
-    // Auto-expand "Project Guidance — Building Your Pitch" and its ancestors
-    var allLinks = tocMenu.querySelectorAll('a');
-    allLinks.forEach(function (a) {
-      if (a.textContent.indexOf('Project Guidance') !== -1) {
-        // Walk up and expand every collapsed ancestor
-        var node = a.closest('li[data-toc-open]');
-        while (node) {
-          if (node.dataset.tocOpen === 'false') {
-            var arr = node.querySelector('.toc-arrow');
-            if (arr) arr.click();
-          }
-          var parentLi = node.parentElement && node.parentElement.closest('li[data-toc-open]');
-          node = parentLi;
-        }
-      }
-    });
   }
 
   if (document.readyState === 'loading') {
