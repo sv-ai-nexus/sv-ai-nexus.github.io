@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Thu Jul 16 02:20:28 PDT 2026
+last_modified_at: Thu Jul 16 13:39:14 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -83,7 +83,8 @@ This is not a traditional forum. This is a <span class="emph">dialogue</span>—
 - **🌎 Broadcasting LIVE to the World via Google Meet**: [https://meet.google.com/bsw-xetf-wff](https://meet.google.com/bsw-xetf-wff){:target="_blank"}
 - **Format**: Congratulatory Remarks + Keynote + Student Flash Talks + Panel Discussion + Dinner & Networking
 - **Sponsor**: The Consulate General of the Republic of Korea at San Francisco
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/dkt8j8kv">this link</a>!</strong></font>
+- <span style="color: blue;"><strong>Please RSVP via <a target="_blank" href="https://luma.com/dkt8j8kv">this link</a>!</strong></span>
+- We're on [LinkedIn](https://www.linkedin.com/posts/sv-ai-nexus_ainexus-kasc-artificialintelligence-activity-7482985630088503296-P_m_){:target="_blank"} and [Instagram](https://www.instagram.com/p/Day-0MtSz12/){:target="_blank"}, too!
 
 ## Why This Colloquium Matters
 
