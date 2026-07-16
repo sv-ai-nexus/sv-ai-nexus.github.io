@@ -1,6 +1,6 @@
 ---
 date: Thu Jul  9 10:44:29 PDT 2026
-last_modified_at: Wed Jul 15 00:58:32 PDT 2026
+last_modified_at: Wed Jul 15 23:54:27 PDT 2026
 layout: single
 title: AI Nexus Groups
 permalink: /groups/
@@ -29,6 +29,17 @@ toc_sticky: true
 ## Jul-2026
 
 ### 12-Jul-2026 - Virtually participates Stanford Humanity & AGI Summit 2026 - Robotics for Future Civilization @ San Jose Country Club
+
+> There was a lot of great content at this summit, but what resonated with me most was Breeze Liu's story.
+> A Berkeley grad and a successful venture capitalist by her mid-twenties, she became the target of 800+ deepfakes on porn sites, an experience that brought her to the brink of taking her own life. She turned that tragedy into Alecto AI, a company built to stop this kind of abuse, and spent four years and two presidential administrations pushing the TAKE IT DOWN Act through Congress. 
+>
+> If we want AI used for good, we have to be intentional and deliberate in defining what human flourishing actually requires. Her story is the sharpest argument I've heard for that.
+> Beyond the talks (and the beer, popcorn, and fried calamari), I enjoyed getting to know Sukyung Chung and Rahul Rana, with Sunghee Yun joining us later for some engaging discussion. Not a bad way to spend a Sunday afternoon.
+>
+> Breeze's talk starts at 2:22: [https://www.youtube.com/live/9MjQcKxrxpU?t=8520](https://www.youtube.com/live/9MjQcKxrxpU?t=8520){:target="_blank"}
+>
+> &ndash; [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
+{: .notice--info}
 
 <div class="img-container">
 	<!--img style="max-width: 100%; max-height: none;" width="100%" src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg"-->
