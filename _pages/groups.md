@@ -1,6 +1,6 @@
 ---
 date: Thu Jul  9 10:44:29 PDT 2026
-last_modified_at: Wed Jul 15 23:54:27 PDT 2026
+last_modified_at: Thu Jul 16 01:07:47 PDT 2026
 layout: single
 title: AI Nexus Groups
 permalink: /groups/
@@ -30,8 +30,14 @@ toc_sticky: true
 
 ### 12-Jul-2026 - Virtually participates Stanford Humanity & AGI Summit 2026 - Robotics for Future Civilization @ San Jose Country Club
 
+<div class="img-container">
+	<!--img style="max-width: 100%; max-height: none;" width="100%" src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg"-->
+	<img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg">
+	<!--img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg"-->
+</div>
+
 > There was a lot of great content at this summit, but what resonated with me most was Breeze Liu's story.
-> A Berkeley grad and a successful venture capitalist by her mid-twenties, she became the target of 800+ deepfakes on porn sites, an experience that brought her to the brink of taking her own life. She turned that tragedy into Alecto AI, a company built to stop this kind of abuse, and spent four years and two presidential administrations pushing the TAKE IT DOWN Act through Congress. 
+> A Berkeley grad and a successful venture capitalist by her mid-twenties, she became the target of 800+ deepfakes on porn sites, an experience that brought her to the brink of taking her own life. She turned that tragedy into Alecto AI, a company built to stop this kind of abuse, and spent four years and two presidential administrations pushing the TAKE IT DOWN Act through Congress.
 >
 > If we want AI used for good, we have to be intentional and deliberate in defining what human flourishing actually requires. Her story is the sharpest argument I've heard for that.
 > Beyond the talks (and the beer, popcorn, and fried calamari), I enjoyed getting to know Sukyung Chung and Rahul Rana, with Sunghee Yun joining us later for some engaging discussion. Not a bad way to spend a Sunday afternoon.
@@ -41,12 +47,6 @@ toc_sticky: true
 > &ndash; [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
 {: .notice--info}
 
-<div class="img-container">
-	<!--img style="max-width: 100%; max-height: none;" width="100%" src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg"-->
-	<img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg">
-	<!--img src="https://sungheeyun-photos-02.github.io/resource/2026/07/12 - Humanity & AGI Summit 2026/KakaoTalk_Photo_2026-07-12-18-03-27-25-reduced.jpeg"-->
-</div>
-
 ### 12-Jul-2026 - App Builder Interest Group kicks off in Burlingame
 
 <div class="img-container">
@@ -54,6 +54,10 @@ toc_sticky: true
 </div>
 
 ### 09-Jul-2026 - Celebrating the 100th Member with Lunch, Coaching — and a New Collaboration
+
+<div class="img-container">
+	<img src="https://sungheeyun-photos-02.github.io/resource/2026/07/09 - AI Nexus mentoring/KakaoTalk_Photo_2026-07-15-00-34-15-50-reduced.jpeg">
+</div>
 
 > I had the pleasure of meeting Dr. Jinhee Lee, AI Nexus’s 100th registered member. To celebrate this milestone, I invited her to lunch and offered her a leadership coaching session.
 >
@@ -67,7 +71,3 @@ toc_sticky: true
 >
 > &ndash; [Sue](https://www.linkedin.com/in/suekimpr/){:target="_blank"}
 {: .notice--info}
-
-<div class="img-container">
-	<img src="https://sungheeyun-photos-02.github.io/resource/2026/07/09 - AI Nexus mentoring/KakaoTalk_Photo_2026-07-15-00-34-15-50-reduced.jpeg">
-</div>
