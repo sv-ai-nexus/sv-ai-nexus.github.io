@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Tue Jul 14 18:17:18 PDT 2026
+last_modified_at: Thu Jul 16 02:20:28 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -214,7 +214,7 @@ Each student speaker gets approximately 5 minutes to present a core research que
 
 Examining the limits of innovation-centric approaches and proposing a human-in-the-loop, multi-stakeholder governance model for fairer AI systems.
 
-### Quinton Apollo Dotzert &ndash; University of Kansas, East Asian Languages & Cultures (MA)
+### [Quinton Apollo Dotzert](https://www.linkedin.com/in/quinton-dotzert-6a4627274/){:target="_blank"} &ndash; University of Kansas, East Asian Languages & Cultures (MA)
 
 <div class="img-container">
 <img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Quinton%20Apollo%20Dotzert.jpg">
@@ -224,7 +224,7 @@ Examining the limits of innovation-centric approaches and proposing a human-in-t
 
 Exploring why AI can imitate culture but cannot replace the uniquely human experiences and emotions behind it—and how we define the boundaries of agency when humans collaborate with AI. A lens on soft power in the age of generative models.
 
-### Alexandra Khalil Baldessari &ndash; Oral Roberts University, Global Studies (Asia Studies)
+### [Alexandra Khalil Baldessari](https://www.linkedin.com/in/alexandrabaldessari/){:target="_blank"} &ndash; Oral Roberts University, Global Studies (Asia Studies)
 
 <div class="img-container">
 <img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Alexandra%20Khalil%20Baldessari.jpg">
@@ -259,7 +259,7 @@ This is not passive Q&A. This is **active dialogue**—where students and practi
 
 ### Moderator
 
-**Hyein Kim** &ndash; Taejae University, Data Science / KASC 19th Delegation Chair
+[**Hyein Kim**](https://www.linkedin.com/in/hyein-kim-korea2022/){:target="_blank"} &ndash; Taejae University, Data Science / KASC 19th Delegation Chair
 
 <div class="img-container">
 <img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Hyein%20Kim.jpg">
@@ -267,13 +267,13 @@ This is not passive Q&A. This is **active dialogue**—where students and practi
 
 ### Student Panelists
 
-**Dongjoo Jung** &ndash; Sungkyunkwan University, Political Science & Diplomacy
+[**Dongjoo Jeong**](https://www.linkedin.com/in/dongjoo-jeong-7a1863421){:target="_blank"} &ndash; Sungkyunkwan University, Political Science & Diplomacy
 
 <div class="img-container">
 <img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Dongjoo%20Jung.jpeg">
 </div>
 
-**Win Sandy Saw** &ndash; SUNY Buffalo, Biology
+[**Win Sandy Saw**](https://www.linkedin.com/in/win-sandy-saw-186674170){:target="_blank"} &ndash; SUNY Buffalo, Biology
 
 <div class="img-container">
 <img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Win%20Sandy%20Saw.jpg">
