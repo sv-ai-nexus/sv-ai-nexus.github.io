@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Thu Jul 16 13:39:14 PDT 2026
+last_modified_at: Thu Jul 16 13:52:43 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -205,7 +205,7 @@ KASC students have spent months researching, debating, and refining their perspe
 **Flash Talk Format:**
 Each student speaker gets approximately 5 minutes to present a core research question, perspective, or policy proposal. Four students will present:
 
-### Junghyun Kim &ndash; Sungkyunkwan University, Global Economics
+### [Junghyun Kim](https://www.linkedin.com/in/junghyun-kim-99b9863b7){:target="_blank"} &ndash; Sungkyunkwan University, Global Economics
 
 <div class="img-container">
 <img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Junghyun%20Kim.jpg">
@@ -235,7 +235,7 @@ Exploring why AI can imitate culture but cannot replace the uniquely human exper
 
 From an artist's perspective: "AI is the co-pilot, not the pilot." Examining how over-reliance on AI may erode the very creativity and critical thinking that drive innovation.
 
-### Seohyeon Kang &ndash; Korea University, Statistics & Financial Engineering
+### [Seohyeon Kang](https://www.linkedin.com/in/seohyeon-kang-5053a2422){:target="_blank"} &ndash; Korea University, Statistics & Financial Engineering
 
 <div class="img-container">
 <img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai%20nexus/events/2026%2007%20-%202nd/Seohyeon%20Kang.jpg">
