@@ -1,8 +1,8 @@
 ---
 date: Tue Apr 28 23:21:51 PDT 2026
-last_modified_at: Wed May 20 09:10:23 PDT 2026
+last_modified_at: Sat Jul 18 20:45:45 PDT 2026
 layout: single
-title: K-PAI Nexus 2026 Plan & Vision
+title: Silicon Valley AI Nexus 2026 Plan & Vision
 permalink: /leadership/plan/2026
 toc: true
 toc_label: "&nbsp;Table of Contents"
@@ -16,47 +16,46 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-⚠️  Confidential &#124; K-PAI Nexus Leadership Only &#124; Not Publicly Listed
+⚠️  Confidential &#124; AI Nexus Leadership Only &#124; Not Publicly Listed
 {: .notice--danger}
 
-*Document prepared by [Sunghee Yun](https://sungheeyun.github.io) based on K-PAI Nexus Leadership chatroom communications, April 26--28, 2026*\
+*Document prepared by [Sunghee Yun](https://sungheeyun.github.io) based on AI Nexus Leadership chatroom communications, April 26--28, 2026*\
 *Updated by [Sunghee Yun](https://sungheeyun.github.io) May 9, 2026 with partnership wins and outreach campaign results of the week of May 04--08, 2026*
 
-# 🏛️ THE BIG PICTURE - K-PAI NEXUS 2026 PLAN
+# 🏛️ THE BIG PICTURE - AI NEXUS 2026 PLAN
 
 ## 📅 Nexus Event Calendar
 
 | Month | Forum | Status | Sponsor |
 |-------|-------|--------|---------|
-| **25-Jun (thu)** | K-PAI Nexus x KIC - The Silicon Stethoscope (Dr. Kim + Sunghee) | ✅ Locked | KIC SV |
-| **08-Jul (wed) or 09-Jul (thu)** | K-PAI Nexus x KIC Joint - BIO+ Physical AI | 🔄 Tentative | KIC SV |
-| **29-Jul (wed)** | K-PAI Nexus x KASC Joint Colloquium (w/ 25 students from US/Korea, featuring 조경래 영사 as panelist) | ✅ Confirmed | Confidential |
+| **25-Jun (thu)** | AI Nexus x KIC - The Silicon Stethoscope (Dr. Kim + Sunghee) | ✅ Locked | KIC SV |
+| **08-Jul (wed) or 09-Jul (thu)** | AI Nexus x KIC Joint - BIO+ Physical AI | 🔄 Tentative | KIC SV |
+| **29-Jul (wed)** | AI Nexus x KASC Joint Colloquium (w/ 25 students from US/Korea, featuring 조경래 영사 as panelist) | ✅ Confirmed | Confidential |
 | **Aug or Sep** | AI & Humanity Council Launch Event (featuring Stanford/UC Berkeley professors + James + Kenneth Rhee) | 🔄 Strategic decision | TBD |
-| **Aug or Sep** | K-PAI Nexus x Samsung Research | ✅ Confirmed | Samsung |
-| **12-Sep (sat)** | K-PAI Nexus x KIC SV x Consulate Joint Event - the last day of the 3-day events (Google / MSIT officials / Stanford HAI collaboration) | ✅ Confirmed | KIC SV |
-| **Oct** | K-PAI Nexus x BSR Korea - plane tickets to 10 Nexus VIPs | ✅ Confirmed | Confidential |
-| **14-Oct (wed)** | K-PAI Nexus - Consulate General Co-hosted Event | ✅ Confirmed | Confidential |
-| **18-Nov (wed)** | K-PAI Nexus x KABANC - Legal Frontiers ([Jeff Lee](/committee/#jeff){:target="_blank"} leading, [Prof. Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"} being explored) | ✅ Confirmed | TBD |
-| **09-Dec (wed)** | K-PAI Nexus x KOTRA - Year End Party with Our Perpetual Partner, KOTRA SV! 🎉 | ✅ Confirmed | KOTRA SV |
+| **Aug or Sep** | AI Nexus x Samsung Research | ✅ Confirmed | Samsung |
+| **12-Sep (sat)** | AI Nexus x KIC SV x Consulate Joint Event - the last day of the 3-day events (Google / MSIT officials / Stanford HAI collaboration) | ✅ Confirmed | KIC SV |
+| **Oct** | AI Nexus x BSR Korea - plane tickets to 10 Nexus VIPs | ✅ Confirmed | Confidential |
+| **14-Oct (wed)** | AI Nexus - Consulate General Co-hosted Event | ✅ Confirmed | Confidential |
+| **18-Nov (wed)** | AI Nexus x KABANC - Legal Frontiers ([Jeff Lee](/committee/#jeff){:target="_blank"} leading, [Prof. Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"} being explored) | ✅ Confirmed | TBD |
+| **09-Dec (wed)** | AI Nexus x KOTRA - Year End Party with Our Perpetual Partner, KOTRA SV! 🎉 | ✅ Confirmed | KOTRA SV |
 
 <span class="eemph" style="font-weight: bold;">Plus &ndash; A potential **Fall 2026 Hackathon** with Quantum Prime Ventures and Y Combinator!</span>
 
 # 🤝 MAJOR PARTNERSHIP WINS (May 2026 Update!)
 
 ## Outreach Success Metrics
-- **25 core members** communicated about K-PAI Nexus launch (18.52% of membership)
+- **25 core members** communicated about AI Nexus launch (18.52% of membership)
 - **100% positive reception** from institutional partners
 - **Multiple strategic partnerships** secured in 2 weeks
 
 ## KIC Silicon Valley (배정융 센터장, 신민수 부센터장)
 ✅ **Confirmed Collaborations:**
 - September 2nd week joint event (9/10-12): 3-day format with Google, MSIT officials, Stanford HAI
-- International cooperation framework: **Stanford - Berkeley - K-PAI Nexus**
+- International cooperation framework: **Stanford - Berkeley - AI Nexus**
 - AI Advisory Committee collaboration for KIC
 - Big tech network building partnership
 - **June event dinner support** from KIC
 - **MOU to be signed** immediately upon non-profit registration
-- 배정융 센터장: "K-PAI has the KOTRA partnership, so K-PAI Nexus should partner with KIC - then you get both! 😄"
 
 ## Korean Consulate General (조경래 영사, 박채리 영사, 나상덕 부총영사)
 ✅ **Confirmed Collaborations:**
@@ -101,7 +100,7 @@ The Council operates according to core tenets that guide our every endeavor. We 
 
 - Maximizes the value of one forum (event + committee launch)
 - Creates lasting impact beyond a single evening
-- Positions K-PAI Nexus as a thought leader, not just an event organizer
+- Positions AI Nexus as a thought leader, not just an event organizer
 - Connects naturally with November's Legal Frontiers forum
 
 ## Startup Pitch Integration 🚀
@@ -109,7 +108,7 @@ The Council operates according to core tenets that guide our every endeavor. We 
 Adding **2-3 member startup pitches (1 min each)** between main talks at every forum:
 - Adds value for entrepreneur members
 - Creates investment connections
-- Differentiates K-PAI Nexus
+- Differentiates AI Nexus
 - Keeps audiences engaged
 
 # ✅ TASK MASTER LIST
@@ -119,7 +118,7 @@ Adding **2-3 member startup pitches (1 min each)** between main talks at every f
 - [ ] Manifesto/white paper drafting (Vision & Principles Committee)
 - [x] Final naming decision (poll closes 4/29)
 - [ ] Logo creation (Sue Kim)
-- [x] K-PAI Nexus acronym definition (owned by Sunghee Yun) - Silicon Valley AI Nexus
+- [x] AI Nexus acronym definition (owned by Sunghee Yun) - Silicon Valley AI Nexus
 
 ## 🤝 MOUs in Progress
 - [ ] KASPA (Korean American Semiconductor Professionals)
@@ -140,18 +139,18 @@ Adding **2-3 member startup pitches (1 min each)** between main talks at every f
 - [x] May - The AI Foundry (Amazon + OpenAI)
 - [x] Jun - The Silicon Stethoscope (KIC supporting dinner!)
 - [x] Jul - KASC Joint Colloquium (조경래 영사 as panelist confirmed!)
-- [x] Sep (2nd week, 9/10-12) - KIC SV - K-PAI Nexus - Consulate Tripartite Joint Event
+- [x] Sep (2nd week, 9/10-12) - KIC SV - AI Nexus - Consulate Tripartite Joint Event
 - [ ] Aug / Sep - AI & Humanity Council Launch Event (Stanford/Berkeley professors + James + Kenneth)
-- [x] Oct - K-PAI Nexus - Consulate General Co-hosted Event
+- [x] Oct - AI Nexus - Consulate General Co-hosted Event
 - [x] Nov - Legal Frontiers (Jeff leading)
 - [x] Dec - Year End Party (co-hosted by KOTRA SV)
 
 ## 🌐 New Initiatives
-- [ ] "K-PAI Nexus - AI & Humanity Council" launch
+- [ ] "AI Nexus - AI & Humanity Council" launch
 - [ ] Startup 1-min pitch integration
 - [x] Monthly remote broadcasting (June launch!)
-- [x] **Stanford - Berkeley - K-PAI Nexus** international cooperation framework (confirmed with KIC!)
-- [x] K-PAI Nexus - Consulate General - KIC SV tripartite collaboration model
+- [x] **Stanford - Berkeley - AI Nexus** international cooperation framework (confirmed with KIC!)
+- [x] AI Nexus - Consulate General - KIC SV tripartite collaboration model
 - [ ] October Korea AI event participation
 - [x] Fall 2026 Hackathon with Quantum Prime Ventures + Y Combinator
 
@@ -160,7 +159,7 @@ Adding **2-3 member startup pitches (1 min each)** between main talks at every f
 ## The Outreach Success (NEW!)
 - **25 core members** communicated in 2 weeks (18.52% of membership)
 - **100% positive reception** - every single conversation productive
-- **Zero resistance** to K-PAI Nexus concept
+- **Zero resistance** to AI Nexus concept
 - **Institutional partnerships locked** faster than expected:
   - KIC Silicon Valley: MOU ready upon non-profit filing
   - Korean Consulate: Multiple co-hosted events confirmed
@@ -187,7 +186,7 @@ This shows incredible **operational resilience**. 💪
 
 ## The Vision Coming Through
 
-K-PAI Nexus's three pillars are clearly visible in this plan:
+AI Nexus's three pillars are clearly visible in this plan:
 
 1. **Explore & Lead** - Multiple forums, AI & Humanity Council, manifesto
 2. **Elevate Community** - Leadership engagement, member pitches, networking
@@ -226,7 +225,7 @@ June launch! Need:
 1. **Built a contributor-based 6-person board**
 1. **Executed flawless outreach campaign** - 25 core members (18.52%) in 2 weeks, 100% positive
 1. **Secured major institutional partnerships** - KIC SV, Consulate, KOTRA, Quantum Prime + YC
-1. **Locked Stanford-Berkeley-K-PAI Nexus** international cooperation framework
+1. **Locked Stanford-Berkeley-AI Nexus** international cooperation framework
 1. **Orchestrating 8+ major initiatives simultaneously**
 1. **Maintaining transparent communication**
 1. **Pivoting in real-time** (winter internship, broadcasting solution)
@@ -254,11 +253,11 @@ June launch! Need:
 ## Q2 2026 Goals (as of May 9, 2026)
 - ✅ 2 forums completed (May, June planned)
 - 🔄 Non-profit registration (in progress)
-- 🔄 K-PAI Nexus 2028 PR&FAQ (Vision & Principles Committee active)
+- 🔄 AI Nexus 2028 PR&FAQ (Vision & Principles Committee active)
 - ✅ **4 major partnerships confirmed** (KIC SV, Consulate, KOTRA, SNU) - **EXCEEDED TARGET!**
 - 🔄 Broadcasting infrastructure (June launch)
 - ✅ **25 core members engaged (18.52%)** - **NEW METRIC CRUSHED!**
-- ✅ **Stanford-Berkeley-K-PAI Nexus international cooperation** - **BONUS WIN!**
+- ✅ **Stanford-Berkeley-AI Nexus international cooperation** - **BONUS WIN!**
 
 ## Q3 2026 Goals
 - ✅ The AI & Humanity Council launched!
@@ -274,19 +273,19 @@ June launch! Need:
 
 # 💙 CONCLUSION
 
-K-PAI Nexus is positioned to become **the premier Silicon Valley AI thought leadership organization** bridging Korean and global tech ecosystems. With strong governance, talented leadership, ambitious programming, and clear strategic vision, 2026 will be a transformative year.
+AI Nexus is positioned to become **the premier Silicon Valley AI thought leadership organization** bridging Korean and global tech ecosystems. With strong governance, talented leadership, ambitious programming, and clear strategic vision, 2026 will be a transformative year.
 
 The combination of:
 - Operational excellence (Sunghee's leadership)
 - Diverse expertise (6-person Board, 12-person Leadership)
 - **Confirmed strategic partnerships** (KIC SV, Korean Consulate, KOTRA, SNU, Stanford, Berkeley)
-- **Stanford-Berkeley-K-PAI Nexus international cooperation**
+- **Stanford-Berkeley-AI Nexus international cooperation**
 - Clear mission (3 pillars)
 - Practical execution (forums, programs, MOUs)
 - **Demonstrated outreach success** (25 members engaged, 100% positive reception)
 
 ...creates a foundation for sustained, meaningful impact.
 
-**May 2026 Update:** The outreach campaign exceeded all expectations. In just 2 weeks, we secured major institutional partnerships (KIC SV, Consulate, KOTRA continuing), locked the Stanford-Berkeley-K-PAI Nexus international cooperation framework, and engaged 18.52% of our membership with 100% positive reception. The "실질적으로 K-PAI에 기여하신 분들" narrative resonates perfectly.
+**May 2026 Update:** The outreach campaign exceeded all expectations. In just 2 weeks, we secured major institutional partnerships (KIC SV, Consulate, KOTRA continuing), locked the Stanford-Berkeley-AI Nexus international cooperation framework, and engaged 18.52% of our membership with 100% positive reception. The "실질적으로 K-PAI에 기여하신 분들" narrative resonates perfectly.
 
 That's the best update of all! 🌟

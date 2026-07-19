@@ -2,7 +2,7 @@
 date: Mon May  4 21:32:07 PDT 2026
 last_modified_at: Tue May  5 18:21:00 PDT 2026
 layout: single
-title: "K-PAI Nexus Board of Directors"
+title: "AI Nexus Board of Directors"
 permalink: /board-of-directors/
 toc: false
 toc_label: "&nbsp;Meeting Agenda"
@@ -15,7 +15,7 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-⚠️  Confidential &#124; K-PAI Nexus Board Only &#124; Not Publicly Listed
+⚠️  Confidential &#124; AI Nexus Board Only &#124; Not Publicly Listed
 {: .notice--danger}
 
 # Board Meetings
@@ -28,6 +28,6 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 
 {% assign plan_2026 = site.posts | where: "permalink", "/leadership/plan/2026" | first %}
 
-- [K-PAI Nexus 2026 Plan & Vision](/leadership/plan/2026){:target="_blank"}
-- [K-PAI Nexus FAQs](/faq/k-pai-nexus){:target="_blank"}
-- [[PR/FAQ] K-PAI Nexus - The Definitive AI Community](/pr-faq/2028){:target="_blank"}
+- [AI Nexus 2026 Plan & Vision](/leadership/plan/2026){:target="_blank"}
+- [AI Nexus FAQs](/faq/k-pai-nexus){:target="_blank"}
+- [[PR/FAQ] AI Nexus - The Definitive AI Community](/pr-faq/2028){:target="_blank"}

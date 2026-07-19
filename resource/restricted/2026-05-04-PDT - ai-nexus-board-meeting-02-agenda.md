@@ -1,8 +1,8 @@
 ---
 date: Mon May  4 01:16:51 PDT 2026
-last_modified_at: Thu May  7 14:46:53 PDT 2026
+last_modified_at: Sat Jul 18 20:43:49 PDT 2026
 layout: single
-title: "K-PAI Nexus Board of Directors - Second Meeting Agenda"
+title: "AI Nexus Board of Directors - Second Meeting Agenda"
 permalink: /board/meeting-02/agenda
 categories:
  - board-meeting
@@ -23,14 +23,14 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-⚠️  Confidential &#124; K-PAI Nexus Board Only &#124; Not Publicly Listed
+⚠️  Confidential &#124; AI Nexus Board Only &#124; Not Publicly Listed
 {: .notice--danger}
 
 **Document Prepared By:** Sunghee Yun, Chair of the Board\
 **Date of Preparation:** May 4, 2026\
-**Distribution:** K-PAI Nexus Board of Directors (6 members)
+**Distribution:** AI Nexus Board of Directors (6 members)
 
-# K-PAI NEXUS BOARD OF DIRECTORS
+# AI NEXUS BOARD OF DIRECTORS
 
 ## SECOND MEETING AGENDA
 
@@ -61,7 +61,7 @@ All Board Members are requested to complete the following tasks **before** the m
 
 ### **Required Actions (Priority Order):**
 
-**1. Review and Provide Feedback on K-PAI Nexus Launch Announcement** (HIGHEST PRIORITY)
+**1. Review and Provide Feedback on AI Nexus Launch Announcement** (HIGHEST PRIORITY)
 - <span id="k-pai-nexus-launch-messages"></span>**Draft Kakaotalk Message:** [To be circulated via Board KakaoTalk chatroom by May 7, 2026]
 &ndash; [Google Doc](https://docs.google.com/document/d/1RZDSrILnClYiMChWXtt1bNiBpsitxtTMzpXzWDdG-ts/){:target="_blank"}
 
@@ -134,10 +134,10 @@ All Board Members are requested to complete the following tasks **before** the m
   - Review messaging, tone, and accuracy
   - Provide feedback and suggested edits via KakaoTalk by May 11, 2026
   - Chair will incorporate feedback into revised draft for meeting approval
-- **Strategic Context:** Message frames K-PAI Nexus as "sister organization" and "evolution/superset" of K-PAI vision, without mentioning Prof. Jung Hee Cheon
+- **Strategic Context:** Message frames AI Nexus as "sister organization" and "evolution/superset" of K-PAI vision, without mentioning Prof. Jung Hee Cheon
 - **Timeline:** Message to be sent to K-PAI community on Monday, May 19, 2026 (one day before May Forum)
 
-**2. Review K-PAI Nexus FAQ** (IMPORTANT)
+**2. Review AI Nexus FAQ** (IMPORTANT)
 - **URL:** [https://nexus-pai.github.io/faq/k-pai-nexus](https://nexus-pai.github.io/faq/k-pai-nexus)
 - **Action Required:**
   - Verify accuracy and completeness
@@ -179,7 +179,7 @@ All Board Members are requested to complete the following tasks **before** the m
 
 ### II. NEW PRIORITY ITEMS (URGENT - FOR MAY 19 LAUNCH)
 
-#### **PRIORITY ITEM #1: APPROVAL OF K-PAI NEXUS LAUNCH ANNOUNCEMENT**
+#### **PRIORITY ITEM #1: APPROVAL OF AI NEXUS LAUNCH ANNOUNCEMENT**
 
 **A. Review of Drafted Message**
 - **Presenter:** Sunghee Yun, Chair
@@ -204,7 +204,7 @@ All Board Members are requested to complete the following tasks **before** the m
 - Coordination with May 20 Forum announcement
 
 **D. Final Approval**
-- **Motion:** "RESOLVED, that the Board approves the K-PAI Nexus Launch Announcement as presented [or with amendments as discussed], and authorizes Chair to send the message to the K-PAI community chatroom on Monday, May 19, 2026."
+- **Motion:** "RESOLVED, that the Board approves the AI Nexus Launch Announcement as presented [or with amendments as discussed], and authorizes Chair to send the message to the K-PAI community chatroom on Monday, May 19, 2026."
 - Vote on approval
 - Designation of spokesperson for follow-up questions from community
 
@@ -212,7 +212,7 @@ All Board Members are requested to complete the following tasks **before** the m
 
 ---
 
-#### **PRIORITY ITEM #2: REVIEW AND FINALIZATION OF K-PAI NEXUS FAQ**
+#### **PRIORITY ITEM #2: REVIEW AND FINALIZATION OF AI NEXUS FAQ**
 
 **A. Review of Current FAQ Document**
 - **Document:** [https://nexus-pai.github.io/faq/k-pai-nexus](https://nexus-pai.github.io/faq/k-pai-nexus)
@@ -240,7 +240,7 @@ All Board Members are requested to complete the following tasks **before** the m
 - Authority to make minor edits post-meeting (Chair discretion vs. Board approval)
 
 **E. Final Approval**
-- **Motion:** "RESOLVED, that the Board approves the K-PAI Nexus FAQ document as presented [or with amendments as discussed], and authorizes Chair to publish the finalized version on the K-PAI Nexus website. Further, the Board authorizes Chair to make minor editorial revisions without additional Board approval, provided such revisions do not materially change the content or messaging."
+- **Motion:** "RESOLVED, that the Board approves the AI Nexus FAQ document as presented [or with amendments as discussed], and authorizes Chair to publish the finalized version on the AI Nexus website. Further, the Board authorizes Chair to make minor editorial revisions without additional Board approval, provided such revisions do not materially change the content or messaging."
 - Vote on approval
 
 **[Estimated Time: 15 minutes]**
@@ -275,7 +275,7 @@ All Board Members are requested to complete the following tasks **before** the m
   - **SNU College of Engineering Silicon Valley Immersion Program** (10-day program, Summer 2026)
   - Student safety, supervision, and duty of care obligations
   - Insurance requirements for educational programs
-  - Liability for participants in K-PAI Nexus-organized activities
+  - Liability for participants in AI Nexus-organized activities
   - **CRITICAL QUESTION:** What liability exposure exists for Summer 2026 SNU program if nonprofit registration not yet complete at program start date?
   - **Options Discussion:**
     - Proceed under current informal structure with insurance coverage?
@@ -382,7 +382,7 @@ All Board Members are requested to complete the following tasks **before** the m
 
 **B. June and July 2026 Forum Planning**
 - **Forum #18:** ["Silicon Stethoscope"](/event-announcements/18) (Dr. Kim + Sunghee Yun) — June 25, 2026
-- **Forum #19:** ["K-PAI - KASC Joint Colloquium"](/event-announcements/19) — July 29, 2026
+- **Forum #19:** ["AI Nexus - KASC Joint Colloquium"](/event-announcements/19) — July 29, 2026
 - Board Member attendance and participation
 - Post-launch community engagement strategy
 
@@ -406,7 +406,7 @@ All Board Members are requested to complete the following tasks **before** the m
 
 The Third Board Meeting will focus on:
 
-1. **Appointment of Ghayoung Lee as K-PAI Nexus Treasurer** (formal vote)
+1. **Appointment of Ghayoung Lee as AI Nexus Treasurer** (formal vote)
 
 2. **Bylaws Review and Approval**
    - Document: [https://nexus-pai.github.io/bylaws/k-pai](https://nexus-pai.github.io/bylaws/k-pai)
@@ -425,7 +425,7 @@ The Third Board Meeting will focus on:
    - Program approval
 
 5. **Post-Launch Review**
-   - Community reaction to K-PAI Nexus announcement
+   - Community reaction to AI Nexus announcement
    - Membership transition status
    - Adjustments to communication strategy if needed
 
@@ -462,12 +462,12 @@ The Third Board Meeting will focus on:
 - ✅ Quorum declared and meeting called to order
 - ✅ Founding Board of Directors formally established
 - ✅ Officers appointed: Sunghee Yun (Chair), Jeff Lee (Secretary)
-- ✅ Strategic decision on K-PAI Nexus launch announcement approach:
+- ✅ Strategic decision on AI Nexus launch announcement approach:
   - Frame as "evolution" and "sister organization" to K-PAI
-  - Position K-PAI Nexus as "superset" of original K-PAI vision
+  - Position AI Nexus as "superset" of original K-PAI vision
   - Do not explicitly mention Prof. Jung Hee Cheon or organizational separation
   - Send announcement one day before May Forum (May 19, 2026)
-  - May 20 Forum will be final joint K-PAI/K-PAI Nexus forum
+  - May 20 Forum will be final joint K-PAI/AI Nexus forum
 
 **Items Deferred from First Meeting:**
 - Nonprofit organization registration discussion (extended discussion needed)
@@ -478,7 +478,7 @@ The Third Board Meeting will focus on:
 - Strategic documents review (2026 Plan, PR/FAQ 2028)
 
 **Key Strategic Decisions Made:**
-1. K-PAI Nexus positioned as complementary "sister organization" not replacement
+1. AI Nexus positioned as complementary "sister organization" not replacement
 2. Emphasis on continuity for existing community members
 3. Three core values as organizational foundation
 4. Launch announcement to be sent May 19, 2026 (one day before May Forum)
@@ -510,7 +510,7 @@ The Third Board Meeting will focus on:
 
 **By May 11, 2026:**
 - [ ] Provide feedback on launch announcement via KakaoTalk
-- [ ] Review K-PAI Nexus FAQ document thoroughly
+- [ ] Review AI Nexus FAQ document thoroughly
 - [ ] Prepare specific questions and feedback on FAQ
 
 **By May 13, 2026 (Meeting Day):**
@@ -521,6 +521,6 @@ The Third Board Meeting will focus on:
 
 ---
 
-*This agenda reflects continuation of unfinished business from the First Board Meeting and incorporates new urgent priorities related to the May 19, 2026 K-PAI Nexus public launch announcement.*
+*This agenda reflects continuation of unfinished business from the First Board Meeting and incorporates new urgent priorities related to the May 19, 2026 AI Nexus public launch announcement.*
 
 *All Board Members are reminded of their fiduciary duties and the confidential nature of Board discussions. Information regarding the launch announcement should not be shared outside the Board until after official approval and public distribution on May 19, 2026.*

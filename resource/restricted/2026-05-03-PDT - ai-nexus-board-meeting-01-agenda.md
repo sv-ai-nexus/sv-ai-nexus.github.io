@@ -1,8 +1,8 @@
 ---
 date: Sun May  3 20:03:44 PDT 2026
-last_modified_at: Mon May  4 01:27:25 PDT 2026
+last_modified_at: Sat Jul 18 20:38:19 PDT 2026
 layout: single
-title: "K-PAI Nexus Board of Directors - First Meeting Agenda"
+title: "AI Nexus Board of Directors - First Meeting Agenda"
 permalink: /board/meeting-01/agenda
 categories:
  - board-meeting
@@ -23,14 +23,14 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-⚠️  Confidential &#124; K-PAI Nexus Board Only &#124; Not Publicly Listed
+⚠️  Confidential &#124; AI Nexus Board Only &#124; Not Publicly Listed
 {: .notice--danger}
 
 **Document Prepared By:** Sunghee Yun, Chair of the Board\
 **Date of Preparation:** May 3, 2026\
-**Distribution:** K-PAI Nexus Board of Directors (6 members)
+**Distribution:** AI Nexus Board of Directors (6 members)
 
-# K-PAI NEXUS BOARD OF DIRECTORS
+# AI NEXUS BOARD OF DIRECTORS
 
 ## FIRST MEETING AGENDA
 
@@ -59,9 +59,9 @@ All Board Members are requested to review the following documents **before** the
 
 ### **Required Reading (Priority Order):**
 
-**1. K-PAI Nexus FAQ** (HIGHEST PRIORITY)
+**1. AI Nexus FAQ** (HIGHEST PRIORITY)
 - **URL:** [https://nexus-pai.github.io/faq/k-pai-nexus](https://nexus-pai.github.io/faq/k-pai-nexus)
-- **Purpose:** Comprehensive understanding of K-PAI Nexus mission, structure, and operations
+- **Purpose:** Comprehensive understanding of AI Nexus mission, structure, and operations
 - **Action Required:** Review thoroughly and prepare feedback/comments
 
 **2. 2026 Leadership Plan** (IMPORTANT)
@@ -102,8 +102,8 @@ All Board Members are requested to review the following documents **before** the
 
 ### II. FOUNDING RESOLUTIONS
 
-**A. Formal Establishment of K-PAI Nexus Board of Directors**
-- **Motion:** "RESOLVED, that the six individuals present at this meeting are hereby confirmed as the founding Board of Directors of K-PAI Nexus, a California nonprofit public benefit corporation to be formed."
+**A. Formal Establishment of AI Nexus Board of Directors**
+- **Motion:** "RESOLVED, that the six individuals present at this meeting are hereby confirmed as the founding Board of Directors of AI Nexus, a California nonprofit public benefit corporation to be formed."
 - Roll call vote
 - Recording of resolution in meeting minutes
 
@@ -120,16 +120,14 @@ All Board Members are requested to review the following documents **before** the
 
 ### III. STRATEGIC PRIORITIES (MOST IMPORTANT)
 
-#### **PRIORITY ITEM #1: ANNOUNCEMENT OF K-PAI NEXUS LAUNCH WITHIN K-PAI COMMUNITY**
+#### **PRIORITY ITEM #1: ANNOUNCEMENT OF AI NEXUS LAUNCH WITHIN AI COMMUNITY**
 
 **A. Launch Communication Strategy**
-- Timeline for announcement to K-PAI community
+- Timeline for announcement to AI Nexus community
 - Communication channels (forum announcement, chatroom, email)
 - Messaging and positioning
-- Differentiation between K-PAI Forum (led by Jung Hee Cheon) and K-PAI Nexus (led by Sunghee Yun)
 
 **B. Community Transition Plan**
-- How existing K-PAI members transition to K-PAI Nexus
 - Membership criteria and qualification
 - Interest group continuity
 - Partnership and MOU management (continuity)
@@ -157,9 +155,9 @@ All Board Members are requested to review the following documents **before** the
     - SNU College of Engineering Silicon Valley Immersion Program (10-day program, Summer 2026)
     - Student safety, supervision, and duty of care obligations
     - Insurance requirements for educational programs
-    - Liability for participants in K-PAI Nexus-organized activities
+    - Liability for participants in AI Nexus-organized activities
   - **Timing Considerations:**
-    - Current status: K-PAI Nexus operates informally (not yet legally registered)
+    - Current status: AI Nexus operates informally (not yet legally registered)
     - Question: What liability exposure exists for Summer 2026 SNU program if nonprofit registration not yet complete?
     - Options: Proceed under informal structure? Insurance solutions?
   - **Director and Officer Liability:**
@@ -197,11 +195,11 @@ All Board Members are requested to review the following documents **before** the
 
 ### IV. GOVERNANCE DOCUMENTS REVIEW
 
-**A. K-PAI Nexus FAQ Document Review**
+**A. AI Nexus FAQ Document Review**
 - **Document:** [https://nexus-pai.github.io/faq/k-pai-nexus](https://nexus-pai.github.io/faq/k-pai-nexus)
 - Board feedback and comments
 - Accuracy and completeness verification
-- **Motion:** "RESOLVED, that the Board approves the K-PAI Nexus FAQ document as presented [or with amendments as discussed]."
+- **Motion:** "RESOLVED, that the Board approves the AI Nexus FAQ document as presented [or with amendments as discussed]."
 - Vote on approval
 
 **[Estimated Time: 10 minutes]**
@@ -209,13 +207,13 @@ All Board Members are requested to review the following documents **before** the
 ### V. ADMINISTRATIVE MATTERS
 
 **A. New Homepage Domain Name Selection**
-- Review domain name options for K-PAI Nexus website (<code>https://k-pai.org</code>, <code>https://k-pai-nexus.org</code>, <code>https://k-pai.org/nexus</code>)
+- Review domain name options for AI Nexus website (<code>https://k-pai.org</code>, <code>https://k-pai-nexus.org</code>, <code>https://k-pai.org/nexus</code>)
 - Considerations: branding, SEO, memorability, availability
-- **Motion:** "RESOLVED, that the Board approves [DOMAIN NAME] as the official domain for K-PAI Nexus."
+- **Motion:** "RESOLVED, that the Board approves [DOMAIN NAME] as the official domain for AI Nexus."
 - Vote on domain selection
 
 **B. Notion Workspace Access for Board Members**
-- Invitation to K-PAI Nexus Notion workspace
+- Invitation to AI Nexus Notion workspace
 - Overview of document organization and collaboration tools
 - Board Member onboarding to Notion
 
@@ -230,14 +228,13 @@ All Board Members are requested to review the following documents **before** the
 - Board Member roles in fundraising and development
 
 **B. Startup Pitch Program**
-- Overview of startup pitch program at K-PAI forums
 - Criteria for startup selection
 - Investor engagement strategy
 - Board guidance and governance
 
 **C. June 2026 Forum Planning**
 - Forum #18: ["Silicon Stethoscope"](/event-announcements/18) (Dr. Kim + Sunghee Yun) — June 25, 2026
-- Forum #19: ["K-PAI - KASC Joint Colloquium"](/event-announcements/19) — July 29, 2026
+- Forum #19: ["AI Nexus - KASC Joint Colloquium"](/event-announcements/19) — July 29, 2026
 - Retrospective scheduling for continuous improvement
 - Board Member attendance and participation
 - Discuss [the overall 2026 plan](/leadership/plan/2026)
@@ -266,7 +263,7 @@ All Board Members are requested to review the following documents **before** the
 
 The Second Board Meeting will focus on:
 
-1. **Appointment Ghayoung Lee as K-PAI Nexus Treasurer**
+1. **Appointment Ghayoung Lee as AI Nexus Treasurer**
 
 1. **Bylaws Review and Approval**
    - Document: [https://nexus-pai.github.io/bylaws/k-pai](https://nexus-pai.github.io/bylaws/k-pai)
@@ -304,7 +301,7 @@ The Second Board Meeting will focus on:
 
 1. **Meeting Minutes:** Chair to prepare draft minutes for Board review and approval
 2. **Legal Registration:** Jeff Lee and Hayden Song to initiate nonprofit registration process per approved timeline
-3. **Launch Communications:** Prepare K-PAI Nexus launch announcement per approved strategy
+3. **Launch Communications:** Prepare AI Nexus launch announcement per approved strategy
 4. **Domain Registration:** Register approved domain name
 5. **Notion Invitations:** Send Notion workspace invitations to all Board Members
 
@@ -322,18 +319,6 @@ The Second Board Meeting will focus on:
 - State name before speaking (for minutes clarity)
 
 ## NOTES FOR THE RECORD
-
-**Board Formation Context:**
-
-K-PAI Nexus is being established as a separate nonprofit organization from K-PAI Forum. While K-PAI Forum will continue under the leadership of Jung Hee Cheon with its focus on monthly forums and technical AI discussions, K-PAI Nexus will expand to encompass:
-
-- Interest groups and community building (소모임)
-- External partnerships and MOUs (대외활동)
-- Educational programs and university collaborations
-- AI & Humanity Council and thought leadership
-- Long-term institutional development
-
-This organizational differentiation allows both entities to thrive in their respective missions while maintaining collaborative relationship and shared community values.
 
 **Founding Board Members Who Declined:**
 

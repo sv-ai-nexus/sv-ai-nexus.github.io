@@ -1,8 +1,8 @@
 ---
 date: Mon May  4 22:00:07 PDT 2026
-last_modified_at: Mon May  4 22:15:05 PDT 2026
+last_modified_at: Sat Jul 18 20:41:35 PDT 2026
 layout: single
-title: "K-PAI Nexus Board of Directors - First Meeting Minutes"
+title: "AI Nexus Board of Directors - First Meeting Minutes"
 permalink: /board/meeting-01/minutes
 categories:
  - board-meeting
@@ -23,14 +23,14 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-⚠️  Confidential &#124; K-PAI Nexus Board Only &#124; Not Publicly Listed\
+⚠️  Confidential &#124; AI Nexus Board Only &#124; Not Publicly Listed\
 {: .notice--danger}
 
 **Prepared By:** Sunghee Yun, Chair of the Board\
-**To be Reviewed By:** K-PAI Nexus Board of Directors\
-**Distribution:** K-PAI Nexus Board of Directors (6 members)
+**To be Reviewed By:** AI Nexus Board of Directors\
+**Distribution:** AI Nexus Board of Directors (6 members)
 
-# K-PAI NEXUS BOARD OF DIRECTORS
+# AI NEXUS BOARD OF DIRECTORS
 ## MINUTES OF THE FIRST MEETING
 
 **Meeting Date:** Sunday, May 3, 2026\
@@ -64,7 +64,7 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 
 The meeting was called to order at **10:30 PM PDT** by **Sunghee Yun, Chair of the Board**.
 
-Chair Yun welcomed all Board Members to the first official meeting of the K-PAI Nexus Board of Directors and expressed gratitude for their commitment to serving the organization's mission.
+Chair Yun welcomed all Board Members to the first official meeting of the AI Nexus Board of Directors and expressed gratitude for their commitment to serving the organization's mission.
 
 ## III. QUORUM DECLARATION
 
@@ -95,9 +95,9 @@ Jeff Lee provided an overview of formal board meeting procedures that will be im
 
 ## VI. FOUNDING RESOLUTIONS
 
-### **A. Establishment of K-PAI Nexus Board of Directors**
+### **A. Establishment of AI Nexus Board of Directors**
 
-**MOTION:** RESOLVED, that the six individuals present at this meeting are hereby confirmed as the founding Board of Directors of K-PAI Nexus, a California nonprofit public benefit corporation to be formed.
+**MOTION:** RESOLVED, that the six individuals present at this meeting are hereby confirmed as the founding Board of Directors of AI Nexus, a California nonprofit public benefit corporation to be formed.
 
 **MOVED BY:** Sunghee Yun\
 **SECONDED BY:** Jeff Lee\
@@ -113,13 +113,13 @@ Jeff Lee provided an overview of formal board meeting procedures that will be im
 **VOTE:** Unanimous (6-0-0)\
 **RESULT:** ✓ **MOTION CARRIED**
 
-**RESOLVED:** The Board of Directors of K-PAI Nexus is hereby formally established with the six named individuals serving as founding Directors.
+**RESOLVED:** The Board of Directors of AI Nexus is hereby formally established with the six named individuals serving as founding Directors.
 
 ### **B. Appointment of Board Officers**
 
 #### **1. Appointment of Chair of the Board**
 
-**MOTION:** RESOLVED, that Sunghee Yun is hereby appointed as Chair of the Board of K-PAI Nexus.
+**MOTION:** RESOLVED, that Sunghee Yun is hereby appointed as Chair of the Board of AI Nexus.
 
 **MOVED BY:** Jeff Lee\
 **SECONDED BY:** Hayden Song\
@@ -131,7 +131,7 @@ Jeff Lee provided an overview of formal board meeting procedures that will be im
 
 #### **2. Appointment of Secretary of the Board**
 
-**MOTION:** RESOLVED, that Bo Hyoung (Jeff) Lee is hereby appointed as Secretary of the Board of K-PAI Nexus, with responsibilities including:
+**MOTION:** RESOLVED, that Bo Hyoung (Jeff) Lee is hereby appointed as Secretary of the Board of AI Nexus, with responsibilities including:
 - Declaring quorum at Board meetings
 - Recording all motions, votes, and Board decisions
 - Preparing and distributing meeting minutes
@@ -141,7 +141,7 @@ Jeff Lee provided an overview of formal board meeting procedures that will be im
 
 **MOVED BY:** Sunghee Yun\
 **SECONDED BY:** Minha Hwang\
-**DISCUSSION:** Chair clarified that Jeff Lee holds dual roles: (1) Secretary of the Board (board officer position), and (2) Legal Affairs Advisor to K-PAI Nexus (organizational advisor role). These roles are complementary and non-conflicting.\
+**DISCUSSION:** Chair clarified that Jeff Lee holds dual roles: (1) Secretary of the Board (board officer position), and (2) Legal Affairs Advisor to AI Nexus (organizational advisor role). These roles are complementary and non-conflicting.\
 **VOTE:** Unanimous (6-0-0)\
 **RESULT:** ✓ **MOTION CARRIED**
 
@@ -153,19 +153,19 @@ Jeff Lee provided an overview of formal board meeting procedures that will be im
 - **Chanik Park**
 - **Daniel Hur**
 
-Both individuals respectfully declined due to other commitments. The Board expresses appreciation for their consideration and notes their continued support of K-PAI Nexus's mission.
+Both individuals respectfully declined due to other commitments. The Board expresses appreciation for their consideration and notes their continued support of AI Nexus's mission.
 
 **Board Action:** Noted for the record. No vote required.
 
 ## VII. STRATEGIC PRIORITIES
 
-### **PRIORITY ITEM #1: K-PAI NEXUS LAUNCH ANNOUNCEMENT STRATEGY**
+### **PRIORITY ITEM #1: AI NEXUS LAUNCH ANNOUNCEMENT STRATEGY**
 
-Chair Yun presented the strategic approach for announcing K-PAI Nexus's launch to the existing K-PAI community.
+Chair Yun presented the strategic approach for announcing AI Nexus's launch to the existing K-PAI community.
 
 #### **A. Strategic Context**
 
-The Board discussed the relationship between K-PAI Nexus and the existing K-PAI Forum, considering:
+The Board discussed the relationship between AI Nexus and the existing K-PAI Forum, considering:
 - Organizational differentiation and positioning
 - Community continuity and member transition
 - Messaging strategy to avoid perception of conflict or competition
@@ -177,7 +177,7 @@ After extensive discussion, the Board reached consensus on the following strateg
 
 **DECISION #1: Positioning Framework**
 
-K-PAI Nexus will be positioned as:
+AI Nexus will be positioned as:
 - **"Sister organization"** to K-PAI Forum (complementary, not competing)
 - **"Evolution"** of K-PAI's vision (growth and expansion, not replacement)
 - **"Superset"** of original K-PAI vision (includes original mission plus expanded scope)
@@ -187,8 +187,7 @@ K-PAI Nexus will be positioned as:
 **DECISION #2: Communication Strategy**
 
 The launch announcement will:
-- **NOT mention** Professor Jung Hee Cheon or the organizational separation explicitly
-- **Focus on** K-PAI Nexus's expanded vision, three core values, and activity scope
+- **Focus on** AI Nexus's expanded vision, three core values, and activity scope
 - **Emphasize** continuity for existing community members
 - **Explain** the relationship as natural organizational evolution
 
@@ -196,7 +195,7 @@ The launch announcement will:
 
 **DECISION #3: Three Core Values**
 
-The Board affirmed K-PAI Nexus's three core values as the foundation for all communications:
+The Board affirmed AI Nexus's three core values as the foundation for all communications:
 
 1. **Explore & Lead (탐구와 선도):** AI technology + societal/ethical/philosophical questions
 2. **Elevate Community (커뮤니티 고양):** Beyond networking to collaborative outcomes
@@ -204,7 +203,7 @@ The Board affirmed K-PAI Nexus's three core values as the foundation for all com
 
 **DECISION #4: Activity Scope**
 
-The Board confirmed K-PAI Nexus's activity scope to be communicated as:
+The Board confirmed AI Nexus's activity scope to be communicated as:
 - Monthly forums (continuation and expansion of K-PAI forums)
 - 10+ interest groups (소모임) operation
 - University educational programs and industry-academia collaboration
@@ -220,7 +219,7 @@ The Board confirmed K-PAI Nexus's activity scope to be communicated as:
 - Allows community to process information before forum
 - May 20 forum serves as transition event
 
-**May 20 Forum Status:** The May 20 forum **"The AI Foundry"** (Amazon + OpenAI speakers) will be the **final forum co-organized by K-PAI and K-PAI Nexus**. Beginning June 2026, forums will be organized by K-PAI Nexus independently.
+**May 20 Forum Status:** The May 20 forum **"The AI Foundry"** (Amazon + OpenAI speakers) will be the **final forum co-organized by K-PAI and AI Nexus**. Beginning June 2026, forums will be organized by AI Nexus independently.
 
 **DECISION #6: Communication Channel**
 
@@ -257,7 +256,7 @@ The following agenda items were not addressed due to time constraints and are de
 
 **Deferred to Second Board Meeting (May 13, 2026):**
 - Nonprofit organization registration (legal framework, liability considerations, roles and responsibilities)
-- K-PAI Nexus FAQ document review and finalization
+- AI Nexus FAQ document review and finalization
 - Domain name selection
 - Notion workspace access for Board Members
 - Appointment of Ghayoung Lee as Treasurer
@@ -305,12 +304,10 @@ The meeting was adjourned at **12:45 AM PDT (May 4, 2026)**.
 
 ### **Key Strategic Decisions:**
 
-1. ✓ K-PAI Nexus positioning: "sister organization," "evolution," "superset" of K-PAI vision
-2. ✓ Launch announcement will not mention Prof. Jung Hee Cheon explicitly
-3. ✓ Three core values affirmed: Explore & Lead, Elevate Community, Give Back
-4. ✓ Activity scope defined (7 major areas)
-5. ✓ Launch announcement date: May 19, 2026
-6. ✓ May 20 forum designated as final joint K-PAI/K-PAI Nexus forum
+1. ✓ AI Nexus positioning: "sister organization," "evolution," "superset" of K-PAI vision
+1. ✓ Three core values affirmed: Explore & Lead, Elevate Community, Give Back
+1. ✓ Activity scope defined (7 major areas)
+1. ✓ Launch announcement date: May 19, 2026
 
 ### **Action Items Assigned:**
 
@@ -327,13 +324,13 @@ The meeting was adjourned at **12:45 AM PDT (May 4, 2026)**.
 The following documents were referenced during the meeting:
 
 1. First Board Meeting Agenda ([/board/meeting-01/agenda](/board/meeting-01/agenda))
-2. K-PAI Nexus FAQ ([https://nexus-pai.github.io/faq/k-pai-nexus](https://nexus-pai.github.io/faq/k-pai-nexus))
-3. 2026 Leadership Plan ([https://nexus-pai.github.io/leadership/plan/2026](https://nexus-pai.github.io/leadership/plan/2026))
-4. PR/FAQ 2028 Vision Document ([https://nexus-pai.github.io/pr-faq/2028](https://nexus-pai.github.io/pr-faq/2028))
+1. AI Nexus FAQ ([https://nexus-pai.github.io/faq/k-pai-nexus](https://nexus-pai.github.io/faq/k-pai-nexus))
+1. 2026 Leadership Plan ([https://nexus-pai.github.io/leadership/plan/2026](https://nexus-pai.github.io/leadership/plan/2026))
+1. PR/FAQ 2028 Vision Document ([https://nexus-pai.github.io/pr-faq/2028](https://nexus-pai.github.io/pr-faq/2028))
 
 ## XIII. CERTIFICATION
 
-I hereby certify that the foregoing minutes constitute a true and accurate record of the proceedings of the First Meeting of the Board of Directors of K-PAI Nexus, held on May 3, 2026.
+I hereby certify that the foregoing minutes constitute a true and accurate record of the proceedings of the First Meeting of the Board of Directors of AI Nexus, held on May 3, 2026.
 
 **Prepared By:**
 
@@ -345,14 +342,14 @@ Date: 04-May-2026
 **Reviewed and Approved By:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-All 6 Members of [K-PAI Nexus](/) Board of Directors\
+All 6 Members of [AI Nexus](/) Board of Directors\
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ---
 
-**Distribution:** These minutes are confidential and are distributed only to K-PAI Nexus Board Members. Minutes will be formally approved at the Second Board Meeting on May 13, 2026.
+**Distribution:** These minutes are confidential and are distributed only to AI Nexus Board Members. Minutes will be formally approved at the Second Board Meeting on May 13, 2026.
 
-**Archive:** These minutes will be maintained in the official Board records and stored securely in the K-PAI Nexus Notion workspace.
+**Archive:** These minutes will be maintained in the official Board records and stored securely in the AI Nexus Notion workspace.
 
 ---
 
