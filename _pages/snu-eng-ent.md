@@ -1,6 +1,6 @@
 ---
 date: Wed Jul  8 22:03:26 PDT 2026
-last_modified_at: Wed Jul 15 10:21:18 PDT 2026
+last_modified_at: Mon Jul 20 00:17:16 PDT 2026
 layout: single
 title: "SNU Engineering Entrepreneurship with Silicon Valley Program"
 permalink: /snu-eng-ent-program
@@ -627,11 +627,13 @@ See [IR Pitching Preparation Guide](/resource/activities/2026 07 - SNU Eng Ent P
 ### Final Pitch Presentations
 
 **Time:** 2:00–4:00 pm · **Venue:** Ranch
-**Judges:** Silicon Valley angel investors, incl.
-[Keeyong Han](https://www.linkedin.com/in/keeyonghan/){:target="_blank"} and
-[Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
+**Judges:** Silicon Valley angel investors,
+[Keeyong Han](https://www.linkedin.com/in/keeyonghan/){:target="_blank"},
+[Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"},
+and
+[Douglas Park](https://www.linkedin.com/in/douglaspark/){:target="_blank"}.
 
-3-minute pitch + 5-minute Q&A per team, followed by the Closing Session and
+5-minute pitch + 5-minute Q&A per team, followed by the Closing Session and
 Awards Ceremony.
 
 <!-- Team decks / results / photos -->
