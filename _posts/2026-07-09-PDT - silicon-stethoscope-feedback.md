@@ -1,8 +1,8 @@
 ---
 date: Thu Jul  9 00:04:24 PDT 2026
-last_modified_at: Fri Jul 10 01:05:24 PDT 2026
+last_modified_at: Fri Jul 24 03:50:19 PDT 2026
 layout: single
-title: "Voices from Our Inaugural Forum"
+title: "Voices from Our Inaugural Forum on 25-Jun-2026"
 permalink: /event-feedback/01
 categories:
  - announcement

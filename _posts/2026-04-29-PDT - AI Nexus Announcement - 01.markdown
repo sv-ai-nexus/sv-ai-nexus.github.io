@@ -1,8 +1,8 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Wed Jul  1 19:19:32 PDT 2026
+last_modified_at: Fri Jul 24 03:50:53 PDT 2026
 layout: single
-title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
+title: "[AI Nexus's 1st Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation (25-Jun-2026)"
 permalink: /event-announcements/01
 categories:
  - announcement
