@@ -1,6 +1,6 @@
 ---
 date: Mon May  4 21:32:07 PDT 2026
-last_modified_at: Tue May  5 18:21:00 PDT 2026
+last_modified_at: Sat Jul 25 00:56:36 PDT 2026
 layout: single
 title: "AI Nexus Board of Directors"
 permalink: /board-of-directors/
@@ -21,8 +21,9 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 # Board Meetings
 
 - [The 1st Board Meeting Agenda](/board/meeting-01/agenda){:target="_blank"} - 03-May-2026 10:30PM PDT
-- [The 1st Board Meeting Minutes](/board/meeting-01/minutes){:target="_blank"}
+- [The 1st Board Meeting Minutes (remote)](/board/meeting-01/minutes){:target="_blank"}
 - [The 2nd Board Meeting Agenda](/board/meeting-02/agenda){:target="_blank"} - 13-May-2026 9PM PDT
+- [The 3rd Board Meeting Minutes (in-person)](/board/meeting-03/minutes){:target="_blank"} - 21-Jul-2026 8PM PDT
 
 # Documents
 
