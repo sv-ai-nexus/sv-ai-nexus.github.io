@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Thu Jul 16 13:52:43 PDT 2026
+last_modified_at: Sun Jul 26 17:11:52 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -282,9 +282,13 @@ This is not passive Q&A. This is **active dialogue**—where students and practi
 
 ### Expert Panelists
 
-- [**Sunghee Yun**](https://sungheeyun.github.io) &ndash; Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Founder & Chair</a> of <a href="/">AI Nexus</a>
-- <span style="color: blue;">Additional expert panelists (TBD)</span>
+[**Soh Kim**](https://www.linkedin.com/in/sohkim1){:target="_blank"} &ndash; Executive Director @ Stanford Center for Innovation Design Research (SCIDR), Stanford University
 
+Prof. Soh Kim leads innovation design research at Stanford, where she also directs the Food Design Research program and founded the FoodInno Institute. With a Ph.D. in Open Innovation from UC Berkeley, industry experience spanning Cisco and Daimler-Mercedes Benz, and a career built at the intersection of design thinking, innovation management, and cross-cultural collaboration, she brings a rare design-driven, human-centered lens to questions of technology, agency, and innovation&mdash;a perfect complement to the panel's dialogue between Silicon Valley practitioners and the next generation.
+
+[**Sunghee Yun**](https://sungheeyun.github.io) &ndash; Co-Founder & CTO @ <a href="https://www.erudio.bio/">Erudio Bio</a> / Co-Founder & CEO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea</a> / <a href="/committee/#sunghee">Founder & Chair</a> of <a href="/">AI Nexus</a>
+
+Dr. Sunghee Yun builds AI at the intersection of deep tech and real-world impact&mdash;today as Co-Founder & CTO of Erudio Bio, a Stanford spin-out applying AI to next-generation bio-sensing, diagnostics, and bioTCAD, a drug discovery in-silico software platform using measurement-anchored computational chemistry and AI. With a Ph.D. in Electrical Engineering from Stanford and a B.S. from Seoul National University, his career spans Samsung Semiconductor, Amazon (Senior Applied Scientist), Gauss Labs (Co-Founder & Head of Global R&D), and SK Hynix (VP/Fellow)&mdash;two decades of turning Convex Optimization, Machine Learning (ML), Artificial Intelligence (AI), and signal processing into products at global scale. As Co-Founder & Leader & Chair of AI Nexus, Visiting Professor at Sogang University, and Advisory Professor at DGIST, he has spent his career doing exactly what this colloquium celebrates: building bridges&mdash;between Korea and Silicon Valley, between research and industry, and between generations of technologists.
 
 **The panel will:**
 
