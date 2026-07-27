@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Sun Jul 26 19:29:16 PDT 2026
+last_modified_at: Mon Jul 27 13:18:47 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -285,7 +285,7 @@ This is not passive Q&A. This is **active dialogue**—where students and practi
 [**Soh Kim**](https://www.linkedin.com/in/sohkim1){:target="_blank"} &ndash; Executive Director @ Stanford Center for Innovation Design Research (SCIDR), Stanford University
 
 <div class="img-container">
-	<img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai nexus/events/2026 07 - 2nd/Soh Kim.jpg">
+	<img style="max-width: 40%" src="https://sungheeyun-photos-02.github.io/resource/ai nexus/events/2026 07 - 2nd/Soh Kim - 02.jpeg">
 </div>
 
 Prof. Soh Kim leads innovation design research at Stanford, where she also directs the Food Design Research program and founded the FoodInno Institute. With a Ph.D. in Open Innovation from UC Berkeley, industry experience spanning Cisco and Daimler-Mercedes Benz, and a career built at the intersection of design thinking, innovation management, and cross-cultural collaboration, she brings a rare design-driven, human-centered lens to questions of technology, agency, and innovation&mdash;a perfect complement to the panel's dialogue between Silicon Valley practitioners and the next generation.
