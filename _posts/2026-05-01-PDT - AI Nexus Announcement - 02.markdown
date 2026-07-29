@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Wed Jul 29 03:38:38 PDT 2026
+last_modified_at: Wed Jul 29 13:16:55 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -137,6 +137,8 @@ This partnership creates value in both directions: students gain access to Silic
 # Event Format - Reverse Mentoring in Action
 
 This colloquium inverts the traditional forum dynamic.
+
+<a target="_blank" href="https://sungheeyun-seminars-02.github.io/resource/talks/2026/07/2026_0729 PDT - AI Nexus July Colloquium - Bridge Builders/AI Nexus July Colloquium - Bridge Builders - Sunghee Yun.pdf">Program</a>
 
 Instead of practitioners lecturing students, **students speak first**—presenting their research, perspectives, and questions. Then AI Nexus mentors respond with practical feedback, real-world critique, and extended dialogue.
 
