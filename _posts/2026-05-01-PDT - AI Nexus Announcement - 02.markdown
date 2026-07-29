@@ -1,6 +1,6 @@
 ---
 date: Fri May  1 03:32:32 PDT 2026
-last_modified_at: Mon Jul 27 13:18:47 PDT 2026
+last_modified_at: Wed Jul 29 03:38:38 PDT 2026
 layout: single
 title: "[AI Nexus's 2nd Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future (29-Jul-2026)"
 permalink: /event-announcements/02
@@ -175,6 +175,8 @@ We are honored that Consul Cho will open our colloquium with congratulatory rema
 <img style="max-width: 58.82%" src="https://sungheeyun-photos-01.github.io/resource/2025/11/07%20-%20IFEZ/DRD_2473.JPG">
 <img style="max-width: 39.18%" src="https://sungheeyun.github.io/assets/images/profile-photo-670x671.png">
 </div>
+
+[Presentation Slides](https://sungheeyun-seminars-02.github.io/resource/talks/2026/07/2026_0729 PDT - Silicon Valley AI Nexus x KASC Joint Colloquium Keynote - Tech Sovereignty and the Korea-US Alliance/Silicon Valley AI Nexus x KASC Joint Colloquium Keynote - Tech Sovereignty and the Korea-US Alliance - Sunghee Yun.pdf){:target="_blank"}
 
 Technology sovereignty has emerged as one of the defining questions of the 21st century.
 As AI, semiconductors, quantum computing, and biotech become strategic assets that shape national security, economic competitiveness, and social stability, nations must decide: build domestic capability, align with allies, or accept dependence on others.
