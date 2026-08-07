@@ -1,6 +1,6 @@
 ---
 date: Thu Aug  6 17:41:59 EDT 2026
-last_modified_at: Fri Aug  7 03:30:00 EDT 2026
+last_modified_at: Fri Aug  7 03:38:06 EDT 2026
 layout: single
 title: "[AI Nexus's 3rd Chapter] Builders Only - Careers, Labor, and Revenue in the Age of Agentic Coding (11-Aug-2026)"
 permalink: /event-announcements/03
@@ -140,6 +140,10 @@ A 30-person working room serves those pillars differently than a 100-person foru
 If AI is reshaping how careers and labor work, our community shouldn't just discuss it &mdash; some of us should be building the alternative.
 
 **See you on August 11th.**
+
+<span id="jay">
+**Our sincere thanks to [Jay Wonpyo Lee](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"} for generously hosting us at The Ranch.**
+</span>
 
 Best regards,<br>
 [AI Nexus Committee](/committee)
