@@ -1,6 +1,6 @@
 ---
 date: Thu Aug  6 17:41:59 EDT 2026
-last_modified_at: Fri Aug  7 03:18:50 EDT 2026
+last_modified_at: Fri Aug  7 03:30:00 EDT 2026
 layout: single
 title: "[AI Nexus's 3rd Chapter] Builders Only - Careers, Labor, and Revenue in the Age of Agentic Coding (11-Aug-2026)"
 permalink: /event-announcements/03
@@ -60,6 +60,7 @@ A year of agentic coding tutoring proved builders can ship. What turns a shipped
 
 - **Date**: 11-Aug-2026 (tue)
 - **Time**: 6pm-8pm PDT
+- **Meals**: **<span style="color: red;">No dinner will be served</span>** &mdash; please eat beforehand or bring your own
 - **Venue**: The Ranch - [249 Palm Ave, Morgan Hill, CA 95037](https://maps.app.goo.gl/RS8ydf8CKBRvguWk7){:target="_blank"}
 - **Capacity**: **<span style="color: red;">30 people only</span>** &mdash; RSVP required
 - **Speakers**: [Eunkwang Joo](https://www.linkedin.com/in/ekjoo){:target="_blank"} &amp; [Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
