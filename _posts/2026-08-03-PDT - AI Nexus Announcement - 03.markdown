@@ -1,6 +1,6 @@
 ---
 date: Thu Aug  6 17:41:59 EDT 2026
-last_modified_at: Fri Aug  7 03:00:23 EDT 2026
+last_modified_at: Fri Aug  7 03:18:50 EDT 2026
 layout: single
 title: "[AI Nexus's 3rd Chapter] Builders Only - Careers, Labor, and Revenue in the Age of Agentic Coding (11-Aug-2026)"
 permalink: /event-announcements/03
@@ -38,11 +38,14 @@ to share this session!
 
 # Invitation
 
-<div class="notice--danger">
-<strong>⚠️ THIS ONE IS DIFFERENT &mdash; ONLY 30 SEATS.</strong><br>
+<div class="notice--danger" id="commitment-warning">
+<strong>⚠️ THIS ONE IS DIFFERENT &mdash; ONLY 30 SEATS.</strong>
 Our previous chapters drew 100+ attendees. This one won't.<br><br>
-<strong>Come only if you are seriously considering building a product with agentic coding &mdash; and turning it into a business.</strong><br><br>
-This is a working room for people who intend to ship and earn.
+<strong>Come only if you are seriously considering building a product with agentic coding &mdash; and turning it into a business.</strong>
+This is a working room for people who intend to ship and earn.<br><br>
+<strong>📌 This is a KICK-OFF, not a one-off.</strong>
+We'll keep meeting at least every other week for the next three months.
+Please RSVP only if you can commit to showing up.
 </div>
 
 ⌨️ **<span style="color: red;">BUILDERS ONLY</span>** ⌨️
