@@ -1,6 +1,6 @@
 ---
 date: Thu Aug  6 17:41:59 EDT 2026
-last_modified_at: Sat Aug  8 02:56:36 EDT 2026
+last_modified_at: Sat Aug  8 02:58:29 EDT 2026
 layout: single
 title: "[AI Nexus's 3rd Chapter] Builders Only - Careers, Labor, and Revenue in the Age of Agentic Coding (11-Aug-2026)"
 permalink: /event-announcements/03
@@ -170,9 +170,8 @@ If AI is reshaping how careers and labor work, our community shouldn't just disc
 
 **See you on August 11th.**
 
-<div id="jay">
-<stron>Our sincere thanks to [Jay Wonpyo Lee](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"} for generously hosting us at The Ranch.</strong>
-</div>
+<span id="jay"></span>
+**Our sincere thanks to [Jay Wonpyo Lee](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"} for generously hosting us at The Ranch.**
 
 Best regards,<br>
 [AI Nexus Committee](/committee)
