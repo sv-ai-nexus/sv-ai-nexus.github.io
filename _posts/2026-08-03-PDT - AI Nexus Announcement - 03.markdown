@@ -1,6 +1,6 @@
 ---
 date: Thu Aug  6 17:41:59 EDT 2026
-last_modified_at: Fri Aug  7 14:45:21 EDT 2026
+last_modified_at: Sat Aug  8 00:56:07 EDT 2026
 layout: single
 title: "[AI Nexus's 3rd Chapter] Builders Only - Careers, Labor, and Revenue in the Age of Agentic Coding (11-Aug-2026)"
 permalink: /event-announcements/03
@@ -54,13 +54,18 @@ Artificial Intelligence (AI) is collapsing entry-level hiring and, at the very s
 
 A year of agentic coding tutoring proved builders can ship. What turns a shipped app into a business is domain insight &mdash; and that's what <span style="color: red; font-weight: bold;">AI Nexus's vertical experts</span> bring. <span class="emph">This session is where the two meet.</span>
 
-<div class="img-container" id="ai-nexus-logo">
-	<img style="max-width: 30%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/ai-nexus-logo-01.png">
+<div class="img-container-justified" id="ai-nexus-logo">
+&nbsp;
+	<img style="width: 15.68%;" src="https://sungheeyun-photos-02.github.io/resource/org-logos/ai-nexus-logo-01.png">
+	<!--img style="width: 15.68%;" src="https://sungheeyun-photos-02.github.io/resource/org-logos/x-cross-smaller.svg"-->
+	<img style="width: 58.64%;" src="https://sungheeyun-photos-02.github.io/resource/org-logos/sv-reboot-logo-01.png">
+	<img style="width: 15.68%;" src="https://sungheeyun-photos-02.github.io/resource/org-logos/ai-nexus-logo-01.png">
+&nbsp;
 </div>
 
 - **Date**: 11-Aug-2026 (tue)
 - **Time**: 6pm-8pm PDT
-- **Meals**: **<span style="color: red;">No dinner will be served</span>** &mdash; please eat beforehand or bring your own
+- **Meals**: Working session &mdash; <span class="emph">no dinner served</span>, so please eat beforehand or bring your own
 - **Venue**: The Ranch - [249 Palm Ave, Morgan Hill, CA 95037](https://maps.app.goo.gl/RS8ydf8CKBRvguWk7){:target="_blank"}
 - **Capacity**: **<span style="color: red;">30 people only</span>** &mdash; RSVP required
 - **Speakers**: [Eunkwang Joo](https://www.linkedin.com/in/ekjoo){:target="_blank"} &amp; [Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
@@ -101,6 +106,7 @@ builder and a domain expert in the same room, and you get something neither coul
 produce alone &mdash; a commercialized product with real revenue behind it.
 
 That's the thesis we're testing on August 11th, with 30 people.
+
 # Introducing Sunbay
 
 **Sunbay is an AI builder studio**, led by Korean senior professionals who built their careers in Silicon Valley.
