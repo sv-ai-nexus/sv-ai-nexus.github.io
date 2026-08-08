@@ -1,6 +1,6 @@
 ---
 date: Mon May  4 21:32:07 PDT 2026
-last_modified_at: Sat Jul 25 00:56:36 PDT 2026
+last_modified_at: Sat Aug  8 15:33:28 EDT 2026
 layout: single
 title: "AI Nexus Board of Directors"
 permalink: /board-of-directors/
@@ -27,8 +27,12 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 
 # Documents
 
-{% assign plan_2026 = site.posts | where: "permalink", "/leadership/plan/2026" | first %}
+{% assign plan_2026 = site.pages | where: "permalink", "/leadership/plan/2026" | first %}
+{% assign bylaw = site.pages | where: "permalink", "/bylaws/ai-nexus" | first %}
 
+
+- [{{ bylaw.title }}]({{ bylaw.url }}){:target="_blank"}
+- [{{ plan_2026.title }}]({{ plan_2026.url }}){:target="_blank"}
 - [AI Nexus 2026 Plan & Vision](/leadership/plan/2026){:target="_blank"}
 - [AI Nexus FAQs](/faq/k-pai-nexus){:target="_blank"}
 - [[PR/FAQ] AI Nexus - The Definitive AI Community](/pr-faq/2028){:target="_blank"}
