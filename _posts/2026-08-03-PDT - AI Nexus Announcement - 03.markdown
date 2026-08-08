@@ -1,6 +1,6 @@
 ---
 date: Thu Aug  6 17:41:59 EDT 2026
-last_modified_at: Sat Aug  8 01:16:11 EDT 2026
+last_modified_at: Sat Aug  8 02:49:14 EDT 2026
 layout: single
 title: "[AI Nexus's 3rd Chapter] Builders Only - Careers, Labor, and Revenue in the Age of Agentic Coding (11-Aug-2026)"
 permalink: /event-announcements/03
@@ -69,7 +69,7 @@ A year of agentic coding tutoring proved builders can ship. What turns a shipped
 - **Venue**: The Ranch - [249 Palm Ave, Morgan Hill, CA 95037](https://maps.app.goo.gl/RS8ydf8CKBRvguWk7){:target="_blank"}
 - **Capacity**: **<span style="color: red;">30 people only</span>** &mdash; RSVP required
 - **Speakers**: [Eunkwang Joo](https://www.linkedin.com/in/ekjoo){:target="_blank"} &amp; [Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/ur70ysps?tk=bkFTBZ">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/ur70ysps">this link</a>!</strong></font>
 
 # What We'll Cover
 
@@ -177,7 +177,7 @@ If AI is reshaping how careers and labor work, our community shouldn't just disc
 Best regards,<br>
 [AI Nexus Committee](/committee)
 
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/ur70ysps?tk=bkFTBZ">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/ur70ysps">this link</a>!</strong></font>
 
 # One more thing!
 
