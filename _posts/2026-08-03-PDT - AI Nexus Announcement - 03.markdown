@@ -1,6 +1,6 @@
 ---
 date: Thu Aug  6 17:41:59 EDT 2026
-last_modified_at: Sat Aug  8 00:56:07 EDT 2026
+last_modified_at: Sat Aug  8 01:06:36 EDT 2026
 layout: single
 title: "[AI Nexus's 3rd Chapter] Builders Only - Careers, Labor, and Revenue in the Age of Agentic Coding (11-Aug-2026)"
 permalink: /event-announcements/03
@@ -132,7 +132,33 @@ Come if you are:
 - **A domain expert in a vertical** &mdash; healthcare, legal, finance, manufacturing, education &mdash; who wants to pair that expertise with builders
 - **Seriously evaluating** whether the solo-builder path is viable for you
 
+<!--
 Please don't come if you're only curious about what vibe coding is. We'll have plenty of other events for that &mdash; and we'd rather give the seat to someone ready to build.
+-->
+
+<div id="tone-down">
+If you're still just exploring what vibe coding is, we'd recommend waiting for one of our other events — this room is reserved for those ready to build.
+</div>
+
+# Q&A
+
+A few questions have already come in &mdash; here are the answers.
+
+**Q1. Will all the meetings over the three months be held in Morgan Hill, or is this location for the kick-off only?**
+
+Only the kick-off on August 11th will be held in Morgan Hill. The venues for subsequent meetings are yet to be determined.
+
+**Q2. Do I need to bring a business idea?**
+
+No. A business idea is not required to attend.
+
+**Q3. Will future meetings be online or offline?**
+
+Going forward, there will be two kinds of meetings: team meetings and all-hands meetings. Each team will decide its own schedule and format &mdash; online or offline, both work. The format of the all-hands meetings will be decided together at the kick-off.
+
+**Q4. Can I join online from Korea?**
+
+Most likely difficult &mdash; but we will discuss it together at the kick-off.
 
 # Why [AI Nexus](/) Is Hosting This
 
