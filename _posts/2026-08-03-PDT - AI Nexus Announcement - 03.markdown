@@ -1,6 +1,6 @@
 ---
 date: Thu Aug  6 17:41:59 EDT 2026
-last_modified_at: Sat Aug  8 01:06:36 EDT 2026
+last_modified_at: Sat Aug  8 01:16:11 EDT 2026
 layout: single
 title: "[AI Nexus's 3rd Chapter] Builders Only - Careers, Labor, and Revenue in the Age of Agentic Coding (11-Aug-2026)"
 permalink: /event-announcements/03
@@ -140,7 +140,7 @@ Please don't come if you're only curious about what vibe coding is. We'll have p
 If you're still just exploring what vibe coding is, we'd recommend waiting for one of our other events — this room is reserved for those ready to build.
 </div>
 
-# Q&A
+# FAQs
 
 A few questions have already come in &mdash; here are the answers.
 
