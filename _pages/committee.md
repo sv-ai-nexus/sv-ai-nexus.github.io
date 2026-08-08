@@ -1,5 +1,5 @@
 ---
-last_modified_at: Wed Jul  1 00:37:13 PDT 2026
+last_modified_at: Sat Aug  8 14:37:32 EDT 2026
 layout: single
 title: AI Nexus Committees
 permalink: /committee/
@@ -247,7 +247,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #3333ff;">
+<td class="role" style="color: #3333ff;" id="eunjee">
 	Marketing Lead
 </td>
 <td class="kor-name">
