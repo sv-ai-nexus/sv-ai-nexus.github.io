@@ -1,6 +1,6 @@
 ---
 date: Thu Sep 24 21:07:00 PDT 2026
-last_modified_at: Thu Sep 24 21:43:43 PDT 2026
+last_modified_at: Sat Sep 26 22:28:28 PDT 2026
 layout: single
 title: "[AI Nexus's 4th Chapter] AI, Power, and Security - Who Attacks, Who Defends, and Where Korea Stands (7-Oct-2026)"
 permalink: /event-announcements/04
@@ -105,7 +105,7 @@ This forum is generously sponsored by the **Consulate General of the Republic of
 
 **Speaker**
 &ndash;
-**TBD** (to be announced soon!)
+**<a target="_blank" href="https://www.linkedin.com/in/silverdel/">Min Pyo Hong</a>** - Founder &amp; CEO of SEWORKS
 
 <span class="emph">AI has become a weapon, a target, and a shield, all at the same time.</span>
 
@@ -168,7 +168,7 @@ For Korean founders, engineers, researchers, and investors in Silicon Valley, un
 
 **Panelists**
 
-- **TBD** - Talk 1 speaker (AI Security)
+- **<a target="_blank" href="https://www.linkedin.com/in/silverdel/">Min Pyo Hong</a>** - Founder &amp; CEO of SEWORKS
 - **Kyeongrae Cho** - Consul for AI, Consulate General of the Republic of Korea in San Francisco / Ministry of Science and ICT
 - *More panelists may be announced!*
 
