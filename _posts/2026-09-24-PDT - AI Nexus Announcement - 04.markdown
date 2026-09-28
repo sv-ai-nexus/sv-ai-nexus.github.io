@@ -1,6 +1,6 @@
 ---
 date: Thu Sep 24 21:07:00 PDT 2026
-last_modified_at: Sat Sep 26 22:28:28 PDT 2026
+last_modified_at: Sun Sep 27 19:11:04 PDT 2026
 layout: single
 title: "[AI Nexus's 4th Chapter] AI, Power, and Security - Who Attacks, Who Defends, and Where Korea Stands (7-Oct-2026)"
 permalink: /event-announcements/04
@@ -69,14 +69,11 @@ This forum is generously sponsored by the **Consulate General of the Republic of
 - **Venue**: [Alaska @ KOTRA / KIC Silicon Valley](https://maps.app.goo.gl/rodukzZGtDmz2XZM9){:target="_blank"}
 - **Language**: Korean
 - **Speakers**
-  - **TBD** - AI Security
+  - **[Min Pyo Hong](https://www.linkedin.com/in/silverdel/){:target="_blank"}** - Founder & CEO of SEWORKS
   - **Kyeongrae Cho** - Consul for AI, Consulate General of the Republic of Korea in San Francisco / Ministry of Science and ICT
-- **Panel Moderator**: [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader & Chair of [Silicon Valley AI Nexus](/)
+- **Panel Moderator**: [**Sunghee Yun**](https://sungheeyun.github.io){:target="_blank"} - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader & Chair of [Silicon Valley AI Nexus](/)
 - **Sponsor**: The Consulate General of the Republic of Korea in San Francisco (food & beverage)
-
-<!--
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="">this link</a>!</strong></font>
--->
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/6jgrkr37">this link</a>!</strong></font>
 
 # Event Schedule
 
@@ -90,9 +87,7 @@ This forum is generously sponsored by the **Consulate General of the Republic of
 
 **Come for the security threats. Stay for the global power map. Leave with a sharper view of where AI is heading, and what Korea should do about it.**
 
-<!--
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="">this link</a>!</strong></font>
--->
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/6jgrkr37">this link</a>!</strong></font>
 
 - Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about our AI Nexus membership for qualification and all exclusive perks you can enjoy!
 - Join us at AI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
@@ -164,7 +159,7 @@ For Korean founders, engineers, researchers, and investors in Silicon Valley, un
 
 **Moderator**
 &ndash;
-[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader & Chair of [Silicon Valley AI Nexus](/)
+[**Sunghee Yun**](https://sungheeyun.github.io){:target="_blank"} - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader & Chair of [Silicon Valley AI Nexus](/)
 
 **Panelists**
 
@@ -322,7 +317,3 @@ Best regards,<br>
 ---
 
 **We extend our deepest gratitude to the Consulate General of the Republic of Korea in San Francisco for generously sponsoring this forum and providing food and beverage, and to Consul Kyeongrae Cho for sharing his perspective with our community.**
-
-<!--
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="">this link</a>!</strong></font>
--->
