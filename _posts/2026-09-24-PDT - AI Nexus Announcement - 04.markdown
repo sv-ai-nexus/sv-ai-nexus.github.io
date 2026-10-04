@@ -1,8 +1,8 @@
 ---
 date: Thu Sep 24 21:07:00 PDT 2026
-last_modified_at: Sat Oct  3 17:27:56 PDT 2026
+last_modified_at: Sun Oct  4 02:33:02 PDT 2026
 layout: single
-title: "[AI Nexus's 4th Chapter] AI, Power, and Security - Who Attacks, Who Defends, and Where Korea Stands (7-Oct-2026)"
+title: "[AI Nexus's 4th Chapter] AI, Power, and Security - Who Attacks, Who Defends, and Where Korea Stands (07-Oct-2026)"
 permalink: /event-announcements/04
 categories:
  - announcement
