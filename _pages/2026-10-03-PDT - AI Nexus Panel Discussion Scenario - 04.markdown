@@ -1,6 +1,6 @@
 ---
-date: Sat Oct  6 21:39:00 PDT 2026
-last_modified_at: Sat Oct  3 23:09:16 PDT 2026
+date: Sat Oct  3 21:39:00 PDT 2026
+last_modified_at: Sun Oct  4 17:20:00 PDT 2026
 layout: single
 title: "[AI Nexus's 4th Chapter] Panel Discussion Scenario &ndash; AI, Power, and Security (07-Oct-2026)"
 permalink: /panel-scenario/04
@@ -26,9 +26,6 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 &amp;
 updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 {: .notice--primary}
-
-⚠️  Confidential &#124; AI Nexus Leadership Only &#124; Not Publicly Listed
-{: .notice--danger}
 
 # Panel Overview
 
