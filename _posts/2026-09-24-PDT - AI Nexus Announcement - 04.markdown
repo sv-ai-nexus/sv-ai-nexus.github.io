@@ -1,6 +1,6 @@
 ---
 date: Thu Sep 24 21:07:00 PDT 2026
-last_modified_at: Sun Oct  4 02:33:02 PDT 2026
+last_modified_at: Mon Oct  5 17:43:51 PDT 2026
 layout: single
 title: "[AI Nexus's 4th Chapter] AI, Power, and Security - Who Attacks, Who Defends, and Where Korea Stands (07-Oct-2026)"
 permalink: /event-announcements/04
@@ -72,7 +72,7 @@ This forum is generously sponsored by the **Consulate General of the Republic of
   - **[Min Pyo Hong](https://www.linkedin.com/in/silverdel/){:target="_blank"}** - Founder & CEO of SEWORKS
   - **Kyeongrae Cho** - Consul for AI, Consulate General of the Republic of Korea in San Francisco / Ministry of Science and ICT
 - **Panel Moderator**: [**Sunghee Yun**](https://sungheeyun.github.io){:target="_blank"} - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader & Chair of [Silicon Valley AI Nexus](/)
-- **Panelists**: both speakers, **[Kyeyeon Kim](https://www.linkedin.com/in/double73/){:target="_blank"}** - Co-Founder & CTO of GENIANS, and **[Jihye Choi](https://www.linkedin.com/in/jihye-choi-a473a8148/){:target="_blank"}** - Research Scientist, Security and Privacy Research @ NVIDIA
+- **Panelists**: both speakers and **[Kyeyeon Kim](https://www.linkedin.com/in/double73/){:target="_blank"}** - Co-Founder & CTO of GENIANS
 - **Sponsor**: The Consulate General of the Republic of Korea in San Francisco (food & beverage)
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/6jgrkr37">this link</a>!</strong></font>
 
@@ -167,7 +167,6 @@ For Korean founders, engineers, researchers, and investors in Silicon Valley, un
 - **<a target="_blank" href="https://www.linkedin.com/in/silverdel/">Min Pyo Hong</a>** - Founder &amp; CEO of SEWORKS
 - **Kyeongrae Cho** - Consul for AI, Consulate General of the Republic of Korea in San Francisco / Ministry of Science and ICT
 - **<a target="_blank" href="https://www.linkedin.com/in/double73/">Kyeyeon Kim</a>** - Co-Founder &amp; CTO of GENIANS
-- **<a target="_blank" href="https://www.linkedin.com/in/jihye-choi-a473a8148/">Jihye Choi</a>** - Research Scientist, Security and Privacy Research @ NVIDIA
 
 The two talks look at AI from very different vantage points: one from the front line of attack and defense, the other from the level of companies, nations, and the international order.
 The panel brings them together.
