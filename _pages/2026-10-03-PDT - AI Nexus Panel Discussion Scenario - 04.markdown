@@ -1,6 +1,6 @@
 ---
 date: Sat Oct  3 21:39:00 PDT 2026
-last_modified_at: Sun Oct  4 17:20:00 PDT 2026
+last_modified_at: Tue Oct  6 00:58:20 PDT 2026
 layout: single
 title: "[AI Nexus's 4th Chapter] Panel Discussion Scenario &ndash; AI, Power, and Security (07-Oct-2026)"
 permalink: /panel-scenario/04
@@ -36,14 +36,13 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
   - **[Min Pyo Hong](https://www.linkedin.com/in/silverdel/){:target="_blank"}** &ndash; Founder &amp; CEO of SEWORKS
   - **Kyeongrae Cho** &ndash; Consul for AI, Consulate General of the Republic of Korea in San Francisco / Ministry of Science and ICT
   - **[Kyeyeon Kim](https://www.linkedin.com/in/double73/){:target="_blank"}** &ndash; Co-Founder &amp; CTO of GENIANS
-  - **[Jihye Choi](https://www.linkedin.com/in/jihye-choi-a473a8148/){:target="_blank"}** &ndash; Research Scientist, Security and Privacy Research @ NVIDIA
 
 # Panel Flow
 
 | Segment | Duration | Description |
 |---------|----------|-------------|
 | Opening Remarks | ~3 min | Moderator sets context |
-| Self-Introductions | ~4 min | 1 min each |
+| Self-Introductions | ~3 min | 1 min each |
 | Round 1 | ~8 min | One targeted question per panelist |
 | Round 2 | ~8 min | Cross-cutting / deeper questions |
 | Floor Q&amp;A | ~5 min | Questions from the audience |
@@ -104,7 +103,7 @@ Amodei는 9월 24일 UN 안전보장이사회에 출석하여 동일한 내용�
 
 # Self-Introductions (~1 min each)
 
-홍민표 → 조경래 → 김기연 → 최지혜 순서
+홍민표 → 조경래 → 김계연 순서
 
 # Round 1 &ndash; 개별 질문
 
@@ -123,18 +122,12 @@ Amodei는 9월 24일 UN 안전보장이사회에 출석하여 동일한 내용�
 반면 한국은 올해 AI 기본법을 시행했고, 비록 1년 계도기간이지만 EU 다음으로 세계에서 두 번째 포괄적 규제 체계를 갖추었습니다.
 **자율규제와 법적 프레임워크, 어느 쪽이 더 효과적이라고 보시고, 한국은 어떤 선택을 해야 합니까?**
 
-## → 김기연 CTO님 (GENIANS) {#r1-kim}
+## → 김계연 CTO님 (GENIANS) {#r1-kim}
 
-CTO님은 네트워크 보안 현장에서 20년 넘게 경험이 있으신데요.
-AI가 공격자와 방어자 양쪽 모두에게 "force multiplier"가 되고 있습니다.
-**실제로 현장에서 AI로 인해 공격 패턴이 어떻게 변하고 있고, 방어 측은 얼마나 따라가고 있습니까?**
-
-## → 최지혜 연구원님 (NVIDIA) {#r1-choi}
-
-NVIDIA에서 Security and Privacy Research를 하고 계신데요.
-NVIDIA는 전 세계 AI 인프라의 핵심이잖아요.
-GPU 위에서 실행되는 AI 모델 자체의 보안 &mdash; 모델 가중치 탈취, 추론 시 데이터 유출, 연합학습의 취약점 같은 문제들 &mdash;
-**현재 가장 시급한 과제는 무엇이라고 보십니까?**
+CTO님은 네트워크 보안 현장에서 20년 넘게 계셨는데요.
+오늘 홍민표 대표님 강연에서도 나왔듯이, AI가 공격자와 방어자 양쪽 모두에게 "force multiplier"가 되고 있습니다.
+공격자 쪽에서는 AI가 피싱을 대량으로 정교하게 만들고, 취약점을 자동으로 찾아내며, 이제는 에이전트 스스로 침투까지 시도하는 시대가 됐습니다.
+**실제로 현장에서 목격하시는 공격 패턴의 변화 &mdash; 무엇이 가장 달라졌고, 방어 측은 그 속도를 따라가고 있습니까?**
 
 # Round 2 &ndash; 심화 질문
 
@@ -149,16 +142,19 @@ Amodei가 "6-12개월 내 AI가 전체 인터넷을 장악할 수 있는 에이�
 슬라이드에서 "OWN-ALLY-ADOPT-RULE" 프레임워크를 제시하셨는데, 특히 <span class="emph">"Strategy is not 'do everything' &mdash; it is deciding what must be owned, what must be connected, and where Korea can create leverage"</span>라는 말씀이 인상적이었습니다.
 **현실적으로 한국이 반드시 "OWN" 해야 하는 것의 우선순위는 무엇이고, 실리콘밸리와의 관계에서 "ALLY"의 핵심 영역은 어디라고 보십니까?**
 
-## → 김기연 CTO님 {#r2-kim}
+## → 김계연 CTO님 {#r2-kim}
 
-AI 기본법이 시행됐지만 1년 계도기간 중입니다.
-**보안 업계 현장에서 &mdash; 이 규제 프레임워크가 실질적으로 기업들의 AI 보안 투자를 이끌어내고 있습니까, 아니면 아직 관망 중입니까?**
+조경래 영사님 슬라이드에서도 규제(regulation)가 10대 전선 중 하나로 다뤄졌는데요.
+한국은 올해 AI 기본법을 시행했지만, 지금은 1년 계도기간 중입니다.
+법은 있지만 강제력이 본격화되지 않은 이 어정쩡한 구간에서 &mdash;
+**보안 업계 현장에서 보시기에, 기업들이 실제로 AI 보안 투자를 늘리고 있습니까, 아니면 계도기간이 끝날 때까지 관망하는 분위기입니까?
+투자를 움직이는 건 결국 규제입니까, 아니면 실제 사고 경험입니까?**
 
-## → 최지혜 연구원님 {#r2-choi}
+## → 전체 패널 (공통 질문)
 
 Open-weight 모델 vs. closed 모델의 보안 트레이드오프를 어떻게 보십니까?
 조경래 영사님 슬라이드에서도 이 주제를 다루셨는데 &mdash; DeepSeek, Meta의 Llama 같은 open-weight 모델이 확산되면서 보안 리스크가 커진다는 주장과, 오히려 투명성이 보안을 강화한다는 주장이 있습니다.
-**NVIDIA의 연구 관점에서 어느 쪽입니까?**
+**각자의 영역에서 &mdash; 보안 업계, 정책, 현장 &mdash; 어느 쪽이 더 설득력 있다고 보십니까?**
 
 # Floor Q&amp;A
 
@@ -171,9 +167,9 @@ Open-weight 모델 vs. closed 모델의 보안 트레이드오프를 어떻게 �
 **지금 이 순간, AI 보안과 관련해서 한국이 가장 시급하게 해야 할 <span class="emph">한 가지</span>를 꼽으신다면 무엇입니까?
 그리고 오늘 이 자리에 계신, 실리콘밸리의 한국인 AI 전문가 커뮤니티 &mdash; 바로 여러분 &mdash; 이 그 과제에 어떤 역할을 할 수 있을까요?**
 
-최지혜 연구원님부터 역순으로 가시죠.
+김계연 CTO님부터 역순으로 가시죠.
 
-최지혜 → 김기연 → 조경래 → 홍민표
+김계연 → 조경래 → 홍민표 순서
 
 # Background Research Notes
 
