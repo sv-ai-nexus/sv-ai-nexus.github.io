@@ -1,6 +1,6 @@
 ---
 date: Sat Oct  3 21:39:00 PDT 2026
-last_modified_at: Tue Oct  6 00:58:20 PDT 2026
+last_modified_at: Tue Oct  6 01:34:10 PDT 2026
 layout: single
 title: "[AI Nexus's 4th Chapter] Panel Discussion Scenario &ndash; AI, Power, and Security (07-Oct-2026)"
 permalink: /panel-scenario/04
@@ -42,7 +42,7 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 | Segment | Duration | Description |
 |---------|----------|-------------|
 | Opening Remarks | ~3 min | Moderator sets context |
-| Self-Introductions | ~3 min | 1 min each |
+| Self-Introductions | ~1 min | 김계연 CTO only (홍민표·조경래는 강연에서 소개済) |
 | Round 1 | ~8 min | One targeted question per panelist |
 | Round 2 | ~8 min | Cross-cutting / deeper questions |
 | Floor Q&amp;A | ~5 min | Questions from the audience |
@@ -82,6 +82,12 @@ Amodei는 9월 24일 UN 안전보장이사회에 출석하여 동일한 내용�
 - 멕시코 정부에서는 Claude Code를 경유한 **1억 9,500만 건의 개인정보 유출** 발생
 - AI 에이전트를 도입한 기업의 **88%가 보안 사고를 경험**했다는 조사 결과 발표
 
+### 한국 금융권 보안사고 &mdash; 바로 지금 벌어지고 있는 일
+
+그리고 바로 지금, 한국에서는 금융권을 중심으로 보안사고가 연이어 터지고 있습니다.
+원인은 아직 조사 중이지만, AI 기반 해킹이 아니냐는 추측이 많습니다.
+오늘 우리가 논의하는 "AI 시대의 사이버보안을 어떻게 가져가야 하는가"라는 질문은 더 이상 이론이 아닙니다. 바로 지금 한국에서 벌어지고 있는 현실입니다.
+
 ### 한국 &mdash; 다른 길
 
 이러한 상황에서 한국은 미국과는 다른 경로를 택하고 있습니다.
@@ -99,8 +105,11 @@ Amodei는 9월 24일 UN 안전보장이사회에 출석하여 동일한 내용�
 
 ---
 
-그럼 먼저 패널리스트 여러분의 간단한 자기소개를 부탁드리겠습니다. 홍민표 대표님부터 시작하시죠.
+그럼 패널 토론에 앞서, 강연에서 소개되지 않은 김계연 CTO님의 간단한 자기소개부터 부탁드리겠습니다.
 
+# Self-Introductions (~1 min)
+
+홍민표 대표님과 조경래 영사님은 강연에서 이미 소개되었으므로 생략 &mdash; 김계연 CTO님만 간단히
 # Self-Introductions (~1 min each)
 
 홍민표 → 조경래 → 김계연 순서
