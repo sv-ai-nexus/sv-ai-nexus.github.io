@@ -1,6 +1,6 @@
 ---
 date: Thu Sep 24 21:07:00 PDT 2026
-last_modified_at: Mon Oct  5 17:43:51 PDT 2026
+last_modified_at: Tue Oct  6 01:41:03 PDT 2026
 layout: single
 title: "[AI Nexus's 4th Chapter] AI, Power, and Security - Who Attacks, Who Defends, and Where Korea Stands (07-Oct-2026)"
 permalink: /event-announcements/04
@@ -52,7 +52,7 @@ Big Tech companies and nations are competing over models, chips, energy, and dat
 
 **Who holds power in the age of AI? Who is attacking, who is defending, and where does Korea stand?**
 
-Join us for AI Nexus's **<span style="color: red;">4th Chapter</span>**: an evening of two talks, a panel discussion, dinner, and networking, looking at AI from two angles that are <span style="color: red; font-weight: bold;">rarely</span> discussed in the same room: **security** and **geopolitics**.
+Join us for AI Nexus's **<span style="color: red;">4th Chapter</span>**: an evening of two talks, a lightning talk, a panel discussion, dinner, and networking, looking at AI from two angles that are <span style="color: red; font-weight: bold;">rarely</span> discussed in the same room: **security** and **geopolitics**.
 This forum is generously sponsored by the **Consulate General of the Republic of Korea in San Francisco**, which is kindly providing food and beverage.
 
 <div class="img-container-justified">
@@ -73,6 +73,7 @@ This forum is generously sponsored by the **Consulate General of the Republic of
   - **Kyeongrae Cho** - Consul for AI, Consulate General of the Republic of Korea in San Francisco / Ministry of Science and ICT
 - **Panel Moderator**: [**Sunghee Yun**](https://sungheeyun.github.io){:target="_blank"} - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader & Chair of [Silicon Valley AI Nexus](/)
 - **Panelists**: both speakers and **[Kyeyeon Kim](https://www.linkedin.com/in/double73/){:target="_blank"}** - Co-Founder & CTO of GENIANS
+- **Lightning Talk**: **[Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}** - Principal Applied Scientist at Microsoft
 - **Sponsor**: The Consulate General of the Republic of Korea in San Francisco (food & beverage)
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/6jgrkr37">this link</a>!</strong></font>
 
@@ -84,7 +85,8 @@ This forum is generously sponsored by the **Consulate General of the Republic of
 | 5:30pm - 6pm | **[Talk 1 &ndash; Securing the Agentic Era: How AI Is Rewriting the Rules of Attack and Defense](#talk-1)** |
 | 6pm - 6:30pm | **[Talk 2 &ndash; AI and the New Power Dynamics](#talk-2)** |
 | 6:30pm - 7pm | **[Panel Discussion + Questions from the Floor](#panel-discussion)** |
-| 7pm - 8pm | **[Dinner & Networking](#dinner-networking)** (Generously sponsored by the Consulate General of the Republic of Korea in San Francisco) |
+| 7pm - 7:05pm | **[Lightning Talk &ndash; The Agentic Shift](#lightning-talk)** |
+| 7:05pm - 8pm | **[Dinner & Networking](#dinner-networking)** (Generously sponsored by the Consulate General of the Republic of Korea in San Francisco) |
 
 **Come for the security threats. Stay for the global power map. Leave with a sharper view of where AI is heading, and what Korea should do about it.**
 
@@ -185,12 +187,23 @@ The panel brings them together.
 AI Nexus forums are not one-way lectures. They are community conversations.
 Whether you are a security practitioner, AI builder, founder, investor, researcher, policy professional, or student, this panel is your chance to ask the hard and useful questions.
 
+## Lightning Talk &ndash; The Agentic Shift: What the AI Agent Wave Means for Compute {#lightning-talk}
+
+**Speaker**
+&ndash;
+**<a target="_blank" href="https://www.linkedin.com/in/minha-hwang-7440771/">Minha Hwang</a>** - Principal Applied Scientist at Microsoft *(speaking in a personal capacity)*
+
+AI agents have gone from research demos to everyday tools in a matter of months &mdash; and the market is racing to keep up.
+In this 5-minute lightning talk, Dr. Hwang maps the industry trends around AI agents as he sees them right now: the Cambrian explosion of agentic products, why agentic workloads are reshaping compute demand &mdash; including a renewed surge for CPUs alongside GPUs &mdash; and what it all signals for builders, investors, and strategists.
+
+(Vendor-neutral by design: no single company's product pitch, just the market dynamics.)
+
 ## Dinner & Networking {#dinner-networking}
 
-**7pm - 8pm**
+**7:05pm - 8pm**
 <span style="color: blue; font-style:italic;">Food and beverage generously provided by the Consulate General of the Republic of Korea in San Francisco.</span>
 
-After the talks and panel discussion, we will continue the evening over dinner, where the conversation keeps going and many of the best AI Nexus moments happen.
+After the talks, lightning talk, and panel discussion, we will continue the evening over dinner, where the conversation keeps going and many of the best AI Nexus moments happen.
 
 **Professional Connections**
 
@@ -239,7 +252,7 @@ Three questions define this moment:
 1. **Where does Korea stand, and what should it choose?**
    Korea has world-class strengths in semiconductors, manufacturing, and digital infrastructure. The question is how to turn those strengths into strategic advantage amid a rapidly shifting global landscape.
 
-[Oct-2026 AI Nexus Forum](#top) will explore these questions through two talks, a panel discussion with questions from the floor, and an evening of conversation over dinner.
+[Oct-2026 AI Nexus Forum](#top) will explore these questions through two talks, a lightning talk, a panel discussion with questions from the floor, and an evening of conversation over dinner.
 
 # With Thanks to the Consulate General {#consulate-general}
 
