@@ -1,6 +1,6 @@
 ---
 date: Thu Sep 24 21:07:00 PDT 2026
-last_modified_at: Wed Oct  7 14:20:55 PDT 2026
+last_modified_at: Wed Oct  7 15:15:06 PDT 2026
 layout: single
 title: "[AI Nexus's 4th Chapter] AI, Power, and Security - Who Attacks, Who Defends, and Where Korea Stands (07-Oct-2026)"
 permalink: /event-announcements/04
@@ -74,7 +74,7 @@ This forum is generously sponsored by the **Consulate General of the Republic of
 - **Panel Moderator**: [**Sunghee Yun**](https://sungheeyun.github.io){:target="_blank"} - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader & Chair of [Silicon Valley AI Nexus](/)
 - **Panelists**: both speakers and **[Kyeyeon Kim](https://www.linkedin.com/in/double73/){:target="_blank"}** - Co-Founder & CTO of GENIANS
 - **Lightning Talk 1**: **[Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}** - Principal Applied Scientist at Microsoft
-- **Lightning Talk 2**: **[Jongmin Sung](https://www.linkedin.com/in/jongmin-sung/){:target="_blank"}** -  Knowledge Engineer @ [Sailplane.ai](https://www.sailplane.ai/){:target="_blank"} / AI Systems Architect / Biotech and Drug Discovery Advisor and Scout
+- **Lightning Talk 2**: **[Jongmin Sung](https://www.linkedin.com/in/jongmin-sung/){:target="_blank"}** - Knowledge Engineer @ [Sailplane.ai](https://www.sailplane.ai/){:target="_blank"} / AI Systems Architect / Biotech and Drug Discovery Advisor and Scout
 - **Sponsor**: The Consulate General of the Republic of Korea in San Francisco (food & beverage)
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/6jgrkr37">this link</a>!</strong></font>
 
@@ -204,9 +204,10 @@ In this 5-minute lightning talk, Dr. Hwang maps the industry trends around AI ag
 
 **Speaker**
 &ndash;
-**<a target="_blank" href="https://www.linkedin.com/in/jongmin-sung/">Jongmin Sung</a>**
+**<a target="_blank" href="https://www.linkedin.com/in/jongmin-sung/">Jongmin Sung</a>** - Knowledge Engineer @ [Sailplane.ai](https://www.sailplane.ai/){:target="_blank"} / AI Systems Architect / Biotech and Drug Discovery Advisor and Scout
 
-On October 5, Stanford's Karl Deisseroth was awarded the 2026 Nobel Prize in Physiology or Medicine, shared with Peter Hegemann and Georg Nagel, for discoveries leading to optogenetics &mdash; the technology that makes it possible to switch the activity of individual nerve cells in a living brain on and off with light.
+On October 5, [Stanford's Karl Deisseroth was awarded the 2026 Nobel Prize in Physiology or Medicine](https://news.stanford.edu/stories/2026/10/karl-deisseroth-nobel-prize-physiology-medicine){:target="_blank"},
+shared with Peter Hegemann and Georg Nagel, for discoveries leading to optogenetics &mdash; the technology that makes it possible to switch the activity of individual nerve cells in a living brain on and off with light.
 
 But what does the prize actually recognize, and why does it matter beyond neuroscience?
 In this 4-minute lightning talk, Jongmin Sung unpacks what optogenetics really is, why controlling neurons with light was such a breakthrough, and what it signals for brain&ndash;machine interfaces, neurotechnology, and our understanding of intelligence itself.
