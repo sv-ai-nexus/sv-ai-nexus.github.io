@@ -1,5 +1,5 @@
 ---
-last_modified_at: Tue Oct 20 00:12:56 PDT 2026
+last_modified_at: Tue Oct 20 00:17:56 PDT 2026
 layout: single
 title: AI Nexus Committees
 permalink: /committee/
@@ -121,6 +121,7 @@ author_profile: false
 </tr>
 </table>
 
+<!--
 # Vision &amp; Principles Committee {#vision-and-principles-committee}
 
 <table class="borderless-table">
@@ -176,6 +177,7 @@ author_profile: false
 </td>
 </tr>
 </table>
+-->
 
 # Tech &amp; Social Media Committee {#tech-and-social-media-committee}
 
@@ -292,6 +294,7 @@ author_profile: false
 </tr>
 </table>
 
+<!--
 # Knowledge &amp; Insight Committee
 
 <table class="borderless-table">
@@ -307,6 +310,7 @@ author_profile: false
 </td>
 </tr>
 </table>
+-->
 
 # Program &amp; Content Committee {#program-and-content-committee}
 
