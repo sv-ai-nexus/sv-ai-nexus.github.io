@@ -1,5 +1,5 @@
 ---
-last_modified_at: Sat Aug  8 14:37:32 EDT 2026
+last_modified_at: Tue Oct 20 00:12:56 PDT 2026
 layout: single
 title: AI Nexus Committees
 permalink: /committee/
@@ -244,6 +244,17 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Technical Production Lead
+</td>
+<td class="kor-name">
+	최규환
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/kyuhwan-choi/">Kyu Hwan Choi</a>
 </td>
 </tr>
 <tr>
