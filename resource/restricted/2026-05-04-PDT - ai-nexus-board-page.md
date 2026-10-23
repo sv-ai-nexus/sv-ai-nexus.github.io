@@ -24,6 +24,7 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 - [The 1st Board Meeting Minutes (remote)](/board/meeting-01/minutes){:target="_blank"}
 - [The 2nd Board Meeting Agenda](/board/meeting-02/agenda){:target="_blank"} - 13-May-2026 9PM PDT
 - [The 3rd Board Meeting Minutes (in-person)](/board/meeting-03/minutes){:target="_blank"} - 21-Jul-2026 8PM PDT
+- [The 5th Board Meeting Agenda](/board/meeting-05/agenda){:target="_blank"} - 30-Oct-2026 PDT
 
 # Documents
 
