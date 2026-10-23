@@ -1,6 +1,6 @@
 ---
 date: Mon May  4 21:32:07 PDT 2026
-last_modified_at: Sat Aug  8 15:36:25 EDT 2026
+last_modified_at: Fri Oct 23 01:27:48 PDT 2026
 layout: single
 title: "AI Nexus Board of Directors"
 permalink: /board-of-directors/
@@ -8,6 +8,7 @@ toc: false
 toc_label: "&nbsp;Meeting Agenda"
 toc_icon: "fa-solid fa-list-check"
 toc_sticky: true
+author_profile: true
 ---
 
 posted: {{ page.date | date: "%d-%b-%Y" }}
