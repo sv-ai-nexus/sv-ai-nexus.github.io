@@ -1,6 +1,6 @@
 ---
 date: Thu Oct 22 22:30:00 PDT 2026
-last_modified_at: Thu Oct 22 23:17:43 PDT 2026
+last_modified_at: Fri Oct 23 20:46:55 PDT 2026
 layout: single
 title: "AI Nexus Board of Directors - Fifth Meeting Agenda"
 permalink: /board/meeting-05/agenda
@@ -35,7 +35,7 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 **Date:** 30-Oct-2026\
 **Time:** TBD PDT\
 **Format:** Google Meet Video Conference\
-**Expected Duration:** 50 minutes
+**Expected Duration:** 45 minutes
 
 ## BOARD MEMBERS
 
@@ -50,7 +50,7 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 
 **Quorum:** 4 of 6 required
 
-## I. MOU RATIFICATION — Korean Society for Technology Management & Economics (5 min)
+## I. MOU RATIFICATION — Korean Society for Technology Management & Economics (3 min)
 
 On August 23, 2026, AI Nexus signed an MOU with the **Korean Society for Technology Management & Economics (기술경영경제학회)** in Seoul, establishing a partnership for academic exchange and collaborative development in AI and technology management.
 
@@ -58,7 +58,7 @@ This MOU has not yet been formally approved by the Board. Chair Yun requests Boa
 
 **Note:** Additional MOU requests may be forthcoming from **KASPA (Korean American Semiconductor Professional Alliance)** and **Seoul National University Department of Electrical and Computer Engineering (서울대학교 전기·정보공학부)**.
 
-## II. UPCOMING EVENTS BRIEF (10 min)
+## II. UPCOMING EVENTS BRIEF (8 min)
 
 ### A. Nov 18, 2026 — "Legal Frontiers in AI" at Stanford
 
@@ -69,8 +69,8 @@ This MOU has not yet been formally approved by the Board. Chair Yun requests Boa
   - Jiyoon Han (Judge)
   - Ann Kang (Harvey)
 - **Announcements at this event:**
-  - 🏦 AI Nexus bank account / donation capability (see [Agenda Item III](#iii-bank-account--donations-5-min))
-  - 🎨 New AI Nexus logo (see [Agenda Item IV](#iv-new-logo-5-min))
+  - 🏦 AI Nexus bank account / donation capability (see [Agenda Item III](#iii-bank-account--donations-3-min))
+  - 🎨 New AI Nexus logo (see [Agenda Item IV](#iv-new-logo-3-min))
 
 ### B. Dec 16, 2026 — Year End Celebration
 
@@ -82,27 +82,27 @@ This MOU has not yet been formally approved by the Board. Chair Yun requests Boa
 - **Format:** Year-end celebration + keynotes + networking
 - **Protocol (의전):** All protocol arrangements for Former Minister Lee are in place, including logistics
 
-## III. BANK ACCOUNT & DONATIONS (5 min)
+## III. BANK ACCOUNT & DONATIONS (3 min)
 
 AI Nexus now has a bank account as a registered 501(c)(3) nonprofit.
 
 - We can officially receive tax-deductible donations
 - Plan to announce donation capability at [Nov 18 event](/#legal-issues-ai-featured){:target="_blank"}
 
-## IV. NEW LOGO (5 min)
+## IV. NEW LOGO (3 min)
 
 AI Nexus has a new logo ready for launch.
 
 - Plan to debut at [Nov 18 event](/#legal-issues-ai-featured){:target="_blank"}
 - **Discussion:** Rollout plan (website, social media, event materials, email signatures)
 
-## V. WEBSITE SEO — GOOGLE SEARCHABILITY (5 min)
+## V. WEBSITE SEO — GOOGLE SEARCHABILITY (3 min)
 
 Current AI Nexus website ([{{ site.url }}](/)) needs to be Google searchable.
 
 - Find a solution to maximize impact vs. effort
 
-## VI. 2027 PLANS (35 min)
+## VI. 2027 PLANS (25 min)
 
 ### A. January 2027 — No Event (2 min)
 
@@ -121,7 +121,7 @@ Proposal to establish a dedicated **Speaker Recruitment Committee** to:
 - Manage speaker outreach, coordination, and scheduling
 - Ensure diverse and relevant speaker lineup across 2027 events
 
-### D. 2027 Monthly Themes (March – November) (15 min)
+### D. 2027 Monthly Themes (March – November) (5 min)
 
 Proposed 9 monthly themes for 2027 events:
 
