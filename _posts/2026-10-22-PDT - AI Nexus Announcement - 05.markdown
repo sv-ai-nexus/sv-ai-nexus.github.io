@@ -1,6 +1,6 @@
 ---
 date: Thu Oct 22 23:31:02 PDT 2026
-last_modified_at: Thu Oct 22 23:54:51 PDT 2026
+last_modified_at: Sat Oct 24 20:47:55 PDT 2026
 layout: single
 title: "[AI Nexus's 5th Chapter] Legal Frontiers - AI Is Doing Legal Work. Who Signs Off? (18-Nov-2026)"
 permalink: /event-announcements/05
@@ -46,9 +46,8 @@ Join us for AI Nexus's **<span style="color: red;">5th Chapter</span>**: an even
 
 <div class="img-container-justified">
 &nbsp;
-	<img width="30%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/ai-nexus-logo-01.png">
+	<img width="30%" src="/assets/images/ai-nexus-new-logo.png">
 	<img width="30%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/kic-silicon-valley-01.png">
-	<img width="30%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/stanford-logo-01.jpg">
 &nbsp;
 </div>
 
