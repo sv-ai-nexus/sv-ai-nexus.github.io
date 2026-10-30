@@ -1,6 +1,6 @@
 ---
 date: Thu Oct 22 22:30:00 PDT 2026
-last_modified_at: Fri Oct 23 20:46:55 PDT 2026
+last_modified_at: Thu Oct 29 21:22:18 PDT 2026
 layout: single
 title: "AI Nexus Board of Directors - Fifth Meeting Agenda"
 permalink: /board/meeting-05/agenda
@@ -32,10 +32,10 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 
 # AI NEXUS BOARD OF DIRECTORS — FIFTH MEETING AGENDA
 
-**Date:** 30-Oct-2026\
-**Time:** TBD PDT\
+**Date:** Fri 30-Oct-2026\
+**Time:** 10:00 PM PDT (Sat 31-Oct-2026 2:00 PM KST)\
 **Format:** Google Meet Video Conference\
-**Expected Duration:** 45 minutes
+**Expected Duration:** 42 minutes
 
 ## BOARD MEMBERS
 
@@ -50,7 +50,7 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 
 **Quorum:** 4 of 6 required
 
-## I. MOU RATIFICATION — Korean Society for Technology Management & Economics (3 min)
+## I. MOU RATIFICATION — Korean Society for Technology Management & Economics (3 min) <span style="color: #bb0000; font-size: 0.7em; vertical-align: middle;">■ DECISION</span> {#i-mou-ratification--korean-society-for-technology-management--economics-3-min}
 
 On August 23, 2026, AI Nexus signed an MOU with the **Korean Society for Technology Management & Economics (기술경영경제학회)** in Seoul, establishing a partnership for academic exchange and collaborative development in AI and technology management.
 
@@ -58,7 +58,7 @@ This MOU has not yet been formally approved by the Board. Chair Yun requests Boa
 
 **Note:** Additional MOU requests may be forthcoming from **KASPA (Korean American Semiconductor Professional Alliance)** and **Seoul National University Department of Electrical and Computer Engineering (서울대학교 전기·정보공학부)**.
 
-## II. UPCOMING EVENTS BRIEF (8 min)
+## II. UPCOMING EVENTS BRIEF (8 min) <span style="color: gray; font-size: 0.7em; vertical-align: middle;">□ FOR INFORMATION</span> {#ii-upcoming-events-brief-8-min}
 
 ### A. Nov 18, 2026 — "Legal Frontiers in AI" at Stanford
 
@@ -82,46 +82,51 @@ This MOU has not yet been formally approved by the Board. Chair Yun requests Boa
 - **Format:** Year-end celebration + keynotes + networking
 - **Protocol (의전):** All protocol arrangements for Former Minister Lee are in place, including logistics
 
-## III. BANK ACCOUNT & DONATIONS (3 min)
+## III. BANK ACCOUNT & DONATIONS (3 min) <span style="color: gray; font-size: 0.7em; vertical-align: middle;">□ FOR INFORMATION</span> {#iii-bank-account--donations-3-min}
 
 AI Nexus now has a bank account as a registered 501(c)(3) nonprofit.
 
 - We can officially receive tax-deductible donations
 - Plan to announce donation capability at [Nov 18 event](/#legal-issues-ai-featured){:target="_blank"}
 
-## IV. NEW LOGO (3 min)
+## IV. NEW LOGO (3 min) <span style="color: gray; font-size: 0.7em; vertical-align: middle;">□ FOR INFORMATION</span> {#iv-new-logo-3-min}
 
 AI Nexus has a new logo ready for launch.
 
 - Plan to debut at [Nov 18 event](/#legal-issues-ai-featured){:target="_blank"}
 - **Discussion:** Rollout plan (website, social media, event materials, email signatures)
 
-## V. WEBSITE SEO — GOOGLE SEARCHABILITY (3 min)
+## ~~V. WEBSITE SEO — GOOGLE SEARCHABILITY (3 min)~~ <span style="color: gray;">— automatically resolved</span> {#v-website-seo--google-searchability-3-min}
 
-Current AI Nexus website ([{{ site.url }}](/)) needs to be Google searchable.
+✅ **Automatically resolved** — the AI Nexus website now appears at the top of Google search results for "Silicon Valley AI Nexus". No discussion needed; kept for the record.
+{: .notice--success}
 
-- Find a solution to maximize impact vs. effort
+~~Current AI Nexus website ([{{ site.url }}](/)) needs to be Google searchable.~~
+
+- ~~Find a solution to maximize impact vs. effort~~
 
 ## VI. 2027 PLANS (25 min)
 
-### A. January 2027 — No Event (2 min)
+### A. January 2027 — No Event (2 min) <span style="color: #bb0000; font-size: 0.7em; vertical-align: middle;">■ DECISION</span> {#a-january-2027--no-event-2-min}
 
-Chair Yun proposed that we skip the January 2027 event (holiday season wind-down, planning month).
+Chair Yun proposes that we skip the January 2027 event (holiday season wind-down, planning month).
 
-### B. February 2027 — Very Special Event with Consulate General (5 min)
+### B. February 2027 — Very Special Event with Consulate General (5 min) <span style="color: gray; font-size: 0.7em; vertical-align: middle;">□ FOR INFORMATION</span> {#b-february-2027--very-special-event-with-consulate-general-5-min}
 
 The **Consulate General of the Republic of Korea in San Francisco** has expressed interest in co-hosting a very special event with AI Nexus in February 2027 — distinct from our regular monthly forums in scale and format.
 
 To be discussed between AI Nexus and the Consulate General of the Republic of Korea in San Francisco.
 
-### C. Speaker Recruitment Committee (연사 섭외 위원회) — Proposal (8 min)
+### C. Speaker Recruitment Committee (연사 섭외 위원회) — Proposal (8 min) <span style="color: #bb0000; font-size: 0.7em; vertical-align: middle;">■ DECISION</span> {#c-speaker-recruitment-committee-----proposal-8-min}
+
+**Rationale:** Up to now, speakers have been recruited ad hoc, largely through the Chair's personal network. The earlier idea of forming a monthly program committee was flawed from the start: a committee convened per event cannot keep up with the pace at which AI Nexus operates, and in practice it seldom worked. A standing committee with a continuous pipeline replaces month-to-month scrambling with sustained outreach, and spreads the recruiting load beyond the Chair.
 
 Proposal to establish a dedicated **Speaker Recruitment Committee** to:
 - Build and maintain a pipeline of high-quality speakers
 - Manage speaker outreach, coordination, and scheduling
 - Ensure diverse and relevant speaker lineup across 2027 events
 
-### D. 2027 Monthly Themes (March – November) (5 min)
+### D. 2027 Monthly Themes (March – November) (5 min) <span style="color: #bb0000; font-size: 0.7em; vertical-align: middle;">■ DECISION</span> {#d-2027-monthly-themes-march--november-5-min}
 
 Proposed 9 monthly themes for 2027 events:
 
@@ -170,7 +175,7 @@ Proposed 9 monthly themes for 2027 events:
 - Should AI Nexus maintain a monthly event cadence, or move to a less frequent schedule (e.g., bimonthly, quarterly) to ensure higher quality and reduce operational burden?
 - Theme selection and prioritization
 
-### E. 2027 Sponsorship Plan (5 min)
+### E. 2027 Sponsorship Plan (5 min) <span style="color: gray; font-size: 0.7em; vertical-align: middle;">□ FOR INFORMATION</span> {#e-2027-sponsorship-plan-5-min}
 
 Proposed sponsorship partnerships:
 
@@ -186,7 +191,16 @@ Proposed sponsorship partnerships:
 ## VII. NEXT MEETING
 
 - **Date:** January 2027 (exact date TBD)
-- **Agenda preview:** 2027 execution planning, committee updates
+- **Agenda preview:** 2027 execution planning; Speaker Recruitment Committee update (if established)
+
+## PROPOSED RESOLUTIONS
+
+For Board vote at this meeting (items marked **■ DECISION** above):
+
+1. **Ratify** the MOU with the Korean Society for Technology Management & Economics signed on August 23, 2026 (Item I)
+2. **Approve** skipping the January 2027 event (Item VI.A)
+3. **Establish** the Speaker Recruitment Committee (Item VI.C)
+4. **Decide** the 2027 event cadence — monthly vs. less frequent — and endorse the proposed themes (Item VI.D)
 
 ## ACTION ITEMS
 
