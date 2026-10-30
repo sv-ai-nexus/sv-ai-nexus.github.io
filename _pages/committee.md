@@ -1,5 +1,5 @@
 ---
-last_modified_at: Tue Oct 20 00:17:56 PDT 2026
+last_modified_at: Thu Oct 29 21:02:53 PDT 2026
 layout: single
 title: AI Nexus Committees
 permalink: /committee/
@@ -66,7 +66,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;">
-	AI Master
+	AI Tech Advisor
 </td>
 <td class="kor-name">
 	황민하
