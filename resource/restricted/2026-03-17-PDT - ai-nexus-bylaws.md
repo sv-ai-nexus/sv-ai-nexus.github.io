@@ -1,6 +1,6 @@
 ---
 date: Tue Mar 17 03:38:07 PDT 2026
-last_modified_at: Sat Jul 18 23:29:30 PDT 2026
+last_modified_at: Thu Oct 29 23:20:22 PDT 2026
 layout: single
 title: Silicon Valley AI Nexus Inc. Bylaws
 permalink: /bylaws/ai-nexus
@@ -37,7 +37,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 The name of this corporation is **Silicon Valley AI Nexus Inc.**, hereinafter referred to as "AI Nexus" or "the Corporation."
 
 ### Section 1.2 Legal Status
-The Corporation is a nonprofit public benefit corporation organized under the California Nonprofit Public Benefit Corporation Law (California Corporations Code Section 5110 et seq.). Its Articles of Incorporation were filed with the California Secretary of State in July 2026.
+The Corporation is a nonprofit public benefit corporation organized under the California Nonprofit Public Benefit Corporation Law (California Corporations Code Section 5110 et seq.). Its Articles of Incorporation were filed with the California Secretary of State on July 10, 2026 (Entity No. B20260319040).
 
 ### Section 1.3 Principal Office
 The principal office of the Corporation is located at 20289 Stevens Creek Blvd #1259, Cupertino, CA 95014, or at such other location as the Board of Directors may designate from time to time. The Board may establish additional offices as the Corporation's activities require.
@@ -85,7 +85,7 @@ The Corporation shall not charge membership fees. The Corporation is sustained t
 Subject to the provisions of the California Nonprofit Public Benefit Corporation Law and any limitations in the Articles of Incorporation and these Bylaws, the activities and affairs of the Corporation shall be conducted, and all corporate powers shall be exercised, by or under the direction of the Board of Directors (hereinafter "the Board"). The Board shall have ultimate authority and responsibility for the governance, strategic direction, and oversight of AI Nexus.
 
 ### Section 3.2 Board Composition
-The Board shall consist of no fewer than five (5) and no more than nine (9) Directors, with the exact number within this range fixed by resolution of the Board. The optimal Board size is seven (7) Directors to ensure diverse perspectives while maintaining operational efficiency.
+The Board shall consist of no fewer than three (3) and no more than nine (9) Directors, with the exact number within this range fixed by resolution of the Board. The Board may begin with three (3) Directors and expand toward a target size of seven (7) Directors as the Corporation grows, to ensure diverse perspectives while maintaining operational efficiency.
 
 ### Section 3.3 Board Member Qualifications
 Directors must demonstrate:
@@ -187,7 +187,7 @@ The Board shall meet at least **quarterly** (four times per year) to conduct the
 Special meetings may be called by:
 - The Board Chair (or Co-Chairs)
 - The President/CEO
-- Any three (3) Directors submitting a written request
+- Any two (2) Directors submitting a written request
 
 Special meetings require at least **seven (7) days' notice** to all Directors unless all Directors waive the notice requirement. Notice may be given personally, by telephone, by electronic mail, or by other electronic transmission, and shall state the date, time, place (or virtual access information), and general purpose of the meeting.
 
