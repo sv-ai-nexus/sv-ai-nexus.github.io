@@ -61,7 +61,7 @@ Join us for AI Nexus's **<span style="color: red;">5th Chapter</span>**: an even
 - **Panel Moderator**: [**Bo Hyoung (Jeff) Lee, JD, PhD**](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} - Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosciences Fellow (LL.M.)
 - **Panelists**: all three speakers
 - **Sponsor**: [KIC Silicon Valley](https://www.kicsv.org/){:target="_blank"} (dinner)
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/2oncgwx">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/2oncgwx7">this link</a>!</strong></font>
 
 # Event Schedule
 
@@ -76,7 +76,7 @@ Join us for AI Nexus's **<span style="color: red;">5th Chapter</span>**: an even
 
 **Come for what legal AI can do today. Stay for what investors and courts check. Leave knowing who answers for AI's mistakes.**
 
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/2oncgwx">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/2oncgwx7">this link</a>!</strong></font>
 - Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about our AI Nexus membership for qualification and all exclusive perks you can enjoy!
 - Join us at AI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
@@ -195,4 +195,4 @@ We will see you all there!
 Best regards,<br>
 [AI Nexus Committee](/committee)
 
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/2oncgwx">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/2oncgwx7">this link</a>!</strong></font>
