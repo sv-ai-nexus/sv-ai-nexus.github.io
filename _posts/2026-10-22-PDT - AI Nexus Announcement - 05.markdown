@@ -1,6 +1,6 @@
 ---
 date: Thu Oct 22 23:31:02 PDT 2026
-last_modified_at: Sun Nov  1 22:25:41 PST 2026
+last_modified_at: Mon Nov  2 14:56:17 PST 2026
 layout: single
 title: "[AI Nexus's 5th Chapter] Legal Frontiers - AI Is Doing Legal Work. Who Signs Off? (18-Nov-2026)"
 permalink: /event-announcements/05
@@ -244,12 +244,12 @@ Experts on stage, community in the room. Most people at an AI Nexus Chapter are 
 
 <ul class="lf-timeline">
 <li class="lf-soft"><span class="lf-t">5:00pm &ndash; 5:50pm</span><span class="lf-a"><a href="#dinner-networking">Registration, Light Dinner &amp; Networking</a> (dinner generously sponsored by KIC Silicon Valley)</span></li>
-<li class="lf-soft"><span class="lf-t">5:50pm &ndash; 6:00pm</span><span class="lf-a">AI Nexus Announcements</span></li>
+<li class="lf-soft"><span class="lf-t">5:50pm &ndash; 6:00pm</span><span class="lf-a"><a href="#announcements">AI Nexus Announcements</a></span></li>
 <li><span class="lf-t">6:00pm &ndash; 6:20pm</span><span class="lf-a"><a href="#talk-1">Talk 1 &ndash; Legal AI in 2026: Who's Adopting It, How, and What's Next</a><br>Eunwon (Ann) Kang, Harvey</span></li>
 <li><span class="lf-t">6:20pm &ndash; 6:40pm</span><span class="lf-a"><a href="#talk-2">Talk 2 &ndash; Inside AI Startup Deals: What's Getting Funded, What's Getting Bought, and What Gets Checked</a><br>Catharina Min, Covington &amp; Burling</span></li>
 <li><span class="lf-t">6:40pm &ndash; 7:00pm</span><span class="lf-a"><a href="#talk-3">Talk 3 &ndash; When AI Reaches the Courtroom: AI-Assisted Filings and the Court's Own Use of AI</a><br>Judge Ji Yoon Han, Daejeon District Court</span></li>
 <li><span class="lf-t">7:00pm &ndash; 7:30pm</span><span class="lf-a"><a href="#panel-discussion">Panel Discussion + Questions from the Floor</a><br>moderated by Bo Hyoung (Jeff) Lee</span></li>
-<li class="lf-soft"><span class="lf-t">7:30pm &ndash; 8:00pm</span><span class="lf-a"><a href="#dinner-networking">Extended Networking</a></span></li>
+<li class="lf-soft"><span class="lf-t">7:30pm &ndash; 8:00pm</span><span class="lf-a"><a href="#extended-networking">Extended Networking</a></span></li>
 </ul>
 
 **Come for what legal AI can do today. Stay for what investors and courts check. Leave knowing who answers for AI's mistakes.**
@@ -258,7 +258,20 @@ Experts on stage, community in the room. Most people at an AI Nexus Chapter are 
 - Please visit [AI Nexus Membership](/membership){:target="_blank"} to learn about our AI Nexus membership for qualification and all exclusive perks you can enjoy!
 - Join us at AI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
-# Talk Details
+# Program Details
+
+## Registration, Light Dinner & Networking {#dinner-networking}
+
+**5pm - 5:50pm**
+<span style="color: blue; font-style:italic;">Dinner generously sponsored by KIC Silicon Valley.</span>
+
+We start the evening over a light dinner, so come at 5pm, eat, and meet people before the first talk.
+
+## AI Nexus Announcements {#announcements}
+
+**5:50pm - 6pm**
+
+A quick round of updates from the AI Nexus committee before the program begins: what has happened since our last Chapter, what is coming next, and how to get involved.
 
 ## Talk 1 &ndash; Legal AI in 2026: Who's Adopting It, How, and What's Next {#talk-1}
 
@@ -348,12 +361,11 @@ The three talks look at AI in legal work from the company building it, the deal 
 **<span style="color: red;">Questions from the floor are highly encouraged!</span>**
 AI Nexus forums are not one-way lectures. They are community conversations.
 
-## Dinner & Networking {#dinner-networking}
+## Extended Networking {#extended-networking}
 
-**5pm - 5:50pm** light dinner & networking, and **7:30pm - 8pm** extended networking
-<span style="color: blue; font-style:italic;">Dinner generously sponsored by KIC Silicon Valley.</span>
+**7:30pm - 8pm**
 
-We start the evening over a light dinner, so come at 5pm, eat, and meet people before the first talk. After the panel we keep the room open for extended networking, where many of the best AI Nexus moments happen: the follow-up question, the introduction to someone working on the same problem, the founder meeting the lawyer who has already seen the contract go wrong.
+After the panel we keep the room open, where many of the best AI Nexus moments happen: the follow-up question you did not get to ask, the introduction to someone working on the same problem, the founder meeting the lawyer who has already seen the contract go wrong.
 
 # Why This Forum Matters
 
@@ -398,7 +410,9 @@ We will see you all there!
 Best regards,<br>
 [AI Nexus Committee](/committee)
 
+<!--
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/2oncgwx7">this link</a>!</strong></font>
+-->
 
 <script>
 (function () {
