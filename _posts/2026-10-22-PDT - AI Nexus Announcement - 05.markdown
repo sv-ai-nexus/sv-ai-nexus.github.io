@@ -1,6 +1,6 @@
 ---
 date: Thu Oct 22 23:31:02 PDT 2026
-last_modified_at: Mon Nov  2 14:56:17 PST 2026
+last_modified_at: Tue Nov  3 23:34:41 PST 2026
 layout: single
 title: "[AI Nexus's 5th Chapter] Legal Frontiers - AI Is Doing Legal Work. Who Signs Off? (18-Nov-2026)"
 permalink: /event-announcements/05
@@ -177,7 +177,7 @@ to share this forum!
 
 AI is already drafting contracts, reviewing documents, and flagging legal risk. Law firms and in-house teams are adopting it, investors are pricing it into deals, and it is showing up in court filings. But when AI does work that once required a lawyer's or a judge's judgment, <span class="emph">who is accountable?</span>
 
-For our **<span style="color: red;">5th Chapter</span>** we put three people on one stage who see that question from three different seats: the engineer building legal AI, the deal lawyer vetting AI companies, and the judge who decides what happens when AI-assisted work reaches the courtroom. Light dinner first, generously sponsored by **KIC Silicon Valley**, then three talks, one panel, and extended networking.
+For our **<span style="color: red;">5th Chapter</span>** we put three people on one stage who see that question from three different seats: the engineer building legal AI, the deal lawyer vetting AI companies, and the judge who decides what happens when AI-assisted work reaches the courtroom. Light dinner first, generously sponsored by **KIC Silicon Valley**, then three talks with Q&A after each, and a panel discussion to close the evening.
 
 <div class="img-container-justified">
 &nbsp;
@@ -201,7 +201,7 @@ For our **<span style="color: red;">5th Chapter</span>** we put three people on 
 <p class="lf-name"><a target="_blank" href="https://www.linkedin.com/in/catharina-min-b2b6515/">Catharina Min</a></p>
 <p class="lf-aff">Partner @ Covington &amp; Burling</p>
 <p class="lf-talk">What's getting funded, what's getting bought, and what investors and acquirers actually check.</p>
-<span class="lf-when">6:20pm &middot; Talk 2</span>
+<span class="lf-when">6:30pm &middot; Talk 2</span>
 </div>
 <div class="lf-card lf-reveal">
 <div class="lf-icon">🏛️</div>
@@ -209,7 +209,7 @@ For our **<span style="color: red;">5th Chapter</span>** we put three people on 
 <p class="lf-name">Ji Yoon Han</p>
 <p class="lf-aff">Judge @ Daejeon District Court (former member of the Judicial AI Research Society)</p>
 <p class="lf-talk">The problems courts see in AI-assisted filings, and how courts are starting to use AI themselves.</p>
-<span class="lf-when">6:40pm &middot; Talk 3</span>
+<span class="lf-when">7:00pm &middot; Talk 3</span>
 </div>
 </div>
 
@@ -245,11 +245,10 @@ Experts on stage, community in the room. Most people at an AI Nexus Chapter are 
 <ul class="lf-timeline">
 <li class="lf-soft"><span class="lf-t">5:00pm &ndash; 5:50pm</span><span class="lf-a"><a href="#dinner-networking">Registration, Light Dinner &amp; Networking</a> (dinner generously sponsored by KIC Silicon Valley)</span></li>
 <li class="lf-soft"><span class="lf-t">5:50pm &ndash; 6:00pm</span><span class="lf-a"><a href="#announcements">AI Nexus Announcements</a></span></li>
-<li><span class="lf-t">6:00pm &ndash; 6:20pm</span><span class="lf-a"><a href="#talk-1">Talk 1 &ndash; Legal AI in 2026: Who's Adopting It, How, and What's Next</a><br>Eunwon (Ann) Kang, Harvey</span></li>
-<li><span class="lf-t">6:20pm &ndash; 6:40pm</span><span class="lf-a"><a href="#talk-2">Talk 2 &ndash; Inside AI Startup Deals: What's Getting Funded, What's Getting Bought, and What Gets Checked</a><br>Catharina Min, Covington &amp; Burling</span></li>
-<li><span class="lf-t">6:40pm &ndash; 7:00pm</span><span class="lf-a"><a href="#talk-3">Talk 3 &ndash; When AI Reaches the Courtroom: AI-Assisted Filings and the Court's Own Use of AI</a><br>Judge Ji Yoon Han, Daejeon District Court</span></li>
-<li><span class="lf-t">7:00pm &ndash; 7:30pm</span><span class="lf-a"><a href="#panel-discussion">Panel Discussion + Questions from the Floor</a><br>moderated by Bo Hyoung (Jeff) Lee</span></li>
-<li class="lf-soft"><span class="lf-t">7:30pm &ndash; 8:00pm</span><span class="lf-a"><a href="#extended-networking">Extended Networking</a></span></li>
+<li><span class="lf-t">6:00pm &ndash; 6:30pm</span><span class="lf-a"><a href="#talk-1">Talk 1 &ndash; Legal AI in 2026: Who's Adopting It, How, and What's Next</a><br>Eunwon (Ann) Kang, Harvey &middot; 20-min talk + 10-min Q&amp;A</span></li>
+<li><span class="lf-t">6:30pm &ndash; 7:00pm</span><span class="lf-a"><a href="#talk-2">Talk 2 &ndash; Inside AI Startup Deals: What's Getting Funded, What's Getting Bought, and What Gets Checked</a><br>Catharina Min, Covington &amp; Burling &middot; 20-min talk + 10-min Q&amp;A</span></li>
+<li><span class="lf-t">7:00pm &ndash; 7:30pm</span><span class="lf-a"><a href="#talk-3">Talk 3 &ndash; When AI Reaches the Courtroom: AI-Assisted Filings and the Court's Own Use of AI</a><br>Judge Ji Yoon Han, Daejeon District Court &middot; 20-min talk + 10-min Q&amp;A</span></li>
+<li><span class="lf-t">7:30pm &ndash; 8:00pm</span><span class="lf-a"><a href="#panel-discussion">Panel Discussion + Questions from the Floor</a><br>moderated by Bo Hyoung (Jeff) Lee</span></li>
 </ul>
 
 **Come for what legal AI can do today. Stay for what investors and courts check. Leave knowing who answers for AI's mistakes.**
@@ -360,12 +359,6 @@ The three talks look at AI in legal work from the company building it, the deal 
 
 **<span style="color: red;">Questions from the floor are highly encouraged!</span>**
 AI Nexus forums are not one-way lectures. They are community conversations.
-
-## Extended Networking {#extended-networking}
-
-**7:30pm - 8pm**
-
-After the panel we keep the room open, where many of the best AI Nexus moments happen: the follow-up question you did not get to ask, the introduction to someone working on the same problem, the founder meeting the lawyer who has already seen the contract go wrong.
 
 # Why This Forum Matters
 
