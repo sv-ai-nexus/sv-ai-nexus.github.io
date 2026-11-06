@@ -1,6 +1,6 @@
 ---
 date: Thu Oct 22 23:31:02 PDT 2026
-last_modified_at: Tue Nov  3 23:34:41 PST 2026
+last_modified_at: Thu Nov  5 20:50:10 PST 2026
 layout: single
 title: "[AI Nexus's 5th Chapter] Legal Frontiers - AI Is Doing Legal Work. Who Signs Off? (18-Nov-2026)"
 permalink: /event-announcements/05
@@ -142,6 +142,7 @@ to share this forum!
 <li>🕔 5pm &ndash; 8pm PST</li>
 <li>📍 EVGR C Theater, Stanford</li>
 <li>🍽 Light dinner by KIC Silicon Valley</li>
+<li>🌎 Also LIVE online</li>
 </ul>
 <p class="lf-fade" style="margin:0">
 <a class="lf-cta" target="_blank" href="https://luma.com/2oncgwx7">Register on Luma &rarr;</a>
@@ -171,6 +172,14 @@ to share this forum!
 </svg>
 </div>
 </div>
+</div>
+
+<div class="notice--warning">
+<strong>🌎 Broadcasting LIVE &mdash; from this Chapter onward!</strong><br>
+Starting with Legal Frontiers, AI Nexus will broadcast <strong>every Chapter live online</strong>, so you can join us from Seoul, New York, Boston, or anywhere else.
+The Zoom link is below and will also be sent to registrants before the event.
+In-person seats include dinner and the in-room Q&amp;A; attending online counts toward <a href="/membership">AI Nexus membership</a> too.<br>
+<strong>👉 <a target="_blank" href="https://stanford.zoom.us/j/98682655980?pwd=BnaSOOFVgVL7TBhilgeqXLImbG06f4.1">Or join online via Zoom</a></strong>
 </div>
 
 # Invitation
@@ -216,6 +225,7 @@ For our **<span style="color: red;">5th Chapter</span>** we put three people on 
 - **Date**: 18-Nov-2026 (wed)
 - **Time**: 5pm -- 8pm (Pacific Standard Time)
 - **Venue**: [EVGR C Theater](https://maps.app.goo.gl/Q82ryJVr1YEJ3cgC8){:target="_blank"}, [Stanford University](https://www.stanford.edu/){:target="_blank"}
+- **Or join online**: 🌎 [Zoom link](https://stanford.zoom.us/j/98682655980?pwd=BnaSOOFVgVL7TBhilgeqXLImbG06f4.1){:target="_blank"} &mdash; live broadcast, and every Chapter from now on
 - **Panel Moderator**: [**Bo Hyoung (Jeff) Lee, JD, PhD**](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} - Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosciences Fellow (LL.M.)
 - **Panelists**: all three speakers
 - **Sponsor**: [KIC Silicon Valley](https://www.kicsv.org/){:target="_blank"} (dinner)
@@ -238,7 +248,7 @@ For our **<span style="color: red;">5th Chapter</span>** we put three people on 
 <div class="lf-stat"><div class="lf-num">6</div><div class="lf-lab">member-led interest groups</div></div>
 </div>
 
-Experts on stage, community in the room. Most people at an AI Nexus Chapter are not lawyers. They are engineers, founders, researchers, investors, and students who want to understand the rules they are already living under, and the conversation over dinner and afterwards is as much the point as the talks. Attend once and you qualify for [membership](/membership){:target="_blank"}; then join the [Members KakaoTalk chatroom](/#join-us-at-kakaotalk){:target="_blank"}.
+Experts on stage, community in the room. Most people at an AI Nexus Chapter are not lawyers. They are engineers, founders, researchers, investors, and students who want to understand the rules they are already living under, and the conversation over dinner and afterwards is as much the point as the talks. Attend once, in person or online, and you qualify for [membership](/membership){:target="_blank"}; then join the [Members KakaoTalk chatroom](/#join-us-at-kakaotalk){:target="_blank"}.
 
 # Event Schedule
 
